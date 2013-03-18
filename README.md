@@ -29,13 +29,13 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: | :------ |  
 | 18/3 *13:15-15:00* | HA4 | Introduction | ME | [L1] | TBA |  
-| 8/4 *13:15-15:00* | HA4 | Introduction | ME | [L2] |  |  
-| 15/4 *13:15-15:00* | HA4 | Introduction | ME | [L3] |  |  
-| 22/4 *13:15-15:00* | HA4 | Introduction | ME | [L4] |  |  
-| 29/4 *13:15-15:00* | HA4 | Introduction | ME | [L5] |  |  
-| 6/5 *13:15-15:00* | HA4 | Introduction | ME | [L6] |  |  
-| 13/5 *13:15-15:00* | HA4 | Introduction | ME | [L7] |  |  
-| 20/5 *13:15-15:00* | HA4 | Introduction | ME | [L8] |  |  
+| 8/4 *13:15-15:00* | HA4 | Non-introduction | ME | [L2] |  |  
+| 15/4 *13:15-15:00* | HA4 | Non-introduction | ME | [L3] |  |  
+| 22/4 *13:15-15:00* | HA4 | Non-introduction | ME | [L4] |  |  
+| 29/4 *13:15-15:00* | HA4 | Non-introduction | ME | [L5] |  |  
+| 6/5 *13:15-15:00* | HA4 | Non-introduction | ME | [L6] |  |  
+| 13/5 *13:15-15:00* | HA4 | Non-introduction | ME | [L7] |  |  
+| 20/5 *13:15-15:00* | HA4 | Non-introduction | ME | [L8] |  |  
 | 27/5 *13:15-17:00* | EC | **Project handoff** | ME | |
 | 28/5 *13:15-17:00* | EC | **Project handoff** | ME | |
 | 29/5 *13:15-17:00* | EC | **Project handoff** | ME | |
