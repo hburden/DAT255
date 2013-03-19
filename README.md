@@ -26,22 +26,26 @@ After passing the course, you will be able to lead agile projects, work without 
 
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Tutorials are always on Wednesdays 13:15-15:00 and Fridays 13:15-15:00
 
-| Date & Time | Room(s) | Theme |Who | Slides | Readings | 
-|  ------	| :----:	| ------	| :------: |  :------: | :------ |  
-| 18/3 *13:15-15:00* | HA4 | Introduction | ME | [L1] | TBA |  
-| 8/4 *13:15-15:00* | HA4 | Introduction | ME | [L2] |  |  
-| 15/4 *13:15-15:00* | HA4 | Introduction | ME | [L3] |  |  
-| 22/4 *13:15-15:00* | HA4 | Introduction | ME | [L4] |  |  
-| 29/4 *13:15-15:00* | HA4 | Introduction | ME | [L5] |  |  
-| 6/5 *13:15-15:00* | HA4 | Introduction | ME | [L6] |  |  
-| 13/5 *13:15-15:00* | HA4 | Introduction | ME | [L7] |  |  
-| 20/5 *13:15-15:00* | HA4 | Introduction | ME | [L8] |  |  
-| 27/5 *13:15-17:00* | EC | **Project handoff** | ME | |
-| 28/5 *13:15-17:00* | EC | **Project handoff** | ME | |
-| 29/5 *13:15-17:00* | EC | **Project handoff** | ME | |
+| Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
+|  ------	| :----:	| ------	| :------: |  :------: |:------: | :------ |  
+| 18/3 *13:15-15:00* | HA4 | Introduction | ME | [L1] | [1][V11], [2][V12]| TBA |  
+| 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [L2] | | |  
+| 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | |  |  
+| 22/4 *13:15-15:00* | HA4 | | ME | [L4] | | |  
+| 29/4 *13:15-15:00* | HA4 | | ME | [L5] | | |  
+| 6/5 *13:15-15:00* | HA4 | | ME | [L6] | | |  
+| 13/5 *13:15-15:00* | HA4 | | ME | [L7] |  |  |  
+| 20/5 *13:15-15:00* | HA4 | | ME | [L8] |  |  |  
+| 27/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
+| 28/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
+| 29/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
 
  
 [timeedit]: http://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201062.182&ox=0&types=0&fe=0
+
+[V11]: http://svncs.lnu.se/cth/dat255_1_1.mp4
+[V12]: http://svncs.lnu.se/cth/dat255_1_2.mp4
+
 
 ## Examination
 The examination consists of three parts:
