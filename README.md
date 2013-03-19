@@ -53,7 +53,7 @@ The examination consists of three parts:
 
 2. A  **[Post-mortem Report][PMR]** that outlines your experience with agile practices during the software development project. (individual)
 
-To pass the course it is extremely important that you read all the course material, participate in lectures and are active in and finish your project. If you do not you will fail! Remember that this is a master level course and requires considerably more than most bachelor level courses.
+To pass the course it is extremely important that you are active in and finish your project. If you do not you will fail!
 
 [PMR]: http://lalala.com
 [SDP]: http://lalala.com
