@@ -59,3 +59,11 @@ To pass the course it is extremely important that you are active in and finish y
 
 [PMR]: http://lalala.com
 [SDP]: http://lalala.com
+
+## Sample project
+To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester.
+
+[WatchMe for Android][WTCHME]
+
+
+[WTCHME]: http://github.com/johanbrook/watchme
