@@ -32,7 +32,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: |:------: | :------ |  
 | 18/3 *13:15-15:00* | HA4 | Introduction | ME | [L1] | [1][V11], [2][V12]| TBA |
-| 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | | | [Git][GITBOOK] | 
+| 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | [Lgit][P1] | | [Git][GITBOOK], Read presenter notes in the slides | 
 | 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [L2] | | |  
 | 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | |  |  
 | 22/4 *13:15-15:00* | HA4 | | ME | [L4] | | |  
@@ -47,6 +47,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [timeedit]: http://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201062.182&ox=0&types=0&fe=0
 [GITBOOK]: http://git-scm.com/book
 
+[P1]: https://docs.google.com/presentation/d/1UXDaYpTsJ1BcB4YEdr6uFkF2UaJJaNXo7O7yOYr436I/pub?start=false&loop=false&delayms=3000
 [V11]: http://svncs.lnu.se/cth/dat255_1_1.mp4
 [V12]: http://svncs.lnu.se/cth/dat255_1_2.mp4
 
