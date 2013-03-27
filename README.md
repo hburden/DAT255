@@ -32,6 +32,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: |:------: | :------ |  
 | 18/3 *13:15-15:00* | HA4 | Introduction | ME | [L1] | [1][V11], [2][V12]| TBA |
+| | | Virtual Lecture on Android | ME | [L2] | [1][V21], [2][V21] | TBA |
 | 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | [Lgit][P1] | | [Git][GITBOOK], Read presenter notes in the slides | 
 | 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [L2] | | |  
 | 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | |  |  
@@ -50,6 +51,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [P1]: https://docs.google.com/presentation/d/1UXDaYpTsJ1BcB4YEdr6uFkF2UaJJaNXo7O7yOYr436I/pub?start=false&loop=false&delayms=3000
 [V11]: http://svncs.lnu.se/cth/dat255_1_1.mp4
 [V12]: http://svncs.lnu.se/cth/dat255_1_2.mp4
+[V21]: http://svncs.lnu.se/cth/eda397_2_1.mp4
+[V22]: http://svncs.lnu.se/cth/eda397_2_2.mp4
 
 
 ## Examination
