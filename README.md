@@ -31,10 +31,10 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: |:------: | :------ |  
-| 18/3 *13:15-15:00* | HA4 | Introduction | ME | [L1] | [1][V11], [2][V12]| TBA |
+| 18/3 *13:15-15:00* | HA4 | Introduction | ME | [1][L1] | [1][V11], [2][V12]| TBA |
 | | | Virtual Lecture on Android | ME | [L2] | [1][V21], [2][V21] | TBA |
 | 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | [Lgit][P1] | [Youtube playlist][gitFL] | [Git][GITBOOK], Read presenter notes in the slides | 
-| 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [L2] | | |  
+| 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [2][L2] | | |  
 | 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | |  |  
 | 22/4 *13:15-15:00* | HA4 | | ME | [L4] | | |  
 | 29/4 *13:15-15:00* | HA4 | | ME | [L5] | | |  
@@ -54,7 +54,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [V21]: http://svncs.lnu.se/cth/eda397_2_1.mp4
 [V22]: http://svncs.lnu.se/cth/eda397_2_2.mp4
 [gitFL]: http://www.youtube.com/playlist?list=PLeGWawrow95fDhXYx6co5LeaNeWXP-v3i&feature=view_all
-
+[L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
+[L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
 
 ## Examination
 The examination consists of three parts:
