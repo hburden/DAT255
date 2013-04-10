@@ -21,7 +21,6 @@ After passing the course, you will be able to lead agile projects, work without 
 - Morgan Ericsson (ME), ext 6075, room 423, morgan.ericsson@chalmers.se (lecturer)
 - Erik Axelsson (EA) erikax [at] student.chalmers.se (teaching assistant)
 - Max Witt (MW) wmax [at] student.chalmers.se(teaching assistant)
-- N.N. (TA)
 
 ## Course Litteratur
 
