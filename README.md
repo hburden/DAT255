@@ -32,7 +32,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: |:------: | :------ |  
 | 18/3 *13:15-15:00* | HA4 | Introduction | ME | [1][L1] | [1][V11], [2][V12]| TBA |
-| | | Virtual Lecture on Android | ME | [L2] | [1][V21], [2][V21] | TBA |
+| | | Virtual Lecture on Android | ME | [L2] | [1][V21], [2][V22] | TBA |
 | 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | [Lgit][P1] | [Youtube playlist][gitFL] | [Git][GITBOOK], Read presenter notes in the slides | 
 | 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [2][L2] | | |  
 | 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | |  |  
