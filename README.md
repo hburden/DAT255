@@ -31,10 +31,10 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: |:------: | :------ |  
 | 18/3 *13:15-15:00* | HA4 | Introduction | ME | [1][L1] | [1][V11], [2][V12]| TBA |
-| | | Virtual Lecture on Android | ME | [L2] | [1][V21], [2][V22] | TBA |
+| | | Virtual Lecture on Android | ME | [L2] | [1][VA1], [2][VA2] | TBA |
 | 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | [Lgit][P1] | [Youtube playlist][gitFL] | [Git][GITBOOK], Read presenter notes in the slides | 
-| 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [2][L2] | | |  
-| 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | |  |  
+| 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [2][L2] | [1][V21], [2][V22] | |  
+| 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | [1][V31], [2][V32] |  |  
 | 22/4 *13:15-15:00* | HA4 | | ME | [L4] | | |  
 | 29/4 *13:15-15:00* | HA4 | | ME | [L5] | | |  
 | 6/5 *13:15-15:00* | HA4 | | ME | [L6] | | |  
@@ -48,10 +48,14 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [GITBOOK]: http://git-scm.com/book
 
 [P1]: https://docs.google.com/presentation/d/1UXDaYpTsJ1BcB4YEdr6uFkF2UaJJaNXo7O7yOYr436I/pub?start=false&loop=false&delayms=3000
-[V11]: http://svncs.lnu.se/cth/dat255_1_1.mp4
-[V12]: http://svncs.lnu.se/cth/dat255_1_2.mp4
-[V21]: http://svncs.lnu.se/cth/eda397_2_1.mp4
-[V22]: http://svncs.lnu.se/cth/eda397_2_2.mp4
+[V11]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_1_1.mp4
+[V12]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_1_2.mp4
+[VA1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_1.mp4
+[VA2]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
+[V21]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_2_1.mp4
+[V22]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_2_2.mp4
+[V31]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_3_1.mp4
+[V32]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_3_2.mp4
 [gitFL]: http://www.youtube.com/playlist?list=PLeGWawrow95fDhXYx6co5LeaNeWXP-v3i&feature=view_all
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
