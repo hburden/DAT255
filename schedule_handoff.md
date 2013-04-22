@@ -8,7 +8,7 @@ Each group will have about 30 minutes to present, so a new slot will begin every
 
 1. Group 5
 2. Group 7
-3. Free
+3. Group 9
 4. Free
 5. Spare
 
