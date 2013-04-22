@@ -10,7 +10,7 @@ Each group will have about 30 minutes to present, so a new slot will begin every
 2. Group 7
 3. AndroidSquad
 4. Group 9
-5. Spare
+5. Group 8
 
 ## 28/5 13:15-17:00
 
