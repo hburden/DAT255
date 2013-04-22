@@ -41,8 +41,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 13/5 *13:15-15:00* | HA4 | | ME | [L7] |  |  |  
 | 20/5 *13:15-15:00* | HA4 | | ME | [L8] |  |  |  
 | 27/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
-| 28/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
-| 29/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
+| 28/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
+| 29/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
  
 [timeedit]: http://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201062.182&ox=0&types=0&fe=0
 [GITBOOK]: http://git-scm.com/book
