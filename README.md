@@ -40,7 +40,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 6/5 *13:15-15:00* | HA4 | | ME | [L6] | | |  
 | 13/5 *13:15-15:00* | HA4 | | ME | [L7] |  |  |  
 | 20/5 *13:15-15:00* | HA4 | | ME | [L8] |  |  |  
-| 27/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
+| 27/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
 | 28/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
 | 29/5 *13:15-17:00* | EC | **Project handoff** | ME | | | |
  
@@ -59,6 +59,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [gitFL]: http://www.youtube.com/playlist?list=PLeGWawrow95fDhXYx6co5LeaNeWXP-v3i&feature=view_all
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
+
+[psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
 
 ## Examination
 The examination consists of three parts:
