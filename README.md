@@ -33,10 +33,10 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | [Lgit][P1] | [Youtube playlist][gitFL] | [Git][GITBOOK], Read presenter notes in the slides | 
 | 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [2][L2] | [1][V21], [2][V22] | |  
 | 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [3][L3] | [1][V31], [2][V32] |  |  
-| 22/4 *13:15-15:00* | HA4 | | Object-Oriented Analysis and Design | [4][L4] | | |  
-| 29/4 *13:15-15:00* | HA4 | | Testing | [5][L5] | | |  
-| 6/5 *13:15-15:00* | HA4 | | Documentation | [L6] | | |  
-| 20/5 *13:15-15:00* | HA4 | | Wrap-up | [L7] |  |  |  
+| 22/4 *13:15-15:00* | HA4 | Object-Oriented Analysis and Design |  | [4][L4] | | |  
+| 29/4 *13:15-15:00* | HA4 | Testing |  | [5][L5] | | |  
+| 6/5 *13:15-15:00* | HA4 | Documentation |  | [L6] | | |  
+| 20/5 *13:15-15:00* | HA4 | Wrap-up |  | [L7] |  |  |  
 | 27/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
 | 28/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
 | 29/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
