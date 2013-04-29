@@ -1,7 +1,5 @@
 # Software Engineering Project - lp4, vt2013
 
-** Video links are dead at the moment. I am working on a solution to get everything back up asap **
-
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
@@ -34,12 +32,11 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | | | Virtual Lecture on Android | ME | [L2] | [1][VA1], [2][VA2] | TBA |
 | 22/3 *13:15-16:00 | HC3 | Tutorial: Git | MW | [Lgit][P1] | [Youtube playlist][gitFL] | [Git][GITBOOK], Read presenter notes in the slides | 
 | 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [2][L2] | [1][V21], [2][V22] | |  
-| 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [L3] | [1][V31], [2][V32] |  |  
-| 22/4 *13:15-15:00* | HA4 | | ME | [L4] | | |  
-| 29/4 *13:15-15:00* | HA4 | | ME | [L5] | | |  
-| 6/5 *13:15-15:00* | HA4 | | ME | [L6] | | |  
-| 13/5 *13:15-15:00* | HA4 | | ME | [L7] |  |  |  
-| 20/5 *13:15-15:00* | HA4 | | ME | [L8] |  |  |  
+| 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [3][L3] | [1][V31], [2][V32] |  |  
+| 22/4 *13:15-15:00* | HA4 | | Object-Oriented Analysis and Design | [4][L4] | | |  
+| 29/4 *13:15-15:00* | HA4 | | Testing | [5][L5] | | |  
+| 6/5 *13:15-15:00* | HA4 | | Documentation | [L6] | | |  
+| 20/5 *13:15-15:00* | HA4 | | Wrap-up | [L7] |  |  |  
 | 27/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
 | 28/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
 | 29/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
@@ -56,23 +53,27 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [V22]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_2_2.mp4
 [V31]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_3_1.mp4
 [V32]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_3_2.mp4
+[V41]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_4_1.mp4
+[V42]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_4_2.mp4
 [gitFL]: http://www.youtube.com/playlist?list=PLeGWawrow95fDhXYx6co5LeaNeWXP-v3i&feature=view_all
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
+[L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
+[L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
+[L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
 
 [psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
 
 ## Examination
 The examination consists of three parts:
 
-1. A **[Software Development project][SDP]** where you work in groups to develop an Android  app using agile practices.
+1. A **Software Development project** where you work in groups to develop an Android app using agile practices.
 
 2. A  **[Post-mortem Report][PMR]** that outlines your experience with agile practices during the software development project. (individual)
 
-To pass the course it is extremely important that you are active in and finish your project. If you do not you will fail!
+The project and post-mortem report will influense your final grade according to the [Grading Policy](https://github.com/morganericsson/DAT255/wiki/Grading-Policy)
 
-[PMR]: http://lalala.com
-[SDP]: http://lalala.com
+[PMR]: https://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester.
