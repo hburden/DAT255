@@ -35,7 +35,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [3][L3] | [1][V31], [2][V32] |  |  
 | 22/4 *13:15-15:00* | HA4 | Object-Oriented Analysis and Design | ME | [4][L4] | [1][V41], [2][V42]| |  
 | 29/4 *13:15-15:00* | HA4 | Testing | ME | [5][L5] | [Lecture 1][V51], [2][V52], [Unit Testing 1][UT1], [2][UT2] | |  
-| 6/5 *13:15-15:00* | HA4 | Documentation | ME | [L6] | | |  
+| 6/5 *13:15-15:00* | HA4 | Documentation | ME | [6][L6] | | |  
 | 20/5 *13:15-15:00* | HA4 | Wrap-up | ME | [L7] |  |  |  
 | 27/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
 | 28/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
@@ -63,6 +63,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
 [L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
+[L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
+
 
 [UT1]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
 [UT2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
