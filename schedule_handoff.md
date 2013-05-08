@@ -14,7 +14,7 @@ Each group will have about 30 minutes to present, so a new slot will begin every
 
 ## 28/5 13:15-17:00
 
-1. Free
+1. Group 4
 2. Free
 3. Free
 4. Free
