@@ -34,7 +34,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 8/4 *13:15-15:00* | HA4 | Project Management/Scrum | ME | [2][L2] | [1][V21], [2][V22] | |  
 | 15/4 *13:15-15:00* | HA4 | eXtreme Programming | ME | [3][L3] | [1][V31], [2][V32] |  |  
 | 22/4 *13:15-15:00* | HA4 | Object-Oriented Analysis and Design | ME | [4][L4] | [1][V41], [2][V42]| |  
-| 29/4 *13:15-15:00* | HA4 | Testing | ME | [5][L5] | [Lecture 1][V51], [2][V52], [Unit Testing 1][UT1], [2][UT2] | |  
+| 29/4 *13:15-15:00* | HA4 | Testing | ME | [5][L5] | [1][V51], [2][V52], [Unit Testing 1][UT1], [2][UT2] | |  
 | 6/5 *13:15-15:00* | HA4 | Documentation | ME | [6][L6] | | |  
 | 20/5 *13:15-15:00* | HA4 | Wrap-up | ME | [L7] |  |  |  
 | 27/5 *13:15-17:00* | EC | **Project handoff** ([Schedule][psched]) | ME | | | |
@@ -55,8 +55,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [V32]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_3_2.mp4
 [V41]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_4_1.mp4
 [V42]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_4_2.mp4
-[V41]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_5_1.mp4
-[V42]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_5_2.mp4
+[V51]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_5_1.mp4
+[V52]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_5_2.mp4
 [gitFL]: http://www.youtube.com/playlist?list=PLeGWawrow95fDhXYx6co5LeaNeWXP-v3i&feature=view_all
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
