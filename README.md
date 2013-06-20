@@ -1,5 +1,7 @@
 # Software Engineering Project - lp4, vt2013
 
+*The grades are on their way into Ladok. If you want to know your grade, or get feedback on your work, please contact me (Morgan) or your project supervisor (Max or Erik)*
+
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
