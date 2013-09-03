@@ -1,4 +1,4 @@
-# Software Engineering Project - lp1, ht2013
+# Software Engineering Project - HT13
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -42,7 +42,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 22/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
 | 23/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
  
-[timeedit]: http://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201062.182&ox=0&types=0&fe=0
+[timeedit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?base=c2lkPTMmcD0yMDEzMDYxNy54JTJDMjAxNDAxMjQueCZvYmplY3RzPTIwMTA2Mi4xODImb3g9MCZ0eXBlcz0wJmZlPTAmaD1mJmgyPWY_
 [GITBOOK]: http://git-scm.com/book
 
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
