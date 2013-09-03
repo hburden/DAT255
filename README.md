@@ -30,7 +30,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 2/9 *10:00-11:45* | HC4 | **Introduction** | ME | [1][L1] |
-| 4/9 *10:00-11:45* | HC4 | **Software Engineering and XP** | ME | |
+| 4/9 *10:00-11:45* | HC4 | **Software Engineering and XP** | ME | [2][L2]|
 | 9/9 *10:00-11:45* | HC4 | **SCRUM** | TL | |
 | 11/9 *10:00-11:45* | HC4 | **Git and Android** | ME | |
 | 16/9 *10:00-11:15* | HC4 | **Quality and Testing** | ME | |
