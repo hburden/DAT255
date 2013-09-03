@@ -41,6 +41,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 21/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
 | 22/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
 | 23/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
+
+There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to Oct 17. Tutorials/supervision sessions with be either Tuesdays or Wednesday at 10:00-11:45. Your supervisor will assign you a time slot and a room (please discuss any changes to this with your supervisor).
  
 [timeedit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?base=c2lkPTMmcD0yMDEzMDYxNy54JTJDMjAxNDAxMjQueCZvYmplY3RzPTIwMTA2Mi4xODImb3g9MCZ0eXBlcz0wJmZlPTAmaD1mJmgyPWY_
 [GITBOOK]: http://git-scm.com/book
@@ -50,10 +52,25 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 [psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
 
+## Hand-ins
+
+You will release a version of your project every Friday. For each release we will introduce additional critera that are used to "judge" the release.
+
+| Course Week | What to include / what will be checked |
+| :---------: | -------------------------------------- |
+| 1 | Form a group and submit three app ideas |
+| 2 | Submit a vision (with features) for your selected app | 
+| 3 | **Release 1**: Your should have a Git repo with an initial version of your app |
+| 4 | **Release 2**: focus on testing |
+| 5 | **Release 3**: focus on code quality |
+| 6 | **Release 4**: Final release, focus on product quality |
+| 7 | **Release 5**: Bug fixes and polish |
+| 8 | Post-mortem report |
+
 ## Examination
 
 ## Sample project
-To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester.
+To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester (2012).
 
 [WatchMe for Android][WTCHME]
 
