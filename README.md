@@ -19,7 +19,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Morgan Ericsson (ME), ext 6075, room 423, morgan.ericsson@chalmers.se (lecturer)
 - Thomas Luvö (TL) (lecturer)
 
-## Course Litteratur / Recommended reads
+## Course Litteratur / Recommended reading
 
 - [Pro Git][GITBOOK]
 
