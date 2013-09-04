@@ -33,11 +33,11 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 4/9 *10:00-11:45* | HC4 | **Software Engineering and XP** | ME | [2][L2]|
 | 9/9 *10:00-11:45* | HC4 | **SCRUM** | TL | |
 | 11/9 *10:00-11:45* | HC4 | **Git and Android** | ME | |
-| 16/9 *10:00-11:15* | HC4 | **Quality and Testing** | ME | |
-| 23/9 *10:00-11:15* | HC4 | **Agile and Project Management 1** | TL | |
-| 30/9 *10:00-11:15* | HC4 | **Design and Architecture** | ME | |
-| 7/10 *10:00-11:15* | HC4 | **Agile and Project Management 2** | TL | |
-| 14/10 *10:00-11:15* | HC4 | **Agile and Project Management 3** | TL | |
+| 16/9 *10:00-11:45* | HC4 | **Quality and Testing** | ME | |
+| 23/9 *10:00-11:45* | HC4 | **Agile and Project Management 1** | TL | |
+| 30/9 *10:00-11:45* | HC4 | **Design and Architecture** | ME | |
+| 7/10 *10:00-11:45* | HC4 | **Agile and Project Management 2** | TL | |
+| 14/10 *10:00-11:45* | HC4 | **Agile and Project Management 3** | TL | |
 | 21/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
 | 22/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
 | 23/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | | |
