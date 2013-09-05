@@ -27,3 +27,7 @@ Christian Meijner, Markus Andersson Norén, Johanna Hartman, Hampus Forsvall, Jo
 ### Group 7
 
 Christoffer Matsson, Emma Håkansson, Linnea Andersson, Andreas Wahlström, Anton Bergman, and Emil Kristiansson
+
+### Group 8
+
+Niclas Alexandersson, Oskar Dahlberg, Erik Gunnarsson, Peter Hillerström, Pontus Khosravi, and Leif Schelin
