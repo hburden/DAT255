@@ -18,6 +18,7 @@ After passing the course, you will be able to lead agile projects, work without 
 
 - Morgan Ericsson (ME), ext 6075, room 423, morgan.ericsson@chalmers.se (lecturer)
 - Thomas Luvö (TL) (lecturer)
+
 ## TAs
 - Erik Axelsson erikax@student.chalmers.se
 - Rasmus Egerö egero@student.chalmers.se
@@ -25,6 +26,14 @@ After passing the course, you will be able to lead agile projects, work without 
 - Tomas Urdell urdell@student.chalmers.se
 - Erik Ivarsson erikduvet@gmail.com
 - Robert Edström edstromr@student.chalmers.se
+
+## Student Representatives
+
+- Jonas Berglund (jonbergl@student.chalmers.se)
+- Patrik Fritzner (fritzner@student.chalmers.se)
+- Gustav Simonsson (gussim@student.chalmers.se)
+- Anders Hallgren (andehall@student.chalmers.se)
+- Lucas Persson (lucasp@student.chalmers.se)
 
 ## Course Litteratur / Recommended reading
 

@@ -31,3 +31,15 @@ Christoffer Matsson, Emma Håkansson, Linnea Andersson, Andreas Wahlström, Anto
 ### Group 8
 
 Niclas Alexandersson, Oskar Dahlberg, Erik Gunnarsson, Peter Hillerström, Pontus Khosravi, and Leif Schelin
+
+### Group 9
+
+Elin Karlsson, Niklas Helgegren, Magnus Danderstet, Nora Idbratt, Jonas Lindberg, Azer Vilic, and Adam Grönberg
+
+### Group 10
+
+Markus Johansson, Henrik Merlander, Andreas Trakossas, Lucas Wiman, Patrik Larsson, and Gustav Simonsson
+
+### Group 11
+
+Johan Hasselqvist, Niklas Helmertz, Danny Lam, Mazdak Farrokhzad, Laszlo Sall Vesselenyi, and Eric Arnebäck 
