@@ -79,3 +79,23 @@ Kristoffer Skjutar, Mikael Stolpe, Gustav Dahl, Martin Helmersson, Erik Forsman,
 ### Group 20
 
 Josefin Ondrus, Emma Gustafsson, Hanna Matérne, Sofia Edström, Jonathan Thunberg, Patricia Paulsson, and Elin Ljungren
+
+### Group 21
+
+Wilhelm Hedman, Joel Thorstensson, Alexander Hultnér, Oskar Nyberg, and Johan Magnusson
+
+### Group 22
+
+Johanna Eriksson, Mike Phoohad, Erik Tholén, Simon Persson, Carl Jansson, and Adam Book
+
+### Group 23
+
+Josef Haddad, Jonas Ha, Johan Wallander, and Timocin Zaynal
+
+### Group 24
+
+Jonathan Nilsfors, Oskar Kärrman, Per Thoresson, Albin Garpetun, Johan Backmanm, Filip Carlén, and Linnea Otterlind
+
+### Group 25
+
+Anders Hallgren, Daniel Bäckström, Marcus Lagerstedt, Victor Sandell, Tobias Olausson, Erik Lundholm, and Christoffer Henriksson
