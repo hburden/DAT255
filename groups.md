@@ -42,4 +42,40 @@ Markus Johansson, Henrik Merlander, Andreas Trakossas, Lucas Wiman, Patrik Larss
 
 ### Group 11
 
-Johan Hasselqvist, Niklas Helmertz, Danny Lam, Mazdak Farrokhzad, Laszlo Sall Vesselenyi, and Eric Arnebäck 
+Johan Hasselqvist, Niklas Helmertz, Danny Lam, Mazdak Farrokhzad, Laszlo Sall Vesselenyi, and Eric Arnebäck
+
+### Group 12
+
+Johan Lindskogen, Patrik Göthe, Johan Hage, David Nääs, Ville Petersson, and Oscar Nilsson
+
+### Group 13
+
+Sebastian Bellevik, Adam Jilsén, Thomas Hasselquist, Tobias Tikka, Marcus Olsson, Rasmus Lorentzon, and Philip Ekman
+
+### Group 14
+
+Christoffer Medin, Pontus Malm, Anton Myrholm, Pontus Doverstav, Viktor Karlsson, and Victor Nilsson
+
+### Group 15
+
+Simon Lindhén, Kristoffer Petersson, Richard Norling, John Fors, Victor Evertsson, Johan Nilsson, and Jimmy Svensson
+
+### Group 16
+
+Harry Eriksson, Simon Hallström, Johan Gerdin, Simone Damaschke, and Noak Rosengren
+
+### Group 17
+
+Sebastian Ivarsson, Fredrik Westling, Jacob Lundberg, Alexander Persson, Karl Engström, and Joakim Karlsson
+
+### Group 18
+
+Fredrik Lönnstam, Philip Bodell, Johan Stenberg, Jacob Engdahl, Patrik Fritzner, Niklas Glavmo, and Erik Johansson        
+
+### Group 19
+
+Kristoffer Skjutar, Mikael Stolpe, Gustav Dahl, Martin Helmersson, Erik Forsman, Kevin Vetter, and Viktor Sjölind
+
+### Group 20
+
+Josefin Ondrus, Emma Gustafsson, Hanna Matérne, Sofia Edström, Jonathan Thunberg, Patricia Paulsson, and Elin Ljungren
