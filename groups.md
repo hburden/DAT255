@@ -99,3 +99,7 @@ Jonathan Nilsfors, Oskar Kärrman, Per Thoresson, Albin Garpetun, Johan Backmanm
 ### Group 25
 
 Anders Hallgren, Daniel Bäckström, Marcus Lagerstedt, Victor Sandell, Tobias Olausson, Erik Lundholm, and Christoffer Henriksson
+
+### Group 26
+
+Peter Eliasson, Joel Severin, Sebastian Blomberg, Anton Hallin, and Jakob Csörgei Gustavsson
