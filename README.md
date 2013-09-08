@@ -68,7 +68,7 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 
 [psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
 
-## Pitch Sessions for Ideas
+## Pitch Sessions (Tue Sept 10) for Ideas
 
 Please check the [groups list][gl] to find your group number. Contact Morgan ASAP if you cannot find your group in the list! Note that we use three parallel sessions and that your slot is 15 mins. 
 
