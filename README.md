@@ -48,7 +48,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 2/9 *10:00-11:45* | HC4 | **Introduction** | ME | [1][L1] |
 | 4/9 *10:00-11:45* | HC4 | **Software Engineering and XP** | ME | [2][L2]|
-| 9/9 *10:00-11:45* | HC4 | **SCRUM** | TL | |
+| 9/9 *10:00-11:45* | HC4 | **SCRUM** | TL | [3][L3] |
 | 11/9 *10:00-11:45* | HC4 | **Git and Android** | ME | |
 | 16/9 *10:00-11:45* | HC4 | **Quality and Testing** | ME | |
 | 23/9 *10:00-11:45* | HC4 | **Agile and Project Management 1** | TL | |
@@ -69,6 +69,7 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
+[L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 
 [psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
 
