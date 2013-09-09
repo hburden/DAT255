@@ -14,7 +14,7 @@ Julia Friberg, Emma Westman, Sara Johansson, Josefin Kvillert, Sara Wallander, S
 
 ### Group 4
 
-Kim Kling, Simon Bengtsson, Alexander Härenstam, Olliver Mattsson, Anton Jansson, Robin Grönberg, and Björn Bergquist
+Kim Kling, Simon Bengtsson, Alexander Härenstam, Olliver Mattsson, Anton Jansson, and Robin Grönberg
 
 ### Group 5
 
