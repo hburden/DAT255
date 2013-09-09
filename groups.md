@@ -34,7 +34,7 @@ Niclas Alexandersson, Oskar Dahlberg, Erik Gunnarsson, Peter Hillerström, Pontu
 
 ### Group 9
 
-Elin Karlsson, Niklas Helgegren, Magnus Danderstet, Nora Idbratt, Jonas Lindberg, Azer Vilic, and Adam Grönberg
+Elin Karlsson, Niklas Helgegren, Magnus Dannerstedt, Nora Idbratt, Jonas Lindberg, Azer Vilic, and Adam Grönberg
 
 ### Group 10
 
