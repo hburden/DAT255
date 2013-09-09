@@ -17,7 +17,7 @@ After passing the course, you will be able to lead agile projects, work without 
 ## Teachers
 
 - Morgan Ericsson (ME), ext 6075, room 423, morgan.ericsson@chalmers.se (lecturer)
-- Thomas Luvö (TL) (lecturer)
+- Thomas Luvö (TL), tom@samoht.se (lecturer)
 
 ## TAs
 - Erik Axelsson erikax@student.chalmers.se
