@@ -90,7 +90,7 @@ Johanna Eriksson, Mike Phoohad, Erik Tholén, Simon Persson, Carl Jansson, and A
 
 ### Group 23
 
-Josef Haddad, Jonas Ha, Johan Wallander, and Timocin Zaynal
+Josef Haddad, Jonas Ha, Johan Wallander, Kim Egenvall, Carl Fredriksson, and Timocin Zaynal
 
 ### Group 24
 
