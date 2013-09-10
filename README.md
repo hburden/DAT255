@@ -36,7 +36,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Gustav Simonsson (gussim@student.chalmers.se)
 - Anders Hallgren (andehall@student.chalmers.se)
 - Lucas Persson (lucasp@student.chalmers.se)
-- 
+
 ## Fast questions?
 - Join #SEProject @ irc.chalmers.it
 
