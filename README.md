@@ -45,7 +45,7 @@ After passing the course, you will be able to lead agile projects, work without 
 
 - [Pro Git][GITBOOK]
 - Writing a product vision: [1][pv1], [2][pv2].
-- 
+- [A successful Git branching model][gitbranch]
 
 ## Lectures and Tutorials (In progress…)
 
@@ -72,7 +72,7 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 [GITBOOK]: http://git-scm.com/book
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
-
+[gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
