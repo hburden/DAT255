@@ -84,35 +84,6 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 
 Please check the [groups list][gl] to find your group number. Contact Morgan ASAP if you cannot find your group in the list! Note that we use three parallel sessions and that your slot is 15 mins. 
 
-| Group | Time | Room |
-| :---: | :--: | :--: |
-|1|*10:00*|3209|
-|2|*10:15*|3209|
-|3|*10:30*|3209|
-|4|*10:45*|3209|
-|5|*11:00*|3209|
-|6|*11:15*|3209|
-|7|*11:30*|3209|
-|8|*11:45*|3209|
-|9|*12:00*|3209|
-|10|*10:00*|3211|
-|11|*10:15*|3211|
-|12|*10:30*|3211|
-|13|*10:45*|3211|
-|14|*11:00*|3211|
-|15|*11:15*|3211|
-|16|*11:30*|3211|
-|17|*11:45*|3211|
-|18|*12:00*|3211|
-|19|*10:00*|3213|
-|20|*10:15*|3213|
-|21|*10:30*|3213|
-|22|*10:45*|3213|
-|23|*11:00*|3213|
-|24|*11:15*|3213|
-|25|*11:30*|3213|
-|26|*11:45*|3213|
-
 [gl]: https://github.com/morganericsson/DAT255/blob/master/groups.md
 
 
