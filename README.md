@@ -14,8 +14,6 @@ In this course you will teach you how to design and develop software, and to man
  
 After passing the course, you will be able to lead agile projects, work without a detail schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
-## Fast questions?
-- Join #SEProject @ irc.chalmers.it
 
 ## Teachers
 
@@ -38,6 +36,10 @@ After passing the course, you will be able to lead agile projects, work without 
 - Gustav Simonsson (gussim@student.chalmers.se)
 - Anders Hallgren (andehall@student.chalmers.se)
 - Lucas Persson (lucasp@student.chalmers.se)
+- 
+## Fast questions?
+- Join #SEProject @ irc.chalmers.it
+
 
 ## Course Litteratur / Recommended reading
 
