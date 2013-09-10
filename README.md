@@ -26,6 +26,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Tomas Urdell urdell@student.chalmers.se
 - Erik Ivarsson erikduvet@gmail.com
 - Robert Edström edstromr@student.chalmers.se
+- Jessica Andersson jesandeit@gmail.com
 
 ## Student Representatives
 
