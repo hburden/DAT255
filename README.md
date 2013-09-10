@@ -14,6 +14,7 @@ In this course you will teach you how to design and develop software, and to man
  
 After passing the course, you will be able to lead agile projects, work without a detail schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
+
 ## Teachers
 
 - Morgan Ericsson (ME), ext 6075, room 423, morgan.ericsson@chalmers.se (lecturer)
@@ -26,6 +27,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Tomas Urdell urdell@student.chalmers.se
 - Erik Ivarsson erikduvet@gmail.com
 - Robert Edström edstromr@student.chalmers.se
+- Jessica Andersson jesandeit@gmail.com
 
 ## Student Representatives
 
@@ -35,10 +37,15 @@ After passing the course, you will be able to lead agile projects, work without 
 - Anders Hallgren (andehall@student.chalmers.se)
 - Lucas Persson (lucasp@student.chalmers.se)
 
+## Fast questions?
+- Join #SEProject @ irc.chalmers.it
+
+
 ## Course Litteratur / Recommended reading
 
 - [Pro Git][GITBOOK]
 - Writing a product vision: [1][pv1], [2][pv2].
+- [A successful Git branching model][gitbranch]
 
 ## Lectures and Tutorials (In progress…)
 
@@ -65,7 +72,7 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 [GITBOOK]: http://git-scm.com/book
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
-
+[gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
@@ -76,35 +83,6 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 ## Pitch Sessions (Tue Sept 10) for Ideas
 
 Please check the [groups list][gl] to find your group number. Contact Morgan ASAP if you cannot find your group in the list! Note that we use three parallel sessions and that your slot is 15 mins. 
-
-| Group | Time | Room |
-| :---: | :--: | :--: |
-|1|*10:00*|3209|
-|2|*10:15*|3209|
-|3|*10:30*|3209|
-|4|*10:45*|3209|
-|5|*11:00*|3209|
-|6|*11:15*|3209|
-|7|*11:30*|3209|
-|8|*11:45*|3209|
-|9|*12:00*|3209|
-|10|*10:00*|3211|
-|11|*10:15*|3211|
-|12|*10:30*|3211|
-|13|*10:45*|3211|
-|14|*11:00*|3211|
-|15|*11:15*|3211|
-|16|*11:30*|3211|
-|17|*11:45*|3211|
-|18|*12:00*|3211|
-|19|*10:00*|3213|
-|20|*10:15*|3213|
-|21|*10:30*|3213|
-|22|*10:45*|3213|
-|23|*11:00*|3213|
-|24|*11:15*|3213|
-|25|*11:30*|3213|
-|26|*11:45*|3213|
 
 [gl]: https://github.com/morganericsson/DAT255/blob/master/groups.md
 
