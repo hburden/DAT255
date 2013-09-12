@@ -61,13 +61,13 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [V51]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_5_1.mp4
 [V52]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/dat255_5_2.mp4
 [gitFL]: http://www.youtube.com/playlist?list=PLeGWawrow95fDhXYx6co5LeaNeWXP-v3i&feature=view_all
-[L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
-[L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
-[L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
-[L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
-[L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
-[L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
-[L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
+[L1]: https://github.com/morganericsson/DAT255/blob/vt2013/slides/l1.pdf?raw=true
+[L2]: https://github.com/morganericsson/DAT255/blob/vt2013/slides/l2.pdf?raw=true
+[L3]: https://github.com/morganericsson/DAT255/blob/vt2013/slides/l3.pdf?raw=true
+[L4]: https://github.com/morganericsson/DAT255/blob/vt2013/slides/l4.pdf?raw=true
+[L5]: https://github.com/morganericsson/DAT255/blob/vt2013/slides/l5.pdf?raw=true
+[L6]: https://github.com/morganericsson/DAT255/blob/vt2013/slides/l6.pdf?raw=true
+[L7]: https://github.com/morganericsson/DAT255/blob/vt2013/slides/l7.pdf?raw=true
 
 
 
@@ -75,7 +75,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [UT2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
 
 
-[psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
+[psched]: https://github.com/morganericsson/DAT255/blob/vt2013/schedule_handoff.md
 
 ## Additional Resources
 
