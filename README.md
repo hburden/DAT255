@@ -57,7 +57,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 4/9 *10:00-11:45* | HC4 | **Software Engineering and XP** | ME | [2][L2]|
 | 9/9 *10:00-11:45* | HC4 | **SCRUM** | TL | [3][L3] |
 | 11/9 *10:00-11:45* | HC4 | **Git and Android** | ME | [4][L4] [Video][V1] |
-| 16/9 *10:00-11:45* | HC4 | **Quality and Testing** | ME | |
+| 16/9 *10:00-11:45* | HC4 | **Quality and Testing** | ME | [5][L5] Video: [1][V2],[2][V3] |
 | 23/9 *10:00-11:45* | HC4 | **Project Management** | TL | |
 | 30/9 *10:00-11:45* | HC4 | **Design and Architecture** | ME | |
 | 7/10 *10:00-11:45* | HC4 | **Agile and Project Management 2** | TL | |
@@ -78,8 +78,11 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
+[L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
+[V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
+[V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
 
 [psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
 
