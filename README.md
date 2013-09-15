@@ -58,7 +58,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 9/9 *10:00-11:45* | HC4 | **SCRUM** | TL | [3][L3] |
 | 11/9 *10:00-11:45* | HC4 | **Git and Android** | ME | [4][L4] [Video][V1] |
 | 16/9 *10:00-11:45* | HC4 | **Quality and Testing** | ME | |
-| 23/9 *10:00-11:45* | HC4 | **Agile and Project Management 1** | TL | |
+| 23/9 *10:00-11:45* | HC4 | **Project Management** | TL | |
 | 30/9 *10:00-11:45* | HC4 | **Design and Architecture** | ME | |
 | 7/10 *10:00-11:45* | HC4 | **Agile and Project Management 2** | TL | |
 | 14/10 *10:00-11:45* | HC4 | **Agile and Project Management 3** | TL | |
