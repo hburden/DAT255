@@ -114,6 +114,10 @@ You will release a version of your project every Friday. For each release we wil
 | 8 | Post-mortem report |
 
 ## Examination
+- Working andriod app
+- Presitation
+- Post-mortem Report
+
 
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester (2012).
