@@ -115,7 +115,7 @@ You will release a version of your project every Friday. For each release we wil
 
 ## Examination
 
-You should submit the following at the end of the course:
+Every group should submit the following at the end of the course:
 
 - Working Android app (APK)
 - Documentation (produced during the project):
@@ -125,13 +125,14 @@ You should submit the following at the end of the course:
 	- User manual
 - [Post-mortem Report][pmr]
 
-You will be given 10 + 5 mins to present your application. The presentation should introduce your app (including the major features), interesting design decisions, your process, and a brief reflection. 
+Each group will be given 10 + 5 mins to present their application. The presentation should introduce the app (including the major features), interesting design decisions, the process, and a brief reflection. 
+
+Every person should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $60 for a group of 7). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than Oct 27 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 You can find more information about the [grading policy][grading] in the wiki.
 
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [grading]: https://github.com/morganericsson/DAT255/wiki/Grading-Policy
-
 
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester (2012).
