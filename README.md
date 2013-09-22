@@ -10,7 +10,7 @@ In this course you will teach you how to design and develop software, and to man
 - The customer is a part of the development team Incremental development 
 - The developer should not be hindered by the process 
 - Embrace changes 
-- Continues refactoring (restructuring) of the design
+- Continuous refactoring (restructuring) of the design
  
 After passing the course, you will be able to lead agile projects, work without a detail schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
@@ -114,9 +114,23 @@ You will release a version of your project every Friday. For each release we wil
 | 8 | Post-mortem report |
 
 ## Examination
-- Working andriod app
-- Presitation
-- Post-mortem Report
+
+You should submit the following at the end of the course:
+
+- Working Android app (APK)
+- Documentation (produced during the project):
+	- Vision
+	- A few user stories
+	- Developer documentation (outlines build process, architecture, etc.)
+	- User manual
+- [Post-mortem Report][pmr]
+
+You will be given 10 + 5 mins to present your application. The presentation should introduce your app (including the major features), interesting design decisions, your process, and a brief reflection. 
+
+You can find more information about the [grading policy][grading] in the wiki.
+
+[pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
+[grading]: https://github.com/morganericsson/DAT255/wiki/Grading-Policy
 
 
 ## Sample project
