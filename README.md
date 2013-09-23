@@ -59,7 +59,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 11/9 *10:00-11:45* | HC4 | **Git and Android** | ME | [4][L4] [Video][V1] |
 | 16/9 *10:00-11:45* | HC4 | **Quality and Testing** | ME | [5][L5] Video: [1][V2],[2][V3] |
 | 18/9 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
-| 23/9 *10:00-11:45* | HC4 | **Project Management** | TL | |
+| 23/9 *10:00-11:45* | HC4 | **Project Management** | TL | [6][L6] |
 | 25/9 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
 | 30/9 *10:00-11:45* | HC4 | **Design and Architecture** | ME | |
 | 2/10 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
@@ -84,6 +84,7 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
 [L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
+[L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
