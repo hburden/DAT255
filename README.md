@@ -109,10 +109,12 @@ You will release a version of your project every Friday. For each release we wil
 | 2 | Submit a vision (with features) for your selected app | 
 | 3 | **Release 1**: Your should have a Git repo with an initial version of your app |
 | 4 | **Release 2**: focus on testing |
-| 5 | **Release 3**: focus on code quality |
+| 5 | **Release 3**: focus on code quality* |
 | 6 | **Release 4**: Final release, focus on product quality |
 | 7 | **Release 5**: Bug fixes and polish |
 | 8 | Post-mortem report |
+
+*readability, consistency, documentation in the form of comments and good naming conventions
 
 ## Examination
 
