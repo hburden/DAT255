@@ -114,7 +114,7 @@ You will release a version of your project every Friday. For each release we wil
 | 7 | **Release 5**: Bug fixes and polish |
 | 8 | Post-mortem report |
 
-*readability, consistency, documentation in the form of comments and good naming conventions
+*Among others: readability, consistency, stability, correctness, conciseness, documentation in the form of comments and good naming conventions.
 
 ## Examination
 
