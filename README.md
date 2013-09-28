@@ -63,9 +63,9 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 25/9 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
 | 30/9 *10:00-11:45* | HC4 | **Design and Architecture** | ME | |
 | 2/10 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
-| 7/10 *10:00-11:45* | HC4 | **Agile and Project Management 2** | TL | |
+| 7/10 *10:00-11:45* | HC4 | **Scaling Agile** | TL | |
 | 9/10 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
-| 14/10 *10:00-11:45* | HC4 | **Agile and Project Management 3** | TL | |
+| 14/10 *10:00-11:45* | HC4 | **Lean and Flow** | TL | |
 | 16/10 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
 | 21/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | |
 | 22/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | |
