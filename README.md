@@ -124,7 +124,11 @@ Every *group* should submit the following at the end of the course:
 - Documentation (produced during the project):
 	- Vision
 	- A few user stories
-	- Developer documentation (outlines build process, architecture, etc.)
+	- Developer documentation (information relevant to people who work on the project)
+		- How does the build process work
+		- What major parts / components are there in the application
+		- Design decisions (such as API level, etc.)
+		- ...
 	- User manual
 - [Post-mortem Report][pmr]
 
