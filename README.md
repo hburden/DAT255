@@ -90,7 +90,7 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
 [V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
 
-[psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_handoff.md
+[psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_project_handoff.md
 
 ## Pitch Sessions (Tue Sept 10) for Ideas
 
