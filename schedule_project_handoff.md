@@ -38,7 +38,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 
 ## 23/10 9:00-11:45
 
-1. Free
+1. Group 3
 2. Free
 3. Free
 4. Free
