@@ -15,7 +15,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 ## 21/10 9:00-11:45
 
 1. Group 20
-2. Free
+2. Group 2
 3. Free
 4. Free
 5. Free
