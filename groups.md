@@ -102,4 +102,4 @@ Anders Hallgren, Daniel Bäckström, Marcus Lagerstedt, Victor Sandell, Tobias O
 
 ### Group 26
 
-Peter Eliasson, Joel Severin, Sebastian Blomberg, Anton Hallin, and Jakob Csörgei Gustavsson
+Peter Eliasson, Joel Severin, Sebastian Blomberg, Anton Hallin, Simon Österberg, Marc Jamot and Jakob Csörgei Gustavsson
