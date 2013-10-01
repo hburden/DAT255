@@ -17,7 +17,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 1. Group 20
 2. Group 2
 3. Group 5
-4. Free
+4. Group 21
 5. Free
 6. Free
 7. Free
