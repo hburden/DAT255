@@ -33,8 +33,8 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 5. Group 1
 6. Group 4
 7. Group 11
-8. Free
-9. Spare
+8. Group 22
+9. Group 15
 
 ## 23/10 9:00-11:45
 
