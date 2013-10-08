@@ -111,12 +111,12 @@ You will release a version of your project every Friday. For each release we wil
 | 2 | Submit a vision (with features) for your selected app | 
 | 3 | **Release 1**: Your should have a Git repo with an initial version of your app |
 | 4 | **Release 2**: focus on testing |
-| 5 | **Release 3**: focus on code quality* |
+| 5 | **Release 3**: focus on code quality, such as readability, consistency, stability, correctness, conciseness, documentation in the form of comments and good naming conventions |
 | 6 | **Release 4**: Final release, focus on product quality |
 | 7 | **Release 5**: Bug fixes and polish |
 | 8 | Post-mortem report |
 
-*Among others: readability, consistency, stability, correctness, conciseness, documentation in the form of comments and good naming conventions.
+Note that the Post-mortem report and the application (including source code, etc.) **must** be handed in **no later than October 27 24:00**.
 
 ## Examination
 
@@ -133,6 +133,8 @@ Every *group* should submit the following at the end of the course:
 		- ...
 	- User manual
 - [Post-mortem Report][pmr]
+
+Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
 
 Each *group* will be given 10 + 5 mins to present their application. The presentation should introduce the app (including the major features), interesting design decisions, the process, and a brief reflection. 
 
