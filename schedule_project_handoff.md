@@ -32,7 +32,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 4. Group 8
 5. Group 1
 6. Group 4
-7. Free
+7. Group 11
 8. Free
 9. Spare
 
