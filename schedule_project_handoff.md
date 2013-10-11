@@ -40,7 +40,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 
 1. Group 3
 2. Group 12
-3. Free
+3. Group 19
 4. Free
 5. Free
 6. Free
