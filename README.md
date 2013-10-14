@@ -65,7 +65,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 2/10 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
 | 7/10 *10:00-11:45* | HC4 | **Scaling Agile** | TL | [8][L8] |
 | 9/10 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
-| 14/10 *10:00-11:45* | HC4 | **Lean and Flow** | TL | |
+| 14/10 *10:00-11:45* | HC4 | **Lean and Flow** | TL | [9][L9] |
 | 16/10 *10:00-11:45* | HC4 | **Technical Assistance Session** |||
 | 21/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | |
 | 22/10 *9:00-11:45* | EC | **Project handoff** ([Schedule][psched]) | ME | |
@@ -87,6 +87,7 @@ There will be a tech lab in HC4 every Wednesday at 10:00-11:45 from Sept 19 to O
 [L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
+[L9]: https://github.com/morganericsson/DAT255/blob/master/slides/l9.pdf?raw=true
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
