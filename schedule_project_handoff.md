@@ -44,6 +44,6 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 4. Group 7
 5. Group 10
 6. Group 23
-7. Free
+7. Group 14
 8. Free
 9. Spare
