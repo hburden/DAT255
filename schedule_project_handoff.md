@@ -4,6 +4,8 @@ Please add your group number to a `Free` slot. Please leave the slots marked `Sp
 
 Each group will have about 15 minutes to present. Try to use 10 mins for presentation and leave 5 mins for questions. You presentation should focus on:
 
+You going to have access to following: micro HDMI and VGA connected to projector,blackboard. I also recommend using some recording tool
+
 - What does your app do?
 - What makes it special?
 - What design decisions did you make?
