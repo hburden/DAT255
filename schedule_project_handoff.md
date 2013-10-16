@@ -48,4 +48,4 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 6. Group 23
 7. Group 14
 8. Group 16
-9. Spare
+9. Group 18
