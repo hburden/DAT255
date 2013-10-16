@@ -2,9 +2,15 @@
 
 Please add your group number to a `Free` slot. Please leave the slots marked `Spare` to groups that require a specific day. If possible, fill up days before you start another (if the day does not matter to you).
 
-Each group will have about 15 minutes to present. Try to use 10 mins for presentation and leave 5 mins for questions. You presentation should focus on:
 
 You going to have access to following: micro HDMI and VGA connected to projector,blackboard. I also recommend using some recording tool
+Recommended recording tools(both need root):
+- SCR Screen Recorder Free
+- Z - Screen recorder
+
+
+Each group will have about 15 minutes to present. Try to use 10 mins for presentation and leave 5 mins for questions. You presentation should focus on:
+
 
 - What does your app do?
 - What makes it special?
