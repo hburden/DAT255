@@ -142,6 +142,7 @@ Every *group* should submit the following at the end of the course:
 Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
 
 Each *group* will be given 10 + 5 mins to present their application. The presentation should introduce the app (including the major features), interesting design decisions, the process, and a brief reflection. 
+(You going to have access to following: micro HDMI and VGA connected to projector,blackboard. I also recommend using some recording tool)
 
 Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $60 for a group of 7). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than Oct 27 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
