@@ -38,7 +38,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 17/3 *13:15-15:00* | VasaC | **Introduction** | ME |  |
-| 21/3 *13:15-15:00* | VasaC | **Intro to Software Engineering** |  | ME |
+| 21/3 *13:15-15:00* | VasaC | **Intro to Software Engineering** | ME |  |
 | 24/3 *13:15-15:00* | VasaC | **Software Engineering (cont'd)**| ME |  |
 | 28/3 *13:15-15:00* | VasaC | **Waterfall and XP** | ME |  |
 | 31/3 *13:15-15:00* | VasaC | **Version control** | TL+ME |  |
