@@ -38,22 +38,23 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 17/3 *13:15-15:00* | VasaC | **Introduction** | ME |  |
-| 21/3 *13:15-15:00* | VasaC |  |  |  |
-| 24/3 *13:15-15:00* | VasaC |  |  |  |
-| 28/3 *13:15-15:00* | VasaC |  |  |  |
-| 31/3 *13:15-15:00* | VasaC |  |  |  |
-| 4/4 *13:15-15:00* | VasaC |  |  |  |
+| 21/3 *13:15-15:00* | VasaC | **Intro to Software Engineering** |  | ME |
+| 24/3 *13:15-15:00* | VasaC | ** Software Engineering (cont'd)| ME |  |
+| 28/3 *13:15-15:00* | VasaC | ** Waterfall and XP ** | ME |  |
+| 31/3 *13:15-15:00* | VasaC | ** Version control ** | TL+ME |  |
+| 4/4 *13:15-15:00* | VasaC | Android | ME |  |
 | 7/4 *13:15-15:00* | VasaC |  |  |  |
 | 11/4 *13:15-15:00* | VasaC |  |  |  |
 | 28/4 *13:15-15:00* | VasaC |  |  |  |
-| 2/5 *13:15-15:00* | VasaC |  |  |  |
 | 5/5 *13:15-15:00* | VasaC |  |  |  |
 | 9/5 *13:15-15:00* | VasaC |  |  |  |
 | 12/5 *13:15-15:00* | VasaC |  |  |  |
 | 16/5 *13:15-15:00* | VasaC |  |  |  |
 | 19/5 *13:15-15:00* | VasaC |  |  |  |
 | 23/5 *13:15-15:00* | VasaC |  |  |  |
-
+| 26/5 *13:15-17:00* | EC | **Final Presentations** | | | 
+| 27/5 *13:15-17:00* | EC | **Final Presentations** | | | 
+| 28/5 *13:15-17:00* | EC | **Final Presentations** | | | 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ708Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
