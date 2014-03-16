@@ -24,6 +24,12 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Student Representatives
 
+- Anton Andersson (antander@student.chalmers.se)
+- Isabel Azcarate (azcarate@student.chalmers.se)
+- Pauline Daremark (daremark@student.chalmers.se)
+- Anders Eriksson (anderer@student.chalmers.se)
+- Micael Svensson (micaels@student.chalmers.se)
+
 ## Course Litteratur / Recommended reading
 
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
