@@ -43,7 +43,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 17/3 *13:15-15:00* | VasaC | **Introduction** | ME |  |
+| 17/3 *13:15-15:00* | VasaC | **Introduction** | ME | [1][L1] |
 | 21/3 *13:15-15:00* | VasaC | **Intro to Software Engineering** | ME |  |
 | 24/3 *13:15-15:00* | VasaC | **Software Engineering (cont'd)**| ME |  |
 | 28/3 *13:15-15:00* | VasaC | **Waterfall and XP** | ME |  |
@@ -67,6 +67,9 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
+
+[L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
+
 
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester (2012).
