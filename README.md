@@ -69,6 +69,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
+[L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
 
 
 ## Sample project
