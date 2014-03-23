@@ -13,3 +13,7 @@ Pauline Daremark, Ludvig Börjesson, Gabriel Kamienny, and Peter Jonsson.
 ### Group Dajoroli (4)
 
 Daniel Wising, Johannes Rehnberg, Robin Jensen, and Linn Hansen.
+
+### Group 5
+
+Jenny Larsson, Joakim Berg, Michael Nordström, and Matilda Berntsson.
