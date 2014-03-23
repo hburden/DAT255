@@ -6,6 +6,8 @@ Olof Wändahl, Anton Andersson, Shahin Adl Zarrabi, and Carl-Adam Hellqvist.
 
 ### Group 2
 
+Isabel Azcárate, Jonas Enlund, Simon Eliasson, and Anders Eriksson.
+
 ### GLPP (Group 3)
 
 Pauline Daremark, Ludvig Börjesson, Gabriel Kamienny, and Peter Jonsson.
