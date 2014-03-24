@@ -26,7 +26,7 @@ Anton Landberg, Joakim Olsson, Niklas Johansson, and Torbjörn Rasmusson.
 
 ### Group 7
 
-Micael Svensson, Jonathan Ström, Ludvig Gjälby, and Fredrik Lundberg.
+Micael Svensson, Jonathan Ström, Ludvig Gjälby, Fredrik Lundberg, and Tove Larsson.
 
 ### Group 8
 
