@@ -46,7 +46,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 17/3 *13:15-15:00* | VasaC | **Introduction** | ME | [1][L1] |
 | 21/3 *13:15-15:00* | VasaC | **Intro to Software Engineering** | ME | [2][L2] |
-| 24/3 *13:15-15:00* | VasaC | **Software Engineering (cont'd)**| ME |  |
+| 24/3 *13:15-15:00* | VasaC | **Software Engineering (cont'd)**| ME | [3][L3] |
+| 26/3 *13:15-15:00* | TBA | **Pitch sessions (schedule below)**| AM | |
 | 28/3 *13:15-15:00* | VasaC | **RUP and XP** | ME |  |
 | 31/3 *13:15-15:00* | VasaC | **Version control** | TL+ME |  |
 | 4/4 *13:15-15:00* | VasaC | **Android** | ME |  |
@@ -72,6 +73,21 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
+[L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
+
+
+### Schedule Pitch sessions (26/3)
+
+| Date & Time | Group |
+|  ------	| :----:	|
+| 17/3 *13:15-13:30* | 1 |
+| 17/3 *13:15-13:30* | 2 |
+| 17/3 *13:30-13:45* | GLPP |
+| 17/3 *13:45-14:00* | Dajoroli |
+| 17/3 *14:00-14:15* | 5 |
+| 17/3 *14:15-14:30* | 6 |
+| 17/3 *14:30-14:45* | 7 |
+| 17/3 *14:45-15:00* | 8 |
 
 
 ## Sample project
