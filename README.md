@@ -19,8 +19,7 @@ After passing the course, you will be able to lead agile projects, work without 
 
 - Morgan Ericsson (ME), ext 6075, room 423, morgan@cse.gu.se (lecturer)
 - Thomas Luvö (TL), tom@samoht.se (lecturer)
-
-## TAs
+- Antonio Martini (AM) (supervisor)
 
 ## Student Representatives
 
@@ -80,14 +79,14 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Group |
 |  ------	| :----:	|
-| 17/3 *13:15-13:30* | 1 |
-| 17/3 *13:15-13:30* | 2 |
-| 17/3 *13:30-13:45* | GLPP |
-| 17/3 *13:45-14:00* | Dajoroli |
-| 17/3 *14:00-14:15* | 5 |
-| 17/3 *14:15-14:30* | 6 |
-| 17/3 *14:30-14:45* | 7 |
-| 17/3 *14:45-15:00* | 8 |
+| 26/3 *13:15-13:30* | 1 |
+| 26/3 *13:15-13:30* | 2 |
+| 26/3 *13:30-13:45* | GLPP |
+| 26/3 *13:45-14:00* | Dajoroli |
+| 26/3 *14:00-14:15* | 5 |
+| 26/3 *14:15-14:30* | 6 |
+| 26/3 *14:30-14:45* | 7 |
+| 26/3 *14:45-15:00* | 8 |
 
 
 ## Sample project
