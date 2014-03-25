@@ -79,7 +79,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Group |
 |  ------	| :----:	|
-| 26/3 *13:15-13:30* | 1 |
+| 26/3 *13:00-13:15* | 1 |
 | 26/3 *13:15-13:30* | 2 |
 | 26/3 *13:30-13:45* | GLPP |
 | 26/3 *13:45-14:00* | Dajoroli |
