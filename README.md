@@ -48,7 +48,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 24/3 *13:15-15:00* | VasaC | **Software Engineering (cont'd)**| ME | [3][L3] |
 | 26/3 *13:15-15:00* | Vasa 3 | **Pitch sessions (schedule below)**| AM | |
 | 28/3 *13:15-15:00* | VasaC | **RUP and XP** | ME | [4][L4] |
-| 31/3 *13:15-15:00* | VasaC | **Version control** | TL+ME |  |
+| 31/3 *13:15-15:00* | VasaC | **Version control** | TL+ME | [5#2][L5.2] |
 | 4/4 *13:15-15:00* | VasaC | **Android** | ME |  |
 | 7/4 *13:15-15:00* | VasaC | **Scrum** | TL |  |
 | 11/4 *13:15-15:00* | VasaC |  |  |  |
@@ -74,7 +74,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
-
+[L5.2]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.2.pdf?raw=true
 
 ### Schedule Pitch sessions (26/3)
 
