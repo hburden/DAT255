@@ -81,10 +81,10 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Time | Group | Room | 
 | ---- | :---: | ---- |
 | *13:00-13:30* | 1 | Vasa 3 |
-|  | 3 | Vasa 4 |
+|  | GLPP (3) | Vasa 4 |
 | *13:30-14:00* | 2 | Vasa 3 |
 |  | 5 | Vasa 4 |
-| *14:00-14:30* | 4 | Vasa 3 |
+| *14:00-14:30* | Dajoroli (4) | Vasa 3 |
 |  | 7 | Vasa 4 |
 | *14:30-15:00* | 6 | Vasa 3 |
 |  | 8 | Vasa 4 |
