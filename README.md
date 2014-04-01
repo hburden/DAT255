@@ -76,18 +76,18 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
 [L5.2]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.2.pdf?raw=true
 
-### Schedule Pitch sessions (26/3)
+### Schedule supervision sessions (2/4 --)
 
-| Date & Time | Group |
-|  ------	| :----:	|
-| 26/3 *13:00-13:15* | 1 |
-| 26/3 *13:15-13:30* | 2 |
-| 26/3 *13:30-13:45* | GLPP |
-| 26/3 *13:45-14:00* | Dajoroli |
-| 26/3 *14:00-14:15* | 5 |
-| 26/3 *14:15-14:30* | 6 |
-| 26/3 *14:30-14:45* | 7 |
-| 26/3 *14:45-15:00* | 8 |
+| Time | Group | Room | 
+| ---- | :---: | ---- |
+| *13:00-13:30* | 1 | Vasa 3 |
+|  | 3 | Vasa 4 |
+| *13:30-14:00* | 2 | Vasa 3 |
+|  | 5 | Vasa 4 |
+| *14:00-14:30* | 4 | Vasa 3 |
+|  | 7 | Vasa 4 |
+| *14:30-15:00* | 6 | Vasa 3 |
+|  | 8 | Vasa 4 |
 
 
 ## Sample project
