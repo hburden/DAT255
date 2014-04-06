@@ -50,7 +50,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 28/3 *13:15-15:00* | VasaC | **RUP and XP** | ME | [4][L4] |
 | 31/3 *13:15-15:00* | VasaC | **Version control** | TL+ME | [5#1][L5.1] [5#2][L5.2] |
 | 4/4 *13:15-15:00* | VasaC | **Android** | ME | [6][L6], [Video][V1] |
-| 7/4 *13:15-15:00* | VasaC | **Scrum** | TL |  |
+| 7/4 *13:15-15:00* | VasaC | **Scrum** | TL | [7][L7] |
 | 11/4 *13:15-15:00* | VasaC |  |  |  |
 | 28/4 *13:15-15:00* | VasaC | **Agile and scaling Agile** | TL |  |
 | 5/5 *13:15-15:00* | VasaC | **Product owner, team and project management** | TL |  |
@@ -77,6 +77,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L5.1]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.1.pdf?raw=true
 [L5.2]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.2.pdf?raw=true
 [L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
+[L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 
