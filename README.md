@@ -49,9 +49,9 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 26/3 *13:15-15:00* | Vasa 3 | **Pitch sessions (schedule below)**| AM | |
 | 28/3 *13:15-15:00* | VasaC | **RUP and XP** | ME | [4][L4] |
 | 31/3 *13:15-15:00* | VasaC | **Version control** | TL+ME | [5#1][L5.1] [5#2][L5.2] |
-| 4/4 *13:15-15:00* | VasaC | **Android** | ME | [6][L6], [Video][V1] |
+| 4/4 *13:15-15:00* | VasaC | **Android** | ME | [6][L6], Video: [Video][V1] |
 | 7/4 *13:15-15:00* | VasaC | **Scrum** | TL | [7][L7] |
-| 11/4 *13:15-15:00* | VasaC |  |  |  |
+| 11/4 *13:15-15:00* | VasaC | **Testing** | ME | [8][L8], Video: [1][V2],[2][V3] |
 | 28/4 *13:15-15:00* | VasaC | **Agile and scaling Agile** | TL |  |
 | 5/5 *13:15-15:00* | VasaC | **Product owner, team and project management** | TL |  |
 | 9/5 *13:15-15:00* | VasaC |  |  |  |
@@ -78,9 +78,11 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L5.2]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.2.pdf?raw=true
 [L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
+[L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
-
+[V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
+[V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4f
 
 ### Schedule supervision sessions (2/4 --)
 
