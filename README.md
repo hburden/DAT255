@@ -54,13 +54,12 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 11/4 *13:15-15:00* | VasaC | **Testing** | ME | [8][L8], Video: [1][V2],[2][V3] |
 | 28/4 *13:15-15:00* | VasaC | **Agile and scaling Agile** | TL |  |
 | 5/5 *13:15-15:00* | VasaC | **Product owner, team and project management** | TL |  |
-| 9/5 *13:15-15:00* | VasaC | **Design and Architecture** |  |  |
-| 16/5 *13:15-15:00* | VasaC | **Technical Assistance Session** |  |  |
-| 19/5 *13:15-15:00* | VasaC | **Technical Assistance Session** |  |  |
-| 23/5 *13:15-15:00* | VasaC | **Technical Assistance Session** |  |  |
-| 26/5 *13:15-17:00* | EC | **Final Presentations** | | | 
-| 27/5 *13:15-17:00* | EC | **Final Presentations** | | | 
-| 28/5 *13:15-17:00* | EC | **Final Presentations** | | | 
+| 9/5 *13:15-15:00* | VasaC | **Design and Architecture** | ME |  |
+| 16/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
+| 19/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
+| 23/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
+| 26/5 *13:15-17:00* | EC | **Final Presentations** | ME+AM | | 
+| 27/5 *13:15-17:00* | EC | **Final Presentations** | ME+AM | | 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ708Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
