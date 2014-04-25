@@ -55,9 +55,9 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 28/4 *13:15-15:00* | VasaC | **Agile and scaling Agile** | TL |  |
 | 5/5 *13:15-15:00* | VasaC | **Product owner, team and project management** | TL |  |
 | 9/5 *13:15-15:00* | VasaC | **Design and Architecture** |  |  |
-| 16/5 *13:15-15:00* | VasaC | **Technical Assistance Session	** |  |  |
-| 19/5 *13:15-15:00* | VasaC | **Technical Assistance Session	** |  |  |
-| 23/5 *13:15-15:00* | VasaC | **Technical Assistance Session	** |  |  |
+| 16/5 *13:15-15:00* | VasaC | **Technical Assistance Session** |  |  |
+| 19/5 *13:15-15:00* | VasaC | **Technical Assistance Session** |  |  |
+| 23/5 *13:15-15:00* | VasaC | **Technical Assistance Session** |  |  |
 | 26/5 *13:15-17:00* | EC | **Final Presentations** | | | 
 | 27/5 *13:15-17:00* | EC | **Final Presentations** | | | 
 | 28/5 *13:15-17:00* | EC | **Final Presentations** | | | 
