@@ -37,7 +37,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - [A successful Git branching model][gitbranch]
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 
-## Lectures and Tutorials (In progress…)
+## Lectures and Tutorials
 
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. 
 
@@ -54,11 +54,10 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 11/4 *13:15-15:00* | VasaC | **Testing** | ME | [8][L8], Video: [1][V2],[2][V3] |
 | 28/4 *13:15-15:00* | VasaC | **Agile and scaling Agile** | TL |  |
 | 5/5 *13:15-15:00* | VasaC | **Product owner, team and project management** | TL |  |
-| 9/5 *13:15-15:00* | VasaC |  |  |  |
-| 12/5 *13:15-15:00* | VasaC |  |  |  |
-| 16/5 *13:15-15:00* | VasaC |  |  |  |
-| 19/5 *13:15-15:00* | VasaC |  |  |  |
-| 23/5 *13:15-15:00* | VasaC |  |  |  |
+| 9/5 *13:15-15:00* | VasaC | **Design and Architecture** |  |  |
+| 16/5 *13:15-15:00* | VasaC | **Technical Assistance Session	** |  |  |
+| 19/5 *13:15-15:00* | VasaC | **Technical Assistance Session	** |  |  |
+| 23/5 *13:15-15:00* | VasaC | **Technical Assistance Session	** |  |  |
 | 26/5 *13:15-17:00* | EC | **Final Presentations** | | | 
 | 27/5 *13:15-17:00* | EC | **Final Presentations** | | | 
 | 28/5 *13:15-17:00* | EC | **Final Presentations** | | | 
@@ -97,6 +96,37 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | *14:30-15:00* | 6 | Vasa 3 |
 |  | 8 | Vasa 4 |
 
+## Examination
+
+Every *group* should submit the following at the end of the course:
+
+- Working Android app (APK)
+- Documentation (produced during the project):
+	- Vision
+	- A few user stories
+	- Developer documentation (information relevant to people who work on the project) Suggestions:
+		- How does the build process work
+		- What major parts / components are there in the application
+		- Design decisions (such as API level, etc.)
+		- UML
+		- Flowchart
+		- Protocol (client/server )
+		- External dependencies
+		- Others that fit your project.
+	- User manual
+- [Post-mortem Report][pmr]
+
+Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
+
+Each *group* will be given 10 + 5 mins to present their application. The presentation should introduce the app (including the major features), interesting design decisions, the process, and a brief reflection. 
+(You going to have access to following: micro HDMI and VGA connected to projector,blackboard. I also recommend using some recording tool)
+
+Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $60 for a group of 7). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than Oct 27 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+
+You can find more information about the [grading policy][grading] in the wiki.
+
+[pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
+[grading]: https://github.com/morganericsson/DAT255/wiki/Grading-Policy
 
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorized to publish this project which was made during the fall semester (2012).
