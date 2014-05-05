@@ -53,7 +53,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 7/4 *13:15-15:00* | VasaC | **Scrum** | TL | [7][L7] |
 | 11/4 *13:15-15:00* | VasaC | **Testing** | ME | [8][L8], Video: [1][V2],[2][V3] |
 | 28/4 *13:15-15:00* | VasaC | **Agile and scaling Agile** | TL | [9][L9] |
-| 5/5 *13:15-15:00* | VasaC | **Product owner, team and project management** | TL |  |
+| 5/5 *13:15-15:00* | VasaC | **Product owner, team and project management** | TL | [10][L10] |
 | 9/5 *13:15-15:00* | VasaC | **Design and Architecture** | ME |  |
 | 16/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
 | 19/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
@@ -78,6 +78,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [L9]: https://github.com/morganericsson/DAT255/blob/master/slides/l9.pdf?raw=true
+[L10]: https://github.com/morganericsson/DAT255/blob/master/slides/l10.pdf?raw=true
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
