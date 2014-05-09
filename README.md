@@ -85,7 +85,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
 [V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4f
 
-[psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_project_handoff.md
+[psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_project_handoff.md#d1
 
 ### Schedule supervision sessions (2/4 --)
 
