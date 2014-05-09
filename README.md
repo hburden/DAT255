@@ -58,8 +58,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 16/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
 | 19/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
 | 23/5 *13:15-15:00* | VasaC | **Technical Assistance Session** | ME |  |
-| 26/5 *13:15-17:00* | EC | **Final Presentations** | ME+AM | | 
-| 27/5 *13:15-17:00* | EC | **Final Presentations** | ME+AM | | 
+| 26/5 *13:15-17:00* | EC | **Final Presentations** ([Schedule][psched]) | ME+AM | | 
+| 27/5 *13:15-17:00* | EC | **Final Presentations** ([Schedule][psched]) | ME+AM | | 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ708Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
@@ -84,6 +84,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
 [V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4f
+
+[psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_project_handoff.md
 
 ### Schedule supervision sessions (2/4 --)
 
