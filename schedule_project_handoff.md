@@ -20,7 +20,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 
 ## 26/5 13:15-16:00 <a id="d1"></a>
 
-1. Free
+1. Group 8
 2. Free
 3. Free
 4. Free
@@ -31,7 +31,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 
 ## 27/5 13:15-16:00 <a id="d2"></a>
 
-1. Free
+1. GLPP (Group 3)
 2. Free
 3. Free
 4. Free
