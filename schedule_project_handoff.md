@@ -18,7 +18,7 @@ Each group will have about 15 minutes to present. Try to use 10 mins for present
 
 Note that the schedule is very tight, so please be as prepared as possible (test your equipment, make sure you only need 10 mins, etc.)
 
-## 26/5 13:15-16:00
+## 26/5 13:15-16:00 <a id="d1"></a>
 
 1. Free
 2. Free
@@ -29,7 +29,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 7. Free
 8. Free
 
-## 27/5 13:15-16:00
+## 27/5 13:15-16:00 <a id="d2"></a>
 
 1. Free
 2. Free
