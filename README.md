@@ -83,7 +83,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
-[V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4f
+[V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
 
 [psched]: https://github.com/morganericsson/DAT255/blob/master/schedule_project_handoff.md#d1
 
