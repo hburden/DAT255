@@ -32,7 +32,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 ## 27/5 13:15-16:00 <a id="d2"></a>
 
 1. GLPP (Group 3)
-2. Free
+2. Dajoroli (Group 4)
 3. Free
 4. Free
 5. Free
