@@ -22,7 +22,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 
 1. Group 8
 2. Grupp 7
-3. Free
+3. Group 1
 4. Free
 5. Free
 6. Free
