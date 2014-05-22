@@ -24,7 +24,7 @@ Note that the schedule is very tight, so please be as prepared as possible (test
 2. Grupp 7
 3. Group 1
 4. Group 2 (Spaceshooter)
-5. Free
+5. Group 6
 6. Free
 7. Free
 8. Free
