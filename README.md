@@ -37,8 +37,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 1/9 *10:00 --- 11:45* | ?? | **Introduction** | | |
-
+| 1/9 *10:00 - 11:45* | ?? | **Introduction** | | |
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ509Z50Qv17003gZ6y6Y7106Q5Y65Y5.html
 [GITBOOK]: http://git-scm.com/book
