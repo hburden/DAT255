@@ -33,11 +33,11 @@ After passing the course, you will be able to lead agile projects, work without 
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 
 ## Lectures and Tutorials
-Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. 
+Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 1/9 *10:00 - 11:45* | ?? | **Introduction** | | |
+| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | | |
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ509Z50Qv17003gZ6y6Y7106Q5Y65Y5.html
 [GITBOOK]: http://git-scm.com/book
@@ -49,7 +49,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 ## Examination
 Every *group* should submit the following at the end of the course:
 
-- Working Android app (APK)
+- Working app (APK)
 - Documentation (produced during the project):
 	- Vision
 	- A few user stories
