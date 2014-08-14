@@ -71,7 +71,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 ## Examination
 Every *group* should submit the following at the end of the course:
 
-- Working app (APK)
+- Working app (APK) that will be demonstrated at the project presentations. Each team will either present 8.30-12.00 or 13.00-16.30. 
 - Documentation (produced during the project):
 	- Vision
 	- A few user stories
