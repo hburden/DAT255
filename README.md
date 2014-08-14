@@ -17,13 +17,19 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Teachers
 - [Håkan Burden] (HB), (lecturer)
-- [Morgan Ericsson] (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (lecturer)
+- [Morgan Ericsson] (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
 - Thomas Luvö (TL), tom@samoht.se (lecturer)
 
 [Håkan Burden]: http://www.chalmers.se/en/staff/Pages/burden.aspx
 [Morgan Ericsson]: http://www.chalmers.se/en/staff/Pages/moreri.aspx
 
+## Supervisors
+
+TBA
+
 ## Student Representatives
+
+TBA
 
 ## Course Litteratur / Recommended reading
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
@@ -38,6 +44,22 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 1/9 *15:15 - 17:00* | HA4 | **Introduction** | | |
+| 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | | |
+| 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | | |
+| 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | | |
+| 15/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 17/9 *10:00 - 11:45* | HC4 | **SICS** | | |
+| 22/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 24/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 29/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 1/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 6/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 8/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 13/10 *10:00 - 11:45* | HC4 | **SICS** | | |
+| 15/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 20/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 22/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 24/10 *15:15 - 17:00* | Lindholmen | **Project presentations** | | |
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ509Z50Qv17003gZ6y6Y7106Q5Y65Y5.html
 [GITBOOK]: http://git-scm.com/book
@@ -75,7 +97,7 @@ You can find more information about the [grading policy][grading] in the wiki.
 [grading]: https://github.com/morganericsson/DAT255/wiki/Grading-Policy
 
 ## Sample project
-To give you an idea of what a project might look like in the end, we've been authorised to publish this project which was made during the fall semester (2012).
+To give you an idea of what a project might look like in the end, we've been authorised to publish this project which was made during the fall semester (2012). Note that this project is a regular Android app, so use it to get an idea about documentation and such.
 
 [WatchMe for Android][WTCHME]
 
