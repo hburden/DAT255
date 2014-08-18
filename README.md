@@ -8,7 +8,8 @@ Given the nature of software, is it really feasible to identify all variables be
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects, using the following agile principles:
 
-- The customer is a part of the development team Incremental development 
+- Creating value for an external customer 
+- Incremental development 
 - The developer should not be hindered by the process 
 - Embrace changes 
 - Continuous refactoring (restructuring) of the design
@@ -16,7 +17,7 @@ In this course you will learn how to design and develop software, and to manage 
 After passing the course, you will be able to lead agile projects, work without a detailed schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
 ## Teachers
-- [Håkan Burden] (HB), (lecturer)
+- [Håkan Burden] (HB), [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
 - [Morgan Ericsson] (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
 - Thomas Luvö (TL), tom@samoht.se (lecturer)
 
