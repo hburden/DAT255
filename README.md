@@ -50,9 +50,9 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | ME & HB | |
 | 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | |
 | 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
-| 22/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 22/9 *10:00 - 11:45* | HC4 | **TBD** | TL | |
 | 24/9 *10:00 - 11:45* | HC4 | **TBD** | | |
-| 29/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 29/9 *10:00 - 11:45* | HC4 | **TBD** | TL | |
 | 1/10 *10:00 - 11:45* | HC4 | **TBD** | | |
 | 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
 | 8/10 *10:00 - 11:45* | HC4 | **TBD** | | |
