@@ -17,8 +17,8 @@ In this course you will learn how to design and develop software, and to manage 
 After passing the course, you will be able to lead agile projects, work without a detailed schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
 ## Teachers
-- [Håkan Burden] (HB), [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
-- [Morgan Ericsson] (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
+- Håkan Burden (HB), [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
+- Morgan Ericsson (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
 - Thomas Luvö (TL), tom@samoht.se (lecturer)
 
 [Håkan Burden]: http://www.chalmers.se/en/staff/Pages/burden.aspx
@@ -44,8 +44,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | | |
-| 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | | |
+| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | ME & HB | |
+| 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | SICS | |
 | 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | | |
 | 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | | |
 | 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | |
