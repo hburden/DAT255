@@ -44,7 +44,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | ME & HB | |
+| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | ME & HB | [1][L1] |
 | 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | SICS | |
 | 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | ME & HB | |
 | 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | ME & HB | |
@@ -68,6 +68,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
+[L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 
 ## Examination
 Every *group* should submit the following at the end of the course:
