@@ -17,8 +17,8 @@ In this course you will learn how to design and develop software, and to manage 
 After passing the course, you will be able to lead agile projects, work without a detailed schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
 ## Teachers
-- [Håkan Burden] (HB), [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
-- [Morgan Ericsson] (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
+- Håkan Burden (HB), [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
+- Morgan Ericsson (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
 - Thomas Luvö (TL), tom@samoht.se (lecturer)
 
 [Håkan Burden]: http://www.chalmers.se/en/staff/Pages/burden.aspx
@@ -44,18 +44,18 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | | |
-| 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | | |
-| 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | | |
-| 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | | |
-| 15/9 *10:00 - 11:45* | HC4 | **Scrum** | | |
-| 17/9 *10:00 - 11:45* | HC4 | **SICS** | | |
-| 22/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | ME & HB | [1][L1] |
+| 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | SICS | |
+| 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | ME & HB | |
+| 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | ME & HB | |
+| 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | |
+| 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
+| 22/9 *10:00 - 11:45* | HC4 | **Scrum** | TL | |
 | 24/9 *10:00 - 11:45* | HC4 | **TBD** | | |
-| 29/9 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | |
 | 1/10 *10:00 - 11:45* | HC4 | **TBD** | | |
-| 6/10 *10:00 - 11:45* | HC4 | **Scaling Agile** | | |
-| 8/10 *10:00 - 11:45* | HC4 | **SICS** | | |
+| 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
+| 8/10 *10:00 - 11:45* | HC4 | **TBD** | | |
 | 13/10 *10:00 - 11:45* | HC4 | **TBD** | | |
 | 15/10 *10:00 - 11:45* | HC4 | **TBD** | | |
 | 20/10 *10:00 - 11:45* | HC4 | **TBD** | | |
@@ -68,6 +68,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
+[L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 
 ## Examination
 Every *group* should submit the following at the end of the course:
