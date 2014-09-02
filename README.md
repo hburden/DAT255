@@ -19,14 +19,21 @@ After passing the course, you will be able to lead agile projects, work without 
 ## Teachers
 - Håkan Burden (HB), [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
 - Morgan Ericsson (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
-- Thomas Luvö (TL), tom@samoht.se (lecturer)
+- Thomas Luvö (TL), [tom@samoht.se](tom@samoht.se) (lecturer)
 
 [Håkan Burden]: http://www.chalmers.se/en/staff/Pages/burden.aspx
 [Morgan Ericsson]: http://www.chalmers.se/en/staff/Pages/moreri.aspx
 
 ## Supervisors
 
-TBA
+- Johan Lindskogen, [jolinds@student.chalmers.se](jolinds@student.chalmers.se)
+- Robin Grönberg, [robgro@telia.com](robgro@telia.com)
+- Rikard Ekbom, [rikard.ekbom@telia.com](rikard.ekbom@telia.com)
+- Johan Andersson [johandf@student.chalmers.se](mailto:johandf@student.chalmers.se)
+- Jonas Berglund, [berglund.jonas@gmail.com](berglund.jonas@gmail.com)
+- Viktor Sjölind, [vsjolind@gmail.com](vsjolind@gmail.com)
+- Johan Fredriksson, [johan.fredriksson@outlook.com](johan.fredriksson@outlook.com)
+- Anton Bretting, [sajfer@gmail.com](sajfer@gmail.com) 
 
 ## Student Representatives
 
