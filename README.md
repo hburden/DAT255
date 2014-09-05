@@ -36,8 +36,11 @@ After passing the course, you will be able to lead agile projects, work without 
 - Anton Bretting, [sajfer@gmail.com](sajfer@gmail.com) 
 
 ## Student Representatives
-
-TBA
+- Oscar Beronius, [beronius@student.chalmers.se](beronius@student.chalmers.se)
+- Michael Edevåg, [edevagm@student.chalmers.se](edevagm@student.chalmers.se)           
+- David Gustafsson, [davgusta@student.chalmers.se](davgusta@student.chalmers.se)
+- Louise Johannesson, [loujohan@student.chalmers.se](loujohan@student.chalmers.se) 
+- Albin Pålsson, [albinpa@student.chalmers.se](albinpa@student.chalmers.se)
 
 ## Course Litteratur / Recommended reading
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
