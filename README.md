@@ -110,6 +110,12 @@ You can find more information about the [grading policy][grading] in the wiki.
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [grading]: https://github.com/morganericsson/DAT255/wiki/Grading-Policy
 
+## Surveys
+- [Week 1][wk1]: Platform services.
+
+
+[wk1]: https://docs.google.com/forms/d/1TJwjR39y-P74wBw6eX17EzWft9GlTZ2dcSWVyFpVTD8/viewform?usp=send_form
+
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorised to publish this project which was made during the fall semester (2012). Note that this project is a regular Android app, so use it to get an idea about documentation and such.
 
