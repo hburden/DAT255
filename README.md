@@ -81,6 +81,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
+[L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
 
 ## Examination
 Every *group* should submit the following at the end of the course:
