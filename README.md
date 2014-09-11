@@ -68,8 +68,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| |
 | 13/10 *10:00 - 11:45* | HC4 | **TBD** | | |
 | 15/10 *10:00 - 11:45* | HC4 | **TBD** | | |
-| 20/10 *10:00 - 11:45* | HC4 | **TBD** | | |
-| 22/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 20/10 *10:00 - 11:45* | HC4 | -- | | |
+| 22/10 *10:00 - 11:45* | HC4 | -- | | |
 | 24/10 *08.30 - 16:30* | Lindholmen | **Project presentations** | | |
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ509Z50Qv17003gZ6y6Y7106Q5Y65Y5.html
