@@ -42,7 +42,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Louise Johannesson, [loujohan@student.chalmers.se](loujohan@student.chalmers.se) 
 - Albin Pålsson, [albinpa@student.chalmers.se](albinpa@student.chalmers.se)
 
-## Course Litteratur / Recommended reading
+## Course Literature / Recommended reading
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
 - [Pro Git][GITBOOK]
 - Writing a product vision: [1][pv1], [2][pv2].
