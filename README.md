@@ -59,7 +59,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | ME & HB | [3][L3] |
 | 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | ME & HB |[4][L4] |
 | 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | [5][L5] |
-| 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
+| 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [6][L6] |
 | 22/9 *10:00 - 11:45* | HC4 | **Scrum** | TL | |
 | 24/9 *10:00 - 11:45* | HC4 | **TBD** | | |
 | 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | |
@@ -83,6 +83,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
 [L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
+[L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
 
 ## Examination
 Every *group* should submit the following at the end of the course:
