@@ -57,7 +57,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 1/9 *15:15 - 17:00* | HA4 | **Introduction** | ME & HB | [1][L1] |
 | 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | SICS | [2][L2] |
 | 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | ME & HB | [3][L3] |
-| 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | ME & HB | |
+| 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | ME & HB |[4][L4] |
 | 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | [5][L5] |
 | 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
 | 22/9 *10:00 - 11:45* | HC4 | **Scrum** | TL | |
