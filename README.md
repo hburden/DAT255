@@ -32,7 +32,6 @@ After passing the course, you will be able to lead agile projects, work without 
 - Johan Andersson [johandf@student.chalmers.se](mailto:johandf@student.chalmers.se)
 - Jonas Berglund, [berglund.jonas@gmail.com](berglund.jonas@gmail.com)
 - Viktor Sjölind, [vsjolind@gmail.com](vsjolind@gmail.com)
-- Johan Fredriksson, [johan.fredriksson@outlook.com](johan.fredriksson@outlook.com)
 - Anton Bretting, [sajfer@gmail.com](sajfer@gmail.com) 
 
 ## Student Representatives
