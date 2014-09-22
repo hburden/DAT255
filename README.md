@@ -47,7 +47,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Writing a product vision: [1][pv1], [2][pv2].
 - [A successful Git branching model][gitbranch]
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
-- Guideline: [HMI and SDK][HMI]
+- Guideline: [HMI and SDK][HMI]. By accessing the contents you agree on the terms as stipulated in the [contest rules][ContestRules].
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
@@ -79,6 +79,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
 [HMI]: https://se-div-c3s-1.ce.chalmers.se:7001/index.cgi
+[ContestRules]: http://github.com/morganericsson/DAT255/wiki/ContestRules
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
