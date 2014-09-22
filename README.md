@@ -47,7 +47,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Writing a product vision: [1][pv1], [2][pv2].
 - [A successful Git branching model][gitbranch]
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
-- Guideline: [HMI and SDK][HMI]. By accessing the contents you agree on the terms as stipulated in the [contest rules][ContestRules].
+- Guideline: [HMI and SDK][HMI]. By accessing the contents you agree on the terms as stipulated in the [contest rules][Contest Rules].
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
