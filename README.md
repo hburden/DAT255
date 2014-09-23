@@ -61,7 +61,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | [5][L5] |
 | 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [6][L6] |
 | 22/9 *10:00 - 11:45* | HC4 | **Scrum** | TL | [7][L7] |
-| 24/9 *10:00 - 11:45* | HC4 | **Tools** | ME & HB | |
+| 24/9 *10:00 - 11:45* | HC4 | **Tools (and AGA Workshop)** | ME & HB | [examples][agarepo] |
 | 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | |
 | 1/10 *10:00 - 11:45* | HC4 | -- | | |
 | 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
@@ -87,6 +87,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
 [L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
+[agarepo]: https://github.com/morganericsson/AGAExamples
 
 ## Examination
 Every *group* should submit the following at the end of the course:
