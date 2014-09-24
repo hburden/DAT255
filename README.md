@@ -48,6 +48,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - [A successful Git branching model][gitbranch]
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 - Guideline: [HMI and SDK][HMI]. By accessing the contents you agree on the terms as stipulated in the [contest rules][ContestRules].
+- [Sorting out the easy tasks from the difficult] [xkcd]
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
@@ -88,6 +89,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [agarepo]: https://github.com/morganericsson/AGAExamples
+[xkcd]: http://xkcd.com/1425/
+
 
 ## Examination
 Every *group* should submit the following at the end of the course:
