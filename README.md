@@ -43,7 +43,7 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Course Literature / Recommended reading
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
-- [Pro Git][GITBOOK]
+- [Pro Git][GITBOOK], [Git Videos][gitvid]
 - Writing a product vision: [1][pv1], [2][pv2].
 - [A successful Git branching model][gitbranch]
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
@@ -75,6 +75,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ509Z50Qv17003gZ6y6Y7106Q5Y65Y5.html
 [GITBOOK]: http://git-scm.com/book
+[gitvid]: http://git-scm.com/videosa
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
