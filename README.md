@@ -62,13 +62,13 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | [5][L5] |
 | 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [6][L6] |
 | 22/9 *10:00 - 11:45* | HC4 | **Scrum** | TL | [7][L7] |
-| 24/9 *10:00 - 11:45* | HC4 | **Tools (and AGA Workshop)** | ME & HB | [8][L8], [examples][agarepo] |
+| 24/9 *10:00 - 11:45* | HC4 | **Tools (and AGA Workshop)** | ME & HB | [8][L8], [examples][agarepo] [Android Video][V1] |
 | 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | |
 | 1/10 *10:00 - 11:45* | HC4 | -- | | |
 | 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
 | 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| |
-| 13/10 *10:00 - 11:45* | HC4 | **TBD** | | |
-| 15/10 *10:00 - 11:45* | HC4 | **TBD** | | |
+| 13/10 *10:00 - 11:45* | HC4 | **Testing and Documentation** | ME & HB | Videos: [1][V2], [2][V2] |
+| 15/10 *10:00 - 11:45* | HC4 | **Post-mortem** | HB & ME | |
 | 20/10 *10:00 - 11:45* | HC4 | -- | | |
 | 22/10 *10:00 - 11:45* | HC4 | -- | | |
 | 24/10 *08.30 - 16:30* | Lindholmen | **Project presentations** | | |
@@ -92,6 +92,10 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 [agarepo]: https://github.com/morganericsson/AGAExamples
 [xkcd]: http://xkcd.com/1425/
+
+[V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
+[V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
+[V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
 
 
 ## Examination
