@@ -64,7 +64,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [6][L6] |
 | 22/9 *10:00 - 11:45* | HC4 | **Scrum** | TL | [7][L7] |
 | 24/9 *10:00 - 11:45* | HC4 | **Tools (and AGA Workshop)** | ME & HB | [8][L8], [examples][agarepo] [Android Video][V1] |
-| 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | |
+| 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | [9][L9] |
 | 1/10 *10:00 - 11:45* | HC4 | -- | | |
 | 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | |
 | 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| |
@@ -91,6 +91,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
+[L9]: https://github.com/morganericsson/DAT255/blob/master/slides/l9.pdf?raw=true
 
 [agarepo]: https://github.com/morganericsson/AGAExamples
 [xkcd]: http://xkcd.com/1425/
