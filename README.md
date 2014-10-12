@@ -68,7 +68,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 1/10 *10:00 - 11:45* | HC4 | -- | | |
 | 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [10][L10] |
 | 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| |
-| 13/10 *10:00 - 11:45* | HC4 | **Testing and Documentation** | ME & HB | Videos: [1][V2], [2][V2] |
+| 13/10 *10:00 - 11:45* | HC4 | **Testing and Documentation** | ME & HB | [12][L12] Videos: [1][V2], [2][V2] |
 | 15/10 *10:00 - 11:45* | HC4 | **Post-mortem** | HB & ME | |
 | 20/10 *10:00 - 11:45* | HC4 | -- | | |
 | 22/10 *10:00 - 11:45* | HC4 | -- | | |
@@ -93,6 +93,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [L9]: https://github.com/morganericsson/DAT255/blob/master/slides/l9.pdf?raw=true
 [L10]: https://github.com/morganericsson/DAT255/blob/master/slides/l10.pdf?raw=true
+[L12]: https://github.com/morganericsson/DAT255/blob/master/slides/l12.pdf?raw=true
 
 [agarepo]: https://github.com/morganericsson/AGAExamples
 [xkcd]: http://xkcd.com/1425/
@@ -124,7 +125,7 @@ Every *group* should submit the following at the end of the course:
 
 Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
 
-Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $30 for a group of 4). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than XX 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $30 for a group of 4). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than Oct 31 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 You can find more information about the [grading policy][grading] in the wiki.
 
