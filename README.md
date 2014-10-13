@@ -67,7 +67,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | [9][L9] |
 | 1/10 *10:00 - 11:45* | HC4 | -- | | |
 | 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [10][L10] |
-| 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| [11][F1] [12][F2] |
+| 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| [Video 1][F1] & [Video 2][F2] |
 | 13/10 *10:00 - 11:45* | HC4 | **Testing and Documentation** | ME & HB | [12][L12] Videos: [1][V2], [2][V2] |
 | 15/10 *10:00 - 11:45* | HC4 | **Post-mortem** | HB & ME | |
 | 20/10 *10:00 - 11:45* | HC4 | -- | | |
