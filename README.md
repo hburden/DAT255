@@ -67,7 +67,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | [9][L9] |
 | 1/10 *10:00 - 11:45* | HC4 | -- | | |
 | 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [10][L10] |
-| 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| [Video 1][F1] & [Video 2][F2] |
+| 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| [Video 1][V4] & [Video 2][V5] |
 | 13/10 *10:00 - 11:45* | HC4 | **Testing and Documentation** | ME & HB | [12][L12] Videos: [1][V2], [2][V2] |
 | 15/10 *10:00 - 11:45* | HC4 | **Post-mortem** | HB & ME | |
 | 20/10 *10:00 - 11:45* | HC4 | -- | | |
@@ -94,9 +94,6 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L9]: https://github.com/morganericsson/DAT255/blob/master/slides/l9.pdf?raw=true
 [L10]: https://github.com/morganericsson/DAT255/blob/master/slides/l10.pdf?raw=true
 [L12]: https://github.com/morganericsson/DAT255/blob/master/slides/l12.pdf?raw=true
-[F1]: https://www.youtube.com/watch?v=Mpsn3WaI_4k
-[F2]: https://www.youtube.com/watch?v=X3rGdmoTjDc
-
 
 [agarepo]: https://github.com/morganericsson/AGAExamples
 [xkcd]: http://xkcd.com/1425/
@@ -105,6 +102,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
 [V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
+[V4]: https://www.youtube.com/watch?v=Mpsn3WaI_4k
+[V5]: https://www.youtube.com/watch?v=X3rGdmoTjDc
 
 
 ## Examination
