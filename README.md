@@ -50,6 +50,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Guideline: [HMI and SDK][HMI]. By accessing the contents you agree on the terms as stipulated in the [contest rules][ContestRules].
 - [Sorting out the easy tasks from the difficult] [xkcd]
 - Louis C. K. on [driving and cell phones] [COCO]
+- Occlusion testing for [Mac][OccMac] and [Windows][OccWin]
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
@@ -98,6 +99,9 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [agarepo]: https://github.com/morganericsson/AGAExamples
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
+
+[OccMac]: https://github.com/morganericsson/DAT255/tree/master/SICS_Test_Leader_Mac
+[OccWin]: https://github.com/morganericsson/DAT255/tree/master/SICS_Test_Leader_Windows/SICS%20Test%20Leader%20Windows
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
