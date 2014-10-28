@@ -1,5 +1,7 @@
 # DAT255, Software Engineering Project, 7.5 HEC, HT2014
 
+*See the [Test Leader wiki page][OccWiki] for more information about Occlusion testing and Test Leader*
+
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
@@ -50,7 +52,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - Guideline: [HMI and SDK][HMI]. By accessing the contents you agree on the terms as stipulated in the [contest rules][ContestRules].
 - [Sorting out the easy tasks from the difficult] [xkcd]
 - Louis C. K. on [driving and cell phones] [COCO]
-- Occlusion testing for [Mac][OccMac] and [Windows][OccWin]
+- [Wiki page][OccWiki] on Occlusion testing and Test Leader (incl. downloads)
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
@@ -100,8 +102,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
 
-[OccMac]: https://github.com/morganericsson/DAT255/tree/master/SICS_Test_Leader_Mac
-[OccWin]: https://github.com/morganericsson/DAT255/tree/master/SICS_Test_Leader_Windows/SICS%20Test%20Leader%20Windows
+[OccWiki]: https://github.com/morganericsson/DAT255/wiki/Test-Leader
 
 [V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
 [V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
