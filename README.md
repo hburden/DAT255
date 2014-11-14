@@ -1,6 +1,17 @@
 # DAT255, Software Engineering Project, 7.5 HEC, HT2014
+## Winners
+After a meticulous evaluation the jury has chosen to reward three teams:
+- SIMONS GRUPP for their app TWORK
+- DEADLIEST TRUCKS for their app Fleetspeak
+- BABBLA for their app Babbla
+The three winning teams will be invited to attend the next VICTA Innovation event where they’ll have the opportunity to improve and further develop their App during a 36-hour hackathon, involving professional developers.
+ 
+Two other teams are also recognized and receive congratulations from the jury members for their excellent work and good apps:
+- BEHROZ for their App ATTENTION
+- GRUPPTRUCK for their App RoadQuiz
 
-*See the [Test Leader wiki page][OccWiki] for more information about Occlusion testing and Test Leader*
+The five teams will be invited by e-mail in the coming weeks to present their apps at AB Volvo in mid December.
+
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -53,6 +64,7 @@ After passing the course, you will be able to lead agile projects, work without 
 - [Sorting out the easy tasks from the difficult] [xkcd]
 - Louis C. K. on [driving and cell phones] [COCO]
 - [Wiki page][OccWiki] on Occlusion testing and Test Leader (incl. downloads)
+- See the [Test Leader wiki page][OccWiki] for more information about Occlusion testing and Test Leader
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
