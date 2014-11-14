@@ -4,6 +4,7 @@ After a meticulous evaluation the jury has chosen to reward three teams:
 - SIMONS GRUPP for their app TWORK
 - DEADLIEST TRUCKS for their app Fleetspeak
 - BABBLA for their app Babbla
+
 The three winning teams will be invited to attend the next VICTA Innovation event where they’ll have the opportunity to improve and further develop their App during a 36-hour hackathon, involving professional developers.
  
 Two other teams are also recognized and receive congratulations from the jury members for their excellent work and good apps:
