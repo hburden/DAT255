@@ -1,4 +1,9 @@
 # DAT255, Software Engineering Project, 7.5 HEC, HT2014
+
+## Grade and Assessment Review ('Granskning')
+If you want to know more about our assessment and your grade you can come to room 3364, the EDIT-room, at Campus Johanneberg on Dec 4th between 15:00 and 16:30.
+
+
 ## Winners
 After a meticulous evaluation the jury has chosen to reward three teams:
 - SIMONS GRUPP for their app TWORK
