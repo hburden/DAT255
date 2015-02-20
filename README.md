@@ -35,9 +35,9 @@ After passing the course, you will be able to lead agile projects, work without 
 - [Sorting out the easy tasks from the difficult] [xkcd]
 
 ## Lectures and Tutorials
-Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
+Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use!
 
-[timeedit]: 
+[timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
 [gitvid]: http://git-scm.com/videosa
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
