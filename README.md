@@ -1,19 +1,4 @@
-# DAT255, Software Engineering Project, 7.5 HEC, HT2014
-
-## Winners
-After a meticulous evaluation the jury has chosen to reward three teams:
-- SIMONS GRUPP for their app TWORK
-- DEADLIEST TRUCKS for their app Fleetspeak
-- BABBLA for their app Babbla
-
-The three winning teams will be invited to attend the next VICTA Innovation event where they’ll have the opportunity to improve and further develop their apps during a 36-hour hackathon, involving professional developers.
- 
-Two other teams are also recognized and receive congratulations from the jury members for their excellent work and good apps:
-- BEHROZ for their App ATTENTION
-- GRUPPTRUCK for their App RoadQuiz
-
-The five teams will be invited by e-mail in the coming weeks to present their apps at AB Volvo in mid December.
-
+# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, VT2015
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -39,22 +24,7 @@ After passing the course, you will be able to lead agile projects, work without 
 [Håkan Burden]: http://www.chalmers.se/en/staff/Pages/burden.aspx
 [Morgan Ericsson]: http://www.chalmers.se/en/staff/Pages/moreri.aspx
 
-## Supervisors
-
-- Johan Lindskogen, [jolinds@student.chalmers.se](jolinds@student.chalmers.se)
-- Robin Grönberg, [robgro@telia.com](robgro@telia.com)
-- Rikard Ekbom, [rikard.ekbom@telia.com](rikard.ekbom@telia.com)
-- Johan Andersson [johandf@student.chalmers.se](mailto:johandf@student.chalmers.se)
-- Jonas Berglund, [berglund.jonas@gmail.com](berglund.jonas@gmail.com)
-- Viktor Sjölind, [vsjolind@gmail.com](vsjolind@gmail.com)
-- Anton Bretting, [sajfer@gmail.com](sajfer@gmail.com) 
-
 ## Student Representatives
-- Oscar Beronius, [beronius@student.chalmers.se](beronius@student.chalmers.se)
-- Michael Edevåg, [edevagm@student.chalmers.se](edevagm@student.chalmers.se)           
-- David Gustafsson, [davgusta@student.chalmers.se](davgusta@student.chalmers.se)
-- Louise Johannesson, [loujohan@student.chalmers.se](loujohan@student.chalmers.se) 
-- Albin Pålsson, [albinpa@student.chalmers.se](albinpa@student.chalmers.se)
 
 ## Course Literature / Recommended reading
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
@@ -62,68 +32,21 @@ After passing the course, you will be able to lead agile projects, work without 
 - Writing a product vision: [1][pv1], [2][pv2].
 - [A successful Git branching model][gitbranch]
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
-- Guideline: [HMI and SDK][HMI]. By accessing the contents you agree on the terms as stipulated in the [contest rules][ContestRules].
 - [Sorting out the easy tasks from the difficult] [xkcd]
-- Louis C. K. on [driving and cell phones] [COCO]
-- [Wiki page][OccWiki] on Occlusion testing and Test Leader (incl. downloads)
-- See the [Test Leader wiki page][OccWiki] for more information about Occlusion testing and Test Leader
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit].
 
-| Date & Time | Room(s) | Theme |Who | Slides |
-|  ------	| :----:	| ------	| :------: |  :------: |
-| 1/9 *15:15 - 17:00* | HA4 | **Introduction** | ME & HB | [1][L1] |
-| 3/9 *10:00 - 11:45* | HC4 | **Intro to SICS** | SICS | [2][L2] |
-| 8/9 *10:00 - 11:45* | HC4 | **Software Engineering** | ME & HB | [3][L3] |
-| 10/9 *10:00 - 11:45* | HC4 | **Software Engineering (cont'd)** | ME & HB |[4][L4] |
-| 15/9 *10:00 - 11:45* | HC4 | **AGA HMI** | SICS | [5][L5] |
-| 17/9 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [6][L6] |
-| 22/9 *10:00 - 11:45* | HC4 | **Scrum** | TL | [7][L7] |
-| 24/9 *10:00 - 11:45* | HC4 | **Tools (and AGA Workshop)** | ME & HB | [8][L8], [examples][agarepo] [Android Video][V1] |
-| 29/9 *10:00 - 11:45* | HC4 | **Scaling Agile** | TL | [9][L9] |
-| 1/10 *10:00 - 11:45* | HC4 | -- | | |
-| 6/10 *10:00 - 11:45* | HC4 | **AGA SDK** | SICS | [10][L10] |
-| 8/10 *10:00 - 11:45* | HC4 | **Agile Tribes** | Spotify| [Video 1][V4] & [Video 2][V5] |
-| 13/10 *10:00 - 11:45* | HC4 | **Testing and Documentation** | ME & HB | [12][L12] Videos: [1][V2], [2][V2] |
-| 15/10 *10:00 - 11:45* | HC4 | **Post-mortem** | HB & ME | |
-| 20/10 *10:00 - 11:45* | HC4 | -- | | |
-| 22/10 *10:00 - 11:45* | HC4 | -- | | |
-| 24/10 *08.30 - 16:30* | Lindholmen | **Project presentations** | | |
-
-[timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ509Z50Qv17003gZ6y6Y7106Q5Y65Y5.html
+[timeedit]: 
 [GITBOOK]: http://git-scm.com/book
 [gitvid]: http://git-scm.com/videosa
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
-[HMI]: https://se-div-c3s-1.ce.chalmers.se:7001/index.cgi
-[ContestRules]: http://github.com/morganericsson/DAT255/wiki/Contest-Rules
-[L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
-[L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
-[L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
-[L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
-[L5]: https://github.com/morganericsson/DAT255/blob/master/slides/l5.pdf?raw=true
-[L6]: https://github.com/morganericsson/DAT255/blob/master/slides/l6.pdf?raw=true
-[L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
-[L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
-[L9]: https://github.com/morganericsson/DAT255/blob/master/slides/l9.pdf?raw=true
-[L10]: https://github.com/morganericsson/DAT255/blob/master/slides/l10.pdf?raw=true
-[L12]: https://github.com/morganericsson/DAT255/blob/master/slides/l12.pdf?raw=true
 
-[agarepo]: https://github.com/morganericsson/AGAExamples
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
-
-[OccWiki]: https://github.com/morganericsson/DAT255/wiki/Test-Leader
-
-[V1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
-[V2]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4
-[V3]: https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4
-[V4]: https://www.youtube.com/watch?v=Mpsn3WaI_4k
-[V5]: https://www.youtube.com/watch?v=X3rGdmoTjDc
-
 
 ## Examination
 Every *group* should submit the following at the end of the course:
@@ -153,15 +76,7 @@ You can find more information about the [grading policy][grading] in the wiki.
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [grading]: https://github.com/morganericsson/DAT255/wiki/Grading-Policy
 
-## Surveys
-- [Week 1][wk1]: Platform services.
-
-
-[wk1]: https://docs.google.com/forms/d/1TJwjR39y-P74wBw6eX17EzWft9GlTZ2dcSWVyFpVTD8/viewform?usp=send_form
-
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorised to publish this project which was made during the fall semester (2012). Note that this project is a regular Android app, so use it to get an idea about documentation and such.
 
-[WatchMe for Android][WTCHME]
-
-[WTCHME]: http://github.com/johanbrook/watchme
+[WatchMe for Android][http://github.com/johanbrook/watchme]
