@@ -37,9 +37,29 @@ After passing the course, you will be able to lead agile projects, work without 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use!
 
+| Date & Time | Room(s) | Theme |Who | Slides |
+|  ------	| :----:	| ------	| :------: |  :------: |
+| 23/3 *13:15 - 15:00* | VasaC | **Introduction** | ME & HB | |
+| 25/3 *13:15 - 15:00* | VasaC | **Project overview** | ME & HB | |
+| 27/3 *13:15 - 17:00* | Patricia, *Lindholmen* | **Introduction to Scrum** | HB | |
+| 30/3 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
+| 1/4 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
+| 20/4 *13:15 - 15:00* | VasaC | **Android development** | ME| |
+| 24/4 *13:15 - 15:00* | VasaC | **Scaling Agile** | TL | |
+| 29/4 *13:15 - 15:00* | VasaC | **Agile Tribes** | Spotify | |
+| 4/5 *13:15 - 15:00* | VasaC | **TBD** | | |
+| 7/5 *13:15 - 15:00* | VasaC | **TBD** | | |
+| 11/5 *13:15 - 15:00* | VasaC | **TBD** | | |
+| 12/5 *13:15 - 15:00* | VasaC | **TBD** | | |
+| 18/5 *13:15 - 15:00* | VasaC | **TBD** | | |
+| 22/5 *13:15 - 15:00* | VasaC | **TBD** | | |
+| 25/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
+| 27/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
+
+
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
-[gitvid]: http://git-scm.com/videosa
+[gitvid]: http://git-scm.com/videos
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
@@ -47,6 +67,18 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
+
+## Supervision
+
+The project starts Monday April 20. There will be weekly supervision/Scrum meetings during the project. Each group will be assigned a supervisor and a (20 min) slot per week.
+
+| Date | Room(s) |  
+|  ------	| ------	|  
+| 22/4 | Vasa 3 & 4 |
+| 29/4 | Vasa 3 & 4 |
+| 6/5 | Vasa 3 & 4 |
+| 13/5 | Vasa 3 & 4 |
+
 
 ## Examination
 Every *group* should submit the following at the end of the course:
@@ -69,7 +101,7 @@ Every *group* should submit the following at the end of the course:
 
 Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
 
-Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $30 for a group of 4). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than Oct 31 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $50 for a group of 6). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than June 31 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 You can find more information about the [grading policy][grading] in the wiki.
 
