@@ -26,6 +26,12 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Student Representatives
 
+- Emelie Hedkvist, [emehed@student.chalmers.se](emehed@student.chalmers.se)
+- Hannes Häggander, [hanhag@student.chalmers.se](hanhag@student.chalmers.se)
+- Hannes Lagerroth, [hanlage@student.chalmers.se](hanlage@student.chalmers.se)
+- Ludvig Sylvén, [sylvenl@student.chalmers.se](sylvenl@student.chalmers.se)
+- Kasper Thim, [kaspert@student.chalmers.se](kaspert@student.chalmers.se)
+
 ## Course Literature / Recommended reading
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
