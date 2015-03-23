@@ -45,7 +45,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 23/3 *13:15 - 15:00* | VasaC | **Introduction** | ME & HB | |
+| 23/3 *13:15 - 15:00* | VasaC | **Introduction** | ME & HB | [1][L1]  |
 | 25/3 *13:15 - 15:00* | VasaC | **Project overview** | ME & HB | |
 | 27/3 *13:15 - 17:00* | Patricia, *Lindholmen* | **Introduction to Scrum** | HB | |
 | 30/3 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
@@ -73,6 +73,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
+
+[L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
 
 ## Supervision
 
