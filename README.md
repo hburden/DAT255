@@ -40,6 +40,10 @@ After passing the course, you will be able to lead agile projects, work without 
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 - [Sorting out the easy tasks from the difficult] [xkcd]
 
+## Tools and Tips
+
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use!
 
