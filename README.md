@@ -46,7 +46,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 23/3 *13:15 - 15:00* | VasaC | **Introduction** | ME & HB | [1][L1]  |
-| 25/3 *13:15 - 15:00* | VasaC | **Project overview** | ME & HB | |
+| 25/3 *13:15 - 15:00* | VasaC | **Project overview** | ME & HB | [2][L2], tutorials: [git][gittut], [Android][androidtut1] |
 | 27/3 *13:15 - 17:00* | Patricia, *Lindholmen* | **Introduction to Scrum** | HB | |
 | 30/3 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
 | 1/4 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
@@ -75,6 +75,10 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [COCO]: http://youtu.be/5HbYScltf1c
 
 [L1]: https://github.com/morganericsson/DAT255/blob/master/slides/l1.pdf?raw=true
+[L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
+
+[gittut]: https://www.atlassian.com/git/tutorials
+[androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
 
 ## Supervision
 
@@ -119,4 +123,4 @@ You can find more information about the [grading policy][grading] in the wiki.
 ## Sample project
 To give you an idea of what a project might look like in the end, we've been authorised to publish this project which was made during the fall semester (2012). Note that this project is a regular Android app, so use it to get an idea about documentation and such.
 
-[WatchMe for Android][http://github.com/johanbrook/watchme]
+[WatchMe for Android](http://github.com/johanbrook/watchme)
