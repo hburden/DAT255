@@ -37,12 +37,14 @@ After passing the course, you will be able to lead agile projects, work without 
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
 - Writing a product vision: [1][pv1], [2][pv2].
 - [A successful Git branching model][gitbranch]
-- Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 - [Sorting out the easy tasks from the difficult] [xkcd]
 
-## Tools and Tips
+## Tools, Tips, and Online Tutorials
 
 - [GitHub Student Developer Pack](https://education.github.com/pack)
+- [Android tutorials](http://www.vogella.com/tutorials/android.html)
+- Interactive Git learning: [Learn Git Branching][LearnGitBranching]
+- [Android development tools and docs](http://developer.android.com/index.html)
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use!
