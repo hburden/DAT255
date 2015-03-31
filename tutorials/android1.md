@@ -154,7 +154,7 @@ Once we have an `id`, we can use it to find the button from Java using the `find
 helloButton = (Button) findViewById(R.id.helloButton);        
 ```
 
-Next we need something that can listen to events, such as a button blick. We use an `OnClickListener` and we need to supply at least an implementation for `onClick`. Note that `onClick` takes a `View` as a parameter. This is the view that generated the click. We also need to attach our listener, `hello`, to the button. We do this via the `Button` method `setOnClickListener`. 
+Next we need something that can listen to events, such as a button click. We use an `OnClickListener` and we need to supply at least an implementation for `onClick`. Note that `onClick` takes a `View` as a parameter. This is the view that generated the click. We also need to attach our listener, `hello`, to the button. We do this via the `Button` method `setOnClickListener`. 
 
 ```java
 OnClickListener hello = new OnClickListener() {
