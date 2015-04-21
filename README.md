@@ -58,7 +58,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 1/4 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
 | 20/4 *13:15 - 15:00* | VasaC | **Project Kick-off** | HB | |
 | 24/4 *13:15 - 15:00* | VasaC | **Scaling Agile** | TL | |
-| 29/4 *13:15 - 15:00* | VasaC | **Agile Tribes** | Spotify | |
+| 29/4 *13:15 - 15:00* | **HC2** | **Agile Tribes** | Spotify | |
 | 4/5 *13:15 - 15:00* | VasaC | **TBD** | | |
 | 7/5 *13:15 - 15:00* | VasaC | **TBD** | | |
 | 11/5 *13:15 - 15:00* | VasaC | **TBD** | | |
