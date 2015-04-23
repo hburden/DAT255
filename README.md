@@ -63,7 +63,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 7/5 *13:15 - 15:00* | VasaC | **TBD** | | |
 | 11/5 *13:15 - 15:00* | VasaC | **TBD** | | |
 | 12/5 *13:15 - 15:00* | VasaC | **TBD** | | |
-| 18/5 *13:15 - 15:00* | VasaC | **TBD** | | |
+| 18/5 *13:15 - 15:00* | VasaC | **Apps for trucks** | AB Volvo| |
 | 22/5 *13:15 - 15:00* | VasaC | **TBD** | | |
 | 25/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
 | 27/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
