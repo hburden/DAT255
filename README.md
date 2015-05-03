@@ -59,7 +59,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 20/4 *13:15 - 15:00* | VasaC | **Project Kick-off** | HB | [3][L3] |
 | 24/4 *13:15 - 15:00* | VasaC | **Scaling Agile** | TL | [4][L4] |
 | 29/4 *13:15 - 15:00* | **HC2** | **Agile Tribes** | Spotify | |
-| 4/5 *13:15 - 15:00* | VasaC | **Report writing and Documentation** | HB & ME | [2][L62] |
+| 4/5 *13:15 - 15:00* | VasaC | **Report writing and Documentation** | HB & ME | [6#2][L62] |
 | 7/5 *13:15 - 15:00* | VasaC | **Testing** | | |
 | 11/5 *13:15 - 15:00* | VasaC | **Code Design** | | |
 | 13/5 *13:15 - 15:00* | VasaC | **TBD** | | |
