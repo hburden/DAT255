@@ -60,9 +60,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 24/4 *13:15 - 15:00* | VasaC | **Scaling Agile** | TL | [4][L4] |
 | 29/4 *13:15 - 15:00* | **HC2** | **Agile Tribes** | Spotify | |
 | 4/5 *13:15 - 15:00* | VasaC | **Report writing and Documentation** | HB & ME | [6#2][L62] |
-| 7/5 *13:15 - 15:00* | VasaC | **Testing** | | |
+| 7/5 *13:15 - 15:00* | VasaC | **Testing** | ME | [7][L7] |
 | 11/5 *13:15 - 15:00* | VasaC | **Code Design** | | |
-| 13/5 *13:15 - 15:00* | VasaC | **TBD** | | |
 | 18/5 *13:15 - 15:00* | VasaC | **Apps for trucks** | AB Volvo| |
 | 25/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
 | 27/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
@@ -84,6 +83,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
 [L62]: https://github.com/morganericsson/DAT255/blob/master/slides/l6_2.pdf?raw=true
+[L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
+
 
 [gittut]: https://www.atlassian.com/git/tutorials
 [androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
