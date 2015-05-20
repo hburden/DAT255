@@ -63,8 +63,8 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 7/5 *13:15 - 15:00* | VasaC | **Testing** | ME | [7][L7] |
 | 11/5 *13:15 - 15:00* | VasaC | **Code Design** | ME | [8][L8] |
 | 18/5 *13:15 - 15:00* | VasaC | **Apps for trucks** | AB Volvo| |
-| 25/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
-| 27/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | |
+| 25/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | [Schedule][PS] |
+| 27/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | [Schedule][PS]|
 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
@@ -85,6 +85,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 [L62]: https://github.com/morganericsson/DAT255/blob/master/slides/l6_2.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
+[PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
 
 
@@ -124,7 +125,7 @@ Every *group* should submit the following at the end of the course:
 
 Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
 
-Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $50 for a group of 6). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than June 31 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $50 for a group of 6). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than May 31 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 You can find more information about the [grading policy][grading] in the wiki.
 
