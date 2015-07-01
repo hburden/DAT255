@@ -47,7 +47,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 31/8 *10:15 - 12:00* | HC4 | **Introduction** |  |   |
-| 1/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 1/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity |  |
 | 7/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
 | 8/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
