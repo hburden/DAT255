@@ -13,6 +13,7 @@ The most of the time is spent on a course project. This year the project is inte
 - More efficient or fun travelling
 - Attractive bus stops
 - A journey for everyone
+
 More details about the challenge will be presented at the lecture given on 2nd of September.
 
 ## Learning outcomes
