@@ -8,6 +8,13 @@ Software remains malleable, often illogical, and incomplete forever. *Sequential
 
 Given the nature of software, is it really feasible to identify all variables beforehand? *Iterative and incremental approaches* accepts that changes are inevitable and integrates change management into the development process. *Agile approaches* promotes iterative and incremental development by using a very tight *design-code-test* cycle. If we again use a traditional product perspective, this can be compared to new product development.
 
+## Course Project
+The most of the time is spent on a course project. This year the project is integrated with the [Electricity Innovation Challenge][EICWeb]. As students you will participate in the challenge in teams of five where each team is to develop an android app that addresses on of the three challenges:
+- More efficient or fun travelling
+- Attractive bus stops
+- A journey for everyone
+More details about the challenge will be presented at the lecture given on 2nd of September.
+
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects, using the following agile principles:
 
@@ -72,7 +79,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 21/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
 
 
-
+[EICWeb]: http://challenge.goteborgelectricity.se
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
 [gitvid]: http://git-scm.com/videos
