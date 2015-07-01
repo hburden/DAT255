@@ -39,7 +39,7 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Important Dates
 21/10 8.00-17.00 Project Presentations 
-
+30/10 17.00 Project Closure
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! If nothing else is stated, Håkan will be the lecturer.
@@ -53,22 +53,22 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 8/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
 | 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
 | 14/9 *10.15 - 12.00* | HC4 | **Scrum** | |
-| 15/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 15/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 16/9 *10.15 - 12.00* | HC4 | **Requirements & Testing** | |
 | 21/9 *10.15 - 12.00* | HC4 | **EIC API** | Cybercom | |
-| 22/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 22/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 23/9 *10.15 - 12.00* | HC4 | **Design and Patterns** |  | |
 | 28/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
-| 29/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 29/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 30/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
 | 5/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
-| 6/10 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 6/10 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 7/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
 | 12/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
-| 13/10 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 13/10 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 14/10 *10.15 - 12.00* | HC4 | **Project Documentation** |  | |
 | 19/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
-| 20/10 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 20/10 *10.15 - 12.00* | HC4 | **Git/Android** | |
 | 21/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
 
 
