@@ -1,5 +1,8 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, VT2015
 
+## News
+Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
+
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
@@ -17,54 +20,57 @@ In this course you will learn how to design and develop software, and to manage 
 After passing the course, you will be able to lead agile projects, work without a detailed schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
 
 ## Teachers
-- Håkan Burden (HB), [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
-- Morgan Ericsson (ME), [morgan@cse.gu.se](mailto:morgan@cse.gu.se) (examiner)
-- Thomas Luvö (TL), [tom@samoht.se](tom@samoht.se) (lecturer)
+- Håkan Burden, [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
+- Jan-Philipp Steghöfer, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) (examiner)
 
-[Håkan Burden]: http://www.chalmers.se/en/staff/Pages/burden.aspx
-[Morgan Ericsson]: http://www.chalmers.se/en/staff/Pages/moreri.aspx
 
 ## Student Representatives
+- ...
 
-- Emelie Hedkvist, [emehed@student.chalmers.se](emehed@student.chalmers.se)
-- Hannes Häggander, [hanhag@student.chalmers.se](hanhag@student.chalmers.se)
-- Hannes Lagerroth, [hanlage@student.chalmers.se](hanlage@student.chalmers.se)
-- Ludvig Sylvén, [sylvenl@student.chalmers.se](sylvenl@student.chalmers.se)
-- Kasper Thim, [kaspert@student.chalmers.se](kaspert@student.chalmers.se)
-
-## Course Literature / Recommended reading
+## Course Literature 
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
 - Writing a product vision: [1][pv1], [2][pv2].
 - [A successful Git branching model][gitbranch]
-- [Sorting out the easy tasks from the difficult] [xkcd]
-
-## Tools, Tips, and Online Tutorials
-
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [Android tutorials](http://www.vogella.com/tutorials/android.html)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 - [Android development tools and docs](http://developer.android.com/index.html)
 
+## Important Dates
+21/10 8.00-17.00 Project Presentations 
+
+
 ## Lectures and Tutorials
-Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use!
+Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! If nothing else is stated, Håkan will be the lecturer.
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 23/3 *13:15 - 15:00* | VasaC | **Introduction** | ME & HB | [1][L1]  |
-| 25/3 *13:15 - 15:00* | VasaC | **Project overview** | ME & HB | [2][L2], tutorials: [git][gittut], [Android][androidtut1] |
-| 27/3 *13:15 - 17:00* | Patricia, *Lindholmen* | **Introduction to Scrum** | HB | |
-| 30/3 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
-| 1/4 *13:15 - 15:00* | VasaC | **Android/Git seminar** | HB | |
-| 20/4 *13:15 - 15:00* | VasaC | **Project Kick-off** | HB | [3][L3] |
-| 24/4 *13:15 - 15:00* | VasaC | **Scaling Agile** | TL | [4][L4] |
-| 29/4 *13:15 - 15:00* | **HC2** | **Agile Tribes** | Spotify | |
-| 4/5 *13:15 - 15:00* | VasaC | **Report writing and Documentation** | HB & ME | [6#2][L62] |
-| 7/5 *13:15 - 15:00* | VasaC | **Testing** | ME | [7][L7] |
-| 11/5 *13:15 - 15:00* | VasaC | **Code Design** | ME | [8][L8] |
-| 18/5 *13:15 - 15:00* | VasaC | **Apps for trucks** | AB Volvo| |
-| 25/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | [Schedule][PS] |
-| 27/5 *13:15 - 15:00* | VasaC | **Project presentations** | ME & HB | [Schedule][PS]|
+| 31/8 *10:15 - 12:00* | HC4 | **Introduction** |  |   |
+| 1/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity |  |
+| 7/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
+| 8/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
+| 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
+| 14/9 *10.15 - 12.00* | HC4 | **Scrum** | |
+| 15/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 16/9 *10.15 - 12.00* | HC4 | **Requirements & Testing** | |
+| 21/9 *10.15 - 12.00* | HC4 | **EIC API** | Cybercom | |
+| 22/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 23/9 *10.15 - 12.00* | HC4 | **Design and Patterns** |  | |
+| 28/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
+| 29/9 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 30/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
+| 5/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
+| 6/10 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 7/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
+| 12/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
+| 13/10 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 14/10 *10.15 - 12.00* | HC4 | **Project Documentation** |  | |
+| 19/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
+| 20/10 *10.15 - 12.00* | 5205-15 | ** Git/Android ** | |
+| 21/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
+
 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
@@ -94,20 +100,12 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 ## Supervision
 
-The project starts Monday April 20. There will be weekly supervision/Scrum meetings during the project. Each group will be assigned a supervisor and a (20 min) slot per week.
-
-| Date | Room(s) |  
-|  ------	| ------	|  
-| 22/4 | Vasa 3 & 4 |
-| 29/4 | Vasa 3 & 4 |
-| 6/5 | Vasa 3 & 4 |
-| 13/5 | Vasa 3 & 4 |
-
+There is no regular supervision. During the three first weeks of the course there will be workshops where you can learn how to use Git and Android. During the project you will have access to your customers through workshops.
 
 ## Examination
 Every *group* should submit the following at the end of the course:
 
-- Working app (APK) that will be demonstrated at the project presentations. Each team will either present 13.15-15.00 either Monday or Wednesday ([Schedule][PS]) You can find the assessment criteria in the wiki. 
+- Working app (APK) that will be demonstrated at the project presentations. 
 - Documentation (produced during the project):
 	- Vision
 	- A few user stories
