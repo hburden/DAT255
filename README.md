@@ -18,18 +18,18 @@ More details about the challenge will be presented at the lecture given on 2nd o
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
-- Knowledge and understanding, the student should:
+- Knowledge and understanding, the student should be able to:
 	- identify the complexities of software design and development
 	- describe the fundamentals of software engineering, such as stakeholders and requirements
 	- describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each
 
-- Skills and abilities, the student should:
+- Skills and abilities, the student should be able to:
 	- elicitate requirements from and design a solution to a real-world problem
 	- plan and execute a small software development project in a team
 	- apply skills from programming courses and other relevant courses in a project-like environment
 	- learn new tools and APIs on his/her own
 
-- Judgement and approach, the student should:
+- Judgement and approach, the student should be able to:
 	- reflect on the choice of software engineering methods used in the project
 
 ## Teachers
@@ -38,9 +38,10 @@ In this course you will learn how to design and develop software, and to manage 
 
 
 ## Student Representatives
-- ...
+- TBD
 
 ## Course Literature 
+
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
 - Writing a product vision: [1][pv1], [2][pv2].
@@ -113,7 +114,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 ## Supervision
 
-There is no regular supervision. During the three first weeks of the course there will be workshops where you can learn how to use Git and Android. During the project you will have access to your customers through workshops.
+There is no regular supervision. During the three first weeks of the course there will be workshops where you can learn how to use Git and Android. During the project you will have access to your customers through workshops, see the homepage of the [Electricity Innovation Challenge][EICWeb].
 
 ## Examination
 Every *group* should submit the following at the end of the course:
