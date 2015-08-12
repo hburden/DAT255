@@ -17,15 +17,20 @@ The most of the time is spent on a course project. This year the project is inte
 More details about the challenge will be presented at the lecture given on 2nd of September.
 
 ## Learning outcomes
-In this course you will learn how to design and develop software, and to manage projects, using the following agile principles:
+In this course you will learn how to design and develop software, and to manage projects:
+- Knowledge and understanding, the student should:
+	- identify the complexities of software design and development
+	- describe the fundamentals of software engineering, such as stakeholders and requirements
+	- describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each
 
-- Creating value for an external customer 
-- Incremental development 
-- The developer should not be hindered by the process 
-- Embrace changes 
-- Continuous refactoring (restructuring) of the design
- 
-After passing the course, you will be able to lead agile projects, work without a detailed schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
+- Skills and abilities, the student should:
+	- elicitate requirements from and design a solution to a real-world problem
+	- plan and execute a small software development project in a team
+	- apply skills from programming courses and other relevant courses in a project-like environment
+	- learn new tools and APIs on his/her own
+
+- Judgement and approach, the student should:
+	- reflect on the choice of software engineering methods used in the project
 
 ## Teachers
 - Håkan Burden, [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
