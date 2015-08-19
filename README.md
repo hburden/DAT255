@@ -33,9 +33,9 @@ In this course you will learn how to design and develop software, and to manage 
 	- reflect on the choice of software engineering methods used in the project
 
 ## Teachers
-- Håkan Burden, [burden@cse.gu.se](mailto:burden@cse.gu.se) Lecturer
-- Jan-Philipp Steghöfer, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) Examiner
-- Rodi Jolak, Lecturer
+- Håkan Burden, hburden, [burden@cse.gu.se](mailto:burden@cse.gu.se), Lecturer
+- Jan-Philipp Steghöfer, steghoja, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se), Examiner
+- Rodi Jolak, rodijolak, Lecturer
 
 
 ## Student Representatives
