@@ -67,12 +67,12 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 7/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
 | 8/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
 | 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
-| 14/9 *10.15 - 12.00* | HC4 | **Scrum** | |
+| 14/9 *10.15 - 12.00* | HC4 | **Scrum** | Jan-Philipp | |
 | 15/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 16/9 *10.15 - 12.00* | HC4 | **Requirements & Testing** | |
 | 21/9 *10.15 - 12.00* | HC4 | **EIC API** | Cybercom | |
 | 22/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 23/9 *10.15 - 12.00* | HC4 | **Design and Patterns** |  | |
+| 23/9 *10.15 - 12.00* | HC4 | **Design and Patterns** | Rodi | |
 | 28/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
 | 29/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 30/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
