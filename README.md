@@ -54,10 +54,10 @@ In this course you will learn how to design and develop software, and to manage 
 
 ## Important Dates
 21/10 8.00-17.00 Project Presentations 
-30/10 17.00 Project Closure
+30/10 17.00 Project Closure, sign off by inviting all teachers to your repo before the deadline.
 
 ## Lectures and Tutorials
-Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! If nothing else is stated, Håkan will be the lecturer.
+Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
