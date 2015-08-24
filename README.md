@@ -64,9 +64,9 @@ Below you can see the date, time, room and themes for the lectures. There is als
 | 31/8 *10:15 - 12:00* | HC4 | **Introduction** |  |   |
 | 1/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity |  |
-| 7/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
+| 7/9 *10.15-12.00* | HC4 | **Git/Android** | |
 | 8/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
-| 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
+| 9/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
 | 14/9 *10.15 - 12.00* | HC4 | **Scrum** | Jan-Philipp | |
 | 15/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 16/9 *10.15 - 12.00* | HC4 | **Requirements & Testing** | |
