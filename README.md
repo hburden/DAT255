@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+Aug 25th: Added new information regarding the LEGO Scrum exercise under Lectures and Tutorials.
 Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 ## Course Description
