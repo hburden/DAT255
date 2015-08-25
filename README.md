@@ -57,16 +57,21 @@ In this course you will learn how to design and develop software, and to manage 
 30/10 17.00 Project Closure, sign off by inviting all teachers to your repo before the deadline.
 
 ## Lectures and Tutorials
-Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
+Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
+
+There are four LEGO/Scrum sessions but each team will only participate at one session. Ju520 is situated at Lindholmen, on the fifth floor of the Jupiter building. Each session has an upper limit of 9 teams. The teams will be able to choose sessions during the first lecture. 
+
+If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 31/8 *10:15 - 12:00* | HC4 | **Introduction** |  |   |
 | 1/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity |  |
-| 7/9 *10.15-12.00* | HC4 | **Git/Android** | |
-| 8/9 *8.00 - 12.00* | Ju520 / 5209-15 | **LEGO Scrum** | | |
-| 9/9 *8.00 - 12.00* | Ju520 / 5209-15 | **LEGO Scrum** | | |
+| 7/9 *8.00 - 12.00* | Ju520 / 3209-17 | **LEGO Scrum** | | |
+| 8/9 *8.00 - 12.00* | Ju520 | **LEGO Scrum** | | |
+| 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
+| 9/9 *13.15 - 17.00* | 3209-15 | **LEGO Scrum** | | |
 | 14/9 *10.15 - 12.00* | HC4 | **Scrum** | Jan-Philipp | |
 | 15/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 16/9 *10.15 - 12.00* | HC4 | **Requirements & Testing** | |
