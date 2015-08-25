@@ -1,9 +1,8 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
-Aug 25th: Added new information regarding the LEGO Scrum exercise under Lectures and Tutorials.
-
-Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
+- Aug 25th: Added new information regarding the LEGO Scrum exercise under Lectures and Tutorials.
+- Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
