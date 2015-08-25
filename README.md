@@ -60,7 +60,7 @@ In this course you will learn how to design and develop software, and to manage 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
 
-There are four LEGO/Scrum sessions but each team will only participate at one session. Ju520 is situated at Lindholmen, on the fifth floor of the Jupiter building. Each session has an upper limit of 9 teams. The teams will be able to choose sessions during the first lecture. 
+There are four LEGO Scrum sessions but each team will only participate at one session. Ju520 is situated at Lindholmen, on the fifth floor of the Jupiter building. Each session has an upper limit of 9 teams. The teams will be able to choose sessions during the first lecture. 
 
 If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
 
