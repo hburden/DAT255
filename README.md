@@ -33,6 +33,11 @@ In this course you will learn how to design and develop software, and to manage 
 - Judgement and approach, the student should be able to:
 	- reflect on the choice of software engineering methods used in the project
 
+You can find more information about the [grading policy][grading] in the wiki.
+
+[grading]: https://github.com/hburden/DAT255/wiki/Grading-Policy
+
+
 ## Teachers
 - Håkan Burden, hburden, [burden@cse.gu.se](mailto:burden@cse.gu.se), Lecturer
 - Jan-Philipp Steghöfer, steghoja, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se), Examiner
