@@ -45,7 +45,12 @@ You can find more information about the [grading policy][grading] in the wiki.
 
 
 ## Student Representatives
-- TBD
+- Victor Christoffersson, IT
+- Oskar Frost, Ober.
+- Oscar Hall, D
+- Mats Högberg, IT
+- Alexander Sandberg, IT
+
 
 ## Course Literature 
 
