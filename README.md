@@ -1,7 +1,10 @@
-# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, VT2015
+# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
-Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
+- Aug 28th: The names of the student representatives was added.
+- Aug 27th: Updated the [grading policy][grading] and the [Post-mortem report][pmr]
+- Aug 25th: Added new information regarding the LEGO Scrum exercise under Lectures and Tutorials.
+- Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -17,25 +20,42 @@ The most of the time is spent on a course project. This year the project is inte
 More details about the challenge will be presented at the lecture given on 2nd of September.
 
 ## Learning outcomes
-In this course you will learn how to design and develop software, and to manage projects, using the following agile principles:
+In this course you will learn how to design and develop software, and to manage projects:
+- Knowledge and understanding, the student should be able to:
+	- identify the complexities of software design and development
+	- describe the fundamentals of software engineering, such as stakeholders and requirements
+	- describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each
 
-- Creating value for an external customer 
-- Incremental development 
-- The developer should not be hindered by the process 
-- Embrace changes 
-- Continuous refactoring (restructuring) of the design
- 
-After passing the course, you will be able to lead agile projects, work without a detailed schedule, use test driven development, refactor programs, be part of a programming pair, and much more. 
+- Skills and abilities, the student should be able to:
+	- elicitate requirements from and design a solution to a real-world problem
+	- plan and execute a small software development project in a team
+	- apply skills from programming courses and other relevant courses in a project-like environment
+	- learn new tools and APIs on his/her own
+
+- Judgement and approach, the student should be able to:
+	- reflect on the choice of software engineering methods used in the project
+
+You can find more information about the [grading policy][grading] in the wiki.
+
+[grading]: https://github.com/hburden/DAT255/wiki/Grading-Policy
+
 
 ## Teachers
-- Håkan Burden, [burden@cse.gu.se](mailto:burden@cse.gu.se) (lecturer)
-- Jan-Philipp Steghöfer, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) (examiner)
+- Håkan Burden, hburden, [burden@cse.gu.se](mailto:burden@cse.gu.se), Lecturer
+- Jan-Philipp Steghöfer, steghoja, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se), Examiner
+- Rodi Jolak, rodijolak, Lecturer
 
 
 ## Student Representatives
-- ...
+- Victor Christoffersson, IT
+- Oskar Frost, Ober.
+- Oscar Hall, D
+- Mats Högberg, IT
+- Alexander Sandberg, IT
+
 
 ## Course Literature 
+
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
 - Writing a product vision: [1][pv1], [2][pv2].
@@ -47,25 +67,30 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Important Dates
 21/10 8.00-17.00 Project Presentations 
-30/10 17.00 Project Closure
+30/10 17.00 Project Closure, sign off by inviting all teachers to your repo before the deadline.
 
 ## Lectures and Tutorials
-Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! If nothing else is stated, Håkan will be the lecturer.
+Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
+
+There are four LEGO Scrum sessions but each team will only participate at one session. Ju520 is situated at Lindholmen, on the fifth floor of the Jupiter building. Each session has an upper limit of 9 teams. The teams will be able to choose sessions during the first lecture. 
+
+If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 31/8 *10:15 - 12:00* | HC4 | **Introduction** |  |   |
 | 1/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity |  |
-| 7/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
-| 8/9 *8.00 - 12.00* | | **LEGO Scrum** | | |
+| 7/9 *8.00 - 12.00* | Ju520 / 3209-17 | **LEGO Scrum** | | |
+| 8/9 *8.00 - 12.00* | Ju520 | **LEGO Scrum** | | |
 | 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
-| 14/9 *10.15 - 12.00* | HC4 | **Scrum** | |
+| 9/9 *13.15 - 17.00* | 3209-15 | **LEGO Scrum** | | |
+| 14/9 *10.15 - 12.00* | HC4 | **Scrum** | Jan-Philipp | |
 | 15/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 16/9 *10.15 - 12.00* | HC4 | **Requirements & Testing** | |
 | 21/9 *10.15 - 12.00* | HC4 | **EIC API** | Cybercom | |
 | 22/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 23/9 *10.15 - 12.00* | HC4 | **Design and Patterns** |  | |
+| 23/9 *10.15 - 12.00* | HC4 | **Design and Patterns** | Rodi | |
 | 28/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
 | 29/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 30/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
@@ -108,7 +133,7 @@ Below you can see the date, time, room and themes for the lectures. There is als
 
 ## Supervision
 
-There is no regular supervision. During the three first weeks of the course there will be workshops where you can learn how to use Git and Android. During the project you will have access to your customers through workshops.
+There is no regular supervision. During the three first weeks of the course there will be workshops where you can learn how to use Git and Android. During the project you will have access to your customers through workshops, see the homepage of the [Electricity Innovation Challenge][EICWeb].
 
 ## Examination
 Every *group* should submit the following at the end of the course:
@@ -131,7 +156,7 @@ Every *group* should submit the following at the end of the course:
 
 Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
 
-Every *person* should submit a brief evaluation of the group. Imagine that you have a budget of $10 per group member, not including yourself (so, $50 for a group of 6). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to morgan@cse.gu.se no later than May 31 24:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+Every *team member* should submit a brief evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member not including yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 You can find more information about the [grading policy][grading] in the wiki.
 
