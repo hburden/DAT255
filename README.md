@@ -1,8 +1,9 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Aug 31st: There is now a wiki page with [teams and Scrum slots][ScrumSlots].
 - Aug 28th: The names of the student representatives was added.
-- Aug 27th: Updated the [grading policy][grading] and the [Post-mortem report][pmr]
+- Aug 27th: Updated the [grading policy][grading] and the [Post-mortem report][pmr].
 - Aug 25th: Added new information regarding the LEGO Scrum exercise under Lectures and Tutorials.
 - Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
@@ -38,7 +39,7 @@ In this course you will learn how to design and develop software, and to manage 
 You can find more information about the [grading policy][grading] in the wiki.
 
 [grading]: https://github.com/hburden/DAT255/wiki/Grading-Policy
-
+[ScrumSlots]:  https://github.com/hburden/DAT255/wiki/Scrum-slots 
 
 ## Teachers
 - Håkan Burden, hburden, [burden@cse.gu.se](mailto:burden@cse.gu.se), Lecturer
