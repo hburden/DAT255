@@ -80,7 +80,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 |  ------	| :----:	| ------	| :------: |  :------: |
 | 31/8 *10:15 - 12:00* | HC4 | **Introduction** |  | [L1] |
 | 1/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity |  |
+| 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity | [L2] |
 | 7/9 *8.00 - 12.00* | Ju520 / 3209-17 | **LEGO Scrum** | | |
 | 8/9 *8.00 - 12.00* | Ju520 | **LEGO Scrum** | | |
 | 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
@@ -118,7 +118,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [COCO]: http://youtu.be/5HbYScltf1c
 
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
-[L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
+[L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
 [L62]: https://github.com/morganericsson/DAT255/blob/master/slides/l6_2.pdf?raw=true
