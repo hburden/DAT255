@@ -117,7 +117,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
 
-[L1]: https://github.com/hburden/DAT255/blob/master/slides/L1-Introduction.pdf?raw=true
+[L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 [L2]: https://github.com/morganericsson/DAT255/blob/master/slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/DAT255/blob/master/slides/l3.pdf?raw=true
 [L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
