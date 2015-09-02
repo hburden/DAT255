@@ -102,7 +102,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 13/10 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
 | 14/10 *10.15 - 12.00* | HC4 | **Project Documentation** |  | |
 | 19/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
-| 20/10 *10.15 - 12.00* | HC4 | **Git/Android** | |
+| 20/10 *10.15 - 12.00* | HC4 | **No lecture** | |
 | 21/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
 
 
