@@ -18,7 +18,7 @@ The most of the time is spent on a course project. This year the project is inte
 - Attractive bus stops
 - A journey for everyone
 
-More details about the challenge will be presented at the lecture given on [2nd of September][L2].
+More details about the challenge will be presented at the [lecture given on 2nd of September][L2].
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
