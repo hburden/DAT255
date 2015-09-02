@@ -79,31 +79,31 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 
 | Date & Time | Room(s) | Theme |Who | Slides |
 |  ------	| :----:	| ------	| :------: |  :------: |
-| 31/8 *10:15 - 12:00* | HC4 | **Introduction** |  | [L1] |
-| 1/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 2/9 *10:15 - 12:00* | HC4 | **Project overview** | Electricity | [L2] |
+| 31/8 *10:00 - 11:45* | HC4 | **Introduction** |  | [L1] |
+| 1/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
+| 2/9 *10:00 - 11:45* | HC4 | **Project overview** | Electricity | [L2] |
 | 7/9 *8.00 - 12.00* | Ju520 / 3209-17 | **LEGO Scrum** | | |
 | 8/9 *8.00 - 12.00* | Ju520 | **LEGO Scrum** | | |
-| 9/9 *10.15-12.00* | HC4 | **Git/Android** | |
+| 9/9 *10.00 - 11:45* | HC4 | **Git/Android** | |
 | 9/9 *13.15 - 17.00* | 3209-15 | **LEGO Scrum** | | |
-| 14/9 *10.15 - 12.00* | HC4 | **Scrum** | Jan-Philipp | |
-| 15/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 16/9 *10.15 - 12.00* | HC4 | **Requirements & Testing** | |
-| 21/9 *10.15 - 12.00* | HC4 | **EIC API** | Cybercom | |
-| 22/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 23/9 *10.15 - 12.00* | HC4 | **Design and Patterns** | Rodi | |
-| 28/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
-| 29/9 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 30/9 *10.15 - 12.00* | HC4 | **No lecture** |  | |
-| 5/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
-| 6/10 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 7/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
-| 12/10 *10.15 - 12.00* | HC4 | **TBD** |  | |
-| 13/10 *10.15 - 12.00* | 5205-15 | **Git/Android** | |
-| 14/10 *10.15 - 12.00* | HC4 | **Project Documentation** |  | |
-| 19/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
-| 20/10 *10.15 - 12.00* | HC4 | **No lecture** | |
-| 21/10 *10.15 - 12.00* | HC4 | **No lecture** |  | |
+| 14/9 *10.00 - 11:45* | HC4 | **Scrum** | Jan-Philipp | |
+| 15/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
+| 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | |
+| 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | |
+| 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
+| 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | |
+| 28/9 *10.00 - 11:45* | HC4 | **No lecture** |  | |
+| 29/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
+| 30/9 *10.00 - 11:45* | HC4 | **No lecture** |  | |
+| 5/10 *10.00 - 11:45* | HC4 | **TBD** |  | |
+| 6/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
+| 7/10 *10.00 - 11:45* | HC4 | **TBD** |  | |
+| 12/10 *10.00 - 11:45* | HC4 | **TBD** |  | |
+| 13/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
+| 14/10 *10.00 - 11:45* | HC4 | **Project Documentation** |  | |
+| 19/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
+| 20/10 *10.00 - 11:45* | HC4 | **No lecture** | |
+| 21/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
 
 
 [EICWeb]: http://challenge.goteborgelectricity.se
