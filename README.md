@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Sep 1st: For those of you who don't have a team, or for those who are a member or two short of a team, please contact Håkan. The sooner the better.
 - Aug 31st: There is now a wiki page with [teams and Scrum slots][ScrumSlots].
 - Aug 28th: The names of the student representatives was added.
 - Aug 27th: Updated the [grading policy][grading] and the [Post-mortem report][pmr].
