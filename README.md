@@ -1,12 +1,15 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
 - Sep 1st: For those of you who don't have a team, or for those who are a member or two short of a team, please contact Håkan. The sooner the better.
 - Aug 31st: There is now a wiki page with [teams and Scrum slots][ScrumSlots].
 - Aug 28th: The names of the student representatives was added.
 - Aug 27th: Updated the [grading policy][grading] and the [Post-mortem report][pmr].
 - Aug 25th: Added new information regarding the LEGO Scrum exercise under Lectures and Tutorials.
 - Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
+
+[anmalan][http://challenge.goteborgelectricity.se/anmalan]
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
