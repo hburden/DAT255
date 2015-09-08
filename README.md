@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
-- Deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
+- Sep 8th: Remember, the deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
 - Sep 1st: For those of you who don't have a team, or for those who are a member or two short of a team, please contact Håkan. The sooner the better.
 - Aug 31st: There is now a wiki page with [teams and Scrum slots][ScrumSlots].
 - Aug 28th: The names of the student representatives was added.
