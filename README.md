@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Sep 14th: There are three updates to the schedule: Michael from Spotify will talk about being a product owner on Oct. 7th and I will be available for short supervision meetings on Sep 28th and 30th. 
 - Sep 8th: Remember, the deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
 - Sep 1st: For those of you who don't have a team, or for those who are a member or two short of a team, please contact Håkan. The sooner the better.
 - Aug 31st: There is now a wiki page with [teams and Scrum slots][ScrumSlots].
@@ -96,9 +97,9 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | |
 | 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | |
-| 28/9 *10.00 - 11:45* | HC4 | **No lecture** |  | |
+| 28/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
 | 29/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 30/9 *10.00 - 11:45* | HC4 | **No lecture** |  | |
+| 30/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
 | 5/10 *10.00 - 11:45* | HC4 | **TBD** |  | |
 | 6/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 7/10 *10.00 - 11:45* | HC4 | **Being a product owner** | Spotify | |
