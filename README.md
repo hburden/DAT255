@@ -72,10 +72,6 @@ You can find more information about the [grading policy][grading] in the wiki.
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 - [Android development tools and docs](http://developer.android.com/index.html)
 
-## Important Dates
-21/10 8.00-17.00 Project Presentations 
-30/10 17.00 Project Closure, sign off by inviting all teachers to your repo before the deadline.
-
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
 
