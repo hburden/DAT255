@@ -101,7 +101,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 28/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
 | 29/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 30/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
-| 5/10 *10.00 - 11:45* | HC4 | **TBD** |  | |
+| 5/10 *10.00 - 11:45* | HC4 | **The Cloud** | Ericsson | |
 | 6/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 7/10 *10.00 - 11:45* | HC4 | **Being a product owner** | Spotify | |
 | 12/10 *10.00 - 11:45* | HC4 | **TBD** |  | |
