@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
-- Sep 15th: Uploaded slides for lecture four and updated the schedule to accommodate a lecture on the cloud by Jonas and Joachim from Ericsson. It's Ericsson's cloud solution that is used for the EIC API.
+- Sep 15th: Uploaded slides for lecture four and updated the schedule to accommodate a lecture on the cloud by Jonas and Joachim from Ericsson. It's Ericsson's cloud solution that is used for the EIC API. Since the guest lectures are now fixed the last lecture will be on Oct. 12th, giving you more time to prepare for the workshop on Oct. 14th.
 - Sep 14th: There are three updates to the schedule: Michael from Spotify will talk about being a product owner on Oct. 7th and Håkan will be available for short supervision meetings on Sep 28th and 30th. The slides for the third lecture are also available.
 - Sep 8th: Remember, the deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
 - Sep 1st: For those of you who don't have a team, or for those who are a member or two short of a team, please contact Håkan. The sooner the better.
@@ -104,9 +104,9 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 5/10 *10.00 - 11:45* | HC4 | **The Cloud** | Ericsson | |
 | 6/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 7/10 *10.00 - 11:45* | HC4 | **Being a product owner** | Spotify | |
-| 12/10 *10.00 - 11:45* | HC4 | **TBD** |  | |
+| 12/10 *10.00 - 11:45* | HC4 | **Project Documentation** |  | |
 | 13/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 14/10 *10.00 - 11:45* | HC4 | **Project Documentation** |  | |
+| 14/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
 | 19/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
 | 20/10 *10.00 - 11:45* | HC4 | **No lecture** | |
 | 21/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
