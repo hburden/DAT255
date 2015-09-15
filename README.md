@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Sep 15th: Uploaded slides for lecture four and updated the schedule to accommodate a lecture on the cloud by Jonas and Joachim from Ericsson. It's Ericsson's cloud solution that is used for the EIC API.
 - Sep 14th: There are three updates to the schedule: Michael from Spotify will talk about being a product owner on Oct. 7th and I will be available for short supervision meetings on Sep 28th and 30th. 
 - Sep 8th: Remember, the deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
 - Sep 1st: For those of you who don't have a team, or for those who are a member or two short of a team, please contact Håkan. The sooner the better.
