@@ -93,7 +93,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 9/9 *13.15 - 17.00* | 3209-15 | **LEGO Scrum** | | |
 | 14/9 *10.00 - 11:45* | HC4 | **Scrum** | Jan-Philipp | [L3] |
 | 15/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | |
+| 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | [L4] |
 | 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | |
 | 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | |
@@ -126,7 +126,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Scrum.pdf?raw=true
-[L4]: https://github.com/morganericsson/DAT255/blob/master/slides/l4.pdf?raw=true
+[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
 [L62]: https://github.com/morganericsson/DAT255/blob/master/slides/l6_2.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
