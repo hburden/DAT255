@@ -141,9 +141,9 @@ There is no regular supervision. During the three first weeks of the course ther
 ## Examination
 Every *group* should submit the following at the end of the course:
 
-- Working app (APK) that will be demonstrated at the project presentations. 
+- Working app (APK incl. source code) that will be demonstrated at the project presentations. 
 - Documentation (produced during the project):
-	- Vision
+	- Vision / Concept
 	- A few user stories
 	- Developer documentation (information relevant to people who work on the project) Suggestions:
 		- How does the build process work
