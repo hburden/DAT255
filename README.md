@@ -13,8 +13,9 @@
 - Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 [anmalan]: http://challenge.goteborgelectricity.se/anmalan
-[C1]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
-[C2]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
+[C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
+[C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
+
 
 
 
