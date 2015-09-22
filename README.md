@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Sep 22nd: The slides for the Cybercom lecture are now uploaded together with the code example for [connecting to the API][C1] and obtaining a user name in [Base64][C2].
 - Sep 15th: Uploaded slides for lecture four and updated the schedule to accommodate a lecture on the cloud by Jonas and Joachim from Ericsson. It's Ericsson's cloud solution that is used for the EIC API. Since the guest lectures are now fixed the last lecture will be on Oct. 12th, giving you more time to prepare for the workshop on Oct. 14th.
 - Sep 14th: There are three updates to the schedule: Michael from Spotify will talk about being a product owner on Oct. 7th and Håkan will be available for short supervision meetings on Sep 28th and 30th. The slides for the third lecture are also available.
 - Sep 8th: Remember, the deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
@@ -12,6 +13,10 @@
 - Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 [anmalan]: http://challenge.goteborgelectricity.se/anmalan
+[C1]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
+[C2]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
+
+
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -128,9 +133,6 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
-
-[C1]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
-[C2]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 
 
 
