@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
-- Sep 22nd: The slides for the Cybercom lecture are now uploaded together with the code example for [connecting to the API][C1] and obtaining a user name in [Base64][C2].
+- Sep 22nd: The slides for the Cybercom lecture are now uploaded together with the code example for [connecting to the API][C1] and [obtaining a user name in Base64][C2].
 - Sep 15th: Uploaded slides for lecture four and updated the schedule to accommodate a lecture on the cloud by Jonas and Joachim from Ericsson. It's Ericsson's cloud solution that is used for the EIC API. Since the guest lectures are now fixed the last lecture will be on Oct. 12th, giving you more time to prepare for the workshop on Oct. 14th.
 - Sep 14th: There are three updates to the schedule: Michael from Spotify will talk about being a product owner on Oct. 7th and Håkan will be available for short supervision meetings on Sep 28th and 30th. The slides for the third lecture are also available.
 - Sep 8th: Remember, the deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
