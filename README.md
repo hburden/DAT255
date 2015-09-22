@@ -91,7 +91,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 14/9 *10.00 - 11:45* | HC4 | **Scrum** | Jan-Philipp | [L3] |
 | 15/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | | [L4] |
-| 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | |
+| 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | [L5] [C1] [C2] |
 | 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | |
 | 28/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
@@ -124,10 +124,13 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Scrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
-[L62]: https://github.com/morganericsson/DAT255/blob/master/slides/l6_2.pdf?raw=true
+[L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-Cybercom.pdf?raw=true
 [L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
+
+[C1]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
+[C2]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 
 
 
