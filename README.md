@@ -91,7 +91,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 14/9 *10.00 - 11:45* | HC4 | **Scrum** | Jan-Philipp | [L3] |
 | 15/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | | [L4] |
-| 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | [L5] [C1] [C2] |
+| 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | [L5] |
 | 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | |
 | 28/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
