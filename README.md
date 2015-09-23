@@ -70,13 +70,16 @@ You can find more information about the [grading policy][grading] in the wiki.
 ## Course Literature 
 Book:
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
+
 Vision:
 - Writing a product vision: [1][pv1], [2][pv2].
+
 Git:
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
 - [A successful Git branching model][gitbranch]
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
+
 Android:
 - [Design patterns explained with Android examples][AndroidPatterns]
 - [Android tutorials](http://www.vogella.com/tutorials/android.html)
