@@ -68,16 +68,20 @@ You can find more information about the [grading policy][grading] in the wiki.
 
 
 ## Course Literature 
-
+Book:
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
-- [Pro Git][GITBOOK], [Git Videos][gitvid]
+Vision:
 - Writing a product vision: [1][pv1], [2][pv2].
+Git:
+- [Pro Git][GITBOOK], [Git Videos][gitvid]
 - [A successful Git branching model][gitbranch]
 - [GitHub Student Developer Pack](https://education.github.com/pack)
-- [Android tutorials](http://www.vogella.com/tutorials/android.html)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
-- [Android development tools and docs](http://developer.android.com/index.html)
+Android:
 - [Design patterns explained with Android examples] [AndroidPatterns]
+- [Android tutorials](http://www.vogella.com/tutorials/android.html)
+- [Android development tools and docs](http://developer.android.com/index.html)
+
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
@@ -123,7 +127,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
-[AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android
+[AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android/
 
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
@@ -133,7 +137,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Scrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-Cybercom.pdf?raw=true
-[L6]: https://github.com/hburden/DAT255/blob/master/slides/L6-Design.pdf?raw=true
+[L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Design.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
