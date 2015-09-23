@@ -78,7 +78,7 @@ Git:
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 Android:
-- [Design patterns explained with Android examples] [AndroidPatterns]
+- [Design patterns explained with Android examples][AndroidPatterns]
 - [Android tutorials](http://www.vogella.com/tutorials/android.html)
 - [Android development tools and docs](http://developer.android.com/index.html)
 
