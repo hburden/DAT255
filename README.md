@@ -77,6 +77,7 @@ You can find more information about the [grading policy][grading] in the wiki.
 - [Android tutorials](http://www.vogella.com/tutorials/android.html)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 - [Android development tools and docs](http://developer.android.com/index.html)
+- [Design patterns explained with Android examples] [AndroidPatterns]
 
 ## Lectures and Tutorials
 Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
@@ -99,7 +100,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | | [L4] |
 | 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | [L5] |
 | 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | [L6] [AndroidPatterns] |
+| 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | [L6] |
 | 28/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
 | 29/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 30/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
