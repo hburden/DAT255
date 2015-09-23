@@ -99,7 +99,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | | [L4] |
 | 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | [L5] |
 | 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | |
+| 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | [L6] [AndroidPatterns] |
 | 28/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
 | 29/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 30/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
@@ -122,6 +122,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
+[AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android
 
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
@@ -131,7 +132,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Scrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-Cybercom.pdf?raw=true
-[L7]: https://github.com/morganericsson/DAT255/blob/master/slides/l7.pdf?raw=true
+[L6]: https://github.com/hburden/DAT255/blob/master/slides/L6-Design.pdf?raw=true
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
