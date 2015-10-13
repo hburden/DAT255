@@ -115,7 +115,7 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 | 5/10 *10.00 - 11:45* | HC4 | **The Cloud** | Ericsson | |
 | 6/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 7/10 *10.00 - 11:45* | HC4 | **Being a product owner** | Spotify | |
-| 12/10 *10.00 - 11:45* | HC4 | **Project Documentation** |  | |
+| 12/10 *10.00 - 11:45* | HC4 | **Project Documentation** |  | [L9] |
 | 13/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
 | 14/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
 | 19/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
@@ -142,6 +142,8 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-Cybercom.pdf?raw=true
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Design.pdf?raw=true
+[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Reflection.pdf?raw=true
+
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
