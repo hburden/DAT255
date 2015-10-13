@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Oct 13th: Slides for yesterday's lecture are now available.
 - Sep 23rd: The link for design patterns explained by android examples can be found under Course liteature. Today's slides have also been added in the scedule.
 - Sep 22nd: The slides for the Cybercom lecture are now uploaded together with the code example for [connecting to the API][C1] and [obtaining a user name in Base64][C2].
 - Sep 15th: Uploaded slides for lecture four and updated the schedule to accommodate a lecture on the cloud by Jonas and Joachim from Ericsson. It's Ericsson's cloud solution that is used for the EIC API. Since the guest lectures are now fixed the last lecture will be on Oct. 12th, giving you more time to prepare for the workshop on Oct. 14th.
