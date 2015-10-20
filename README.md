@@ -2,6 +2,7 @@
 
 ## News
 - Oct 20th: Please fill out our [informal course evaluation][ICE]. The evaluation pin-points the topics that are specific for this course instance and helps us in improving how we teach. Thanks!
+- Oct 20th: Still waiting for slides from two of the invited speakers... They will be uploaded as soon as I have them.
 - Oct 13th: Slides for yesterday's lecture are now available.
 - Sep 23rd: The link for design patterns explained by android examples can be found under Course liteature. Today's slides have also been added in the scedule.
 - Sep 22nd: The slides for the Cybercom lecture are now uploaded together with the code example for [connecting to the API][C1] and [obtaining a user name in Base64][C2].
