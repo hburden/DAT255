@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Oct 22nd: It was an impressive impact from all of you yesterday! It was fantastic to see what you have been able to accomplish under so harsh time constraints, expecially if you account for all the leraning that has been going on simultaneously. Well done! 
 - Oct 20th: Please fill out our [informal course evaluation][ICE]. The evaluation pin-points the topics that are specific for this course instance and helps us in improving how we teach. Thanks!
 - Oct 20th: Still waiting for slides from two of the invited speakers... They will be uploaded as soon as I have them.
 - Oct 13th: Slides for yesterday's lecture are now available.
