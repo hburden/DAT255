@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
 
 ## News
+- Nov 13th: We are in the middle of the grading process. Unfortunately the following teams have not invited Rodi to their projects - Bengan-Boys, BGreen, BusGen, Ghostbusses, ProtheanSoftware, TillfälligtGruppnamn and VästQuiz. Plese invite rodijolak as quick as possible.  
 - Oct 30th: I know there are a few hours left of the course, but I want to send a final message to you before you move on and all is over. Thank you! It has been a great adventure and I've learnt so much from teaching you. Thanks for making such an effort and thanks for filling out the [informal course evaluation][ICE].
 - Oct 22nd: It was an impressive display from all of you yesterday! It was fantastic to see what you have been able to accomplish under so harsh time constraints, expecially if you account for all the learning that has been going on simultaneously. Well done! (And please fill out the [informal course evaluation][ICE].)
 - Oct 20th: Please fill out our [informal course evaluation][ICE]. The evaluation pin-points the topics that are specific for this course instance and helps us in improving how we teach. Thanks!
