@@ -12,7 +12,7 @@ Software remains malleable, often illogical, and incomplete forever. *Sequential
 Given the nature of software, is it really feasible to identify all variables beforehand? *Iterative and incremental approaches* accepts that changes are inevitable and integrates change management into the development process. *Agile approaches* promotes iterative and incremental development by using a very tight *design-code-test* cycle. If we again use a traditional product perspective, this can be compared to new product development.
 
 ## Course Project
-Most of the course time is spent on a course project. This year the project is run in collaboration with Volvo Bus and Keolis with the aim to improve the daily maintenance of the electric and hybrid buses of route 55. More details about the challenge will be presented at the [workshop given on the 13th of April][L4].
+Most of the course time is spent on a course project. This year the project is run in collaboration with Volvo Bus and Keolis with the aim to improve the daily maintenance of the electric and hybrid buses of route 55. More details about the challenge will be presented at the workshop given on the 13th of April.
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
