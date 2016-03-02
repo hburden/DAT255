@@ -35,10 +35,12 @@ The [grading policy][grading] will be updated before the first lecture. The aim 
 [grading]: https://github.com/hburden/DAT255/wiki/Grading-Policy
 
 ## Teachers
-- Håkan Burden, hburden, [burden@cse.gu.se](mailto:burden@cse.gu.se), Lecturer
-- Jan-Philipp Steghöfer, steghoja, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se), Examiner
-- Rodi Jolak, rodijolak, Lecturer
-- Daniel Sjölin, Lecturer
+| Name, gitname, contact, role
+| -- | -- | -- | -- |
+| Håkan Burden | hburden | [burden@cse.gu.se](mailto:burden@cse.gu.se) | Course responsible |
+| Jan-Philipp Steghöfer | steghoja | [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) | Examiner |
+| Rodi Jolak| rodijolak | | Lecturer |
+| Daniel Sjölin | | | Lecturer |
 
 
 ## Student Representatives
@@ -67,10 +69,8 @@ Android:
 ## Schedule
 Below you can see the time etc. of the lectures, exercises, workshops and deliverables. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
 
-
-If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
-
-| Week    | Date & Time | Room | Topic | Who | Deliverable(s) |
+| Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
+| ------- | ------------------ | ----- | ------------ | --- | -- |
 | 01 / 12 | Mar 21 13.15-15.00 | VasaC | Introduction | HB |  |
 
 
