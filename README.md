@@ -1,31 +1,10 @@
-# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, HT2015
+# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
-- Nov 19th: Håkan will be available on Friday Nov 20th in room 4215, EDIT-building on Campus Johanneberg, between 12 and 13. The rationale is to motivate the grades, nothing else. 
-- Nov 13th: We are in the middle of the grading process. Unfortunately the following teams have not invited Rodi to their projects - Bengan-Boys, BGreen, BusGen, Ghostbusses, ProtheanSoftware, TillfälligtGruppnamn and VästQuiz. Plese invite rodijolak as quick as possible.  
-- Oct 30th: I know there are a few hours left of the course, but I want to send a final message to you before you move on and all is over. Thank you! It has been a great adventure and I've learnt so much from teaching you. Thanks for making such an effort and thanks for filling out the [informal course evaluation][ICE].
-- Oct 22nd: It was an impressive display from all of you yesterday! It was fantastic to see what you have been able to accomplish under so harsh time constraints, expecially if you account for all the learning that has been going on simultaneously. Well done! (And please fill out the [informal course evaluation][ICE].)
-- Oct 20th: Please fill out our [informal course evaluation][ICE]. The evaluation pin-points the topics that are specific for this course instance and helps us in improving how we teach. Thanks!
-- Oct 20th: Still waiting for slides from two of the invited speakers... They will be uploaded as soon as I have them.
-- Oct 13th: Slides for yesterday's lecture are now available.
-- Sep 23rd: The link for design patterns explained by android examples can be found under Course liteature. Today's slides have also been added in the scedule.
-- Sep 22nd: The slides for the Cybercom lecture are now uploaded together with the code example for [connecting to the API][C1] and [obtaining a user name in Base64][C2].
-- Sep 15th: Uploaded slides for lecture four and updated the schedule to accommodate a lecture on the cloud by Jonas and Joachim from Ericsson. It's Ericsson's cloud solution that is used for the EIC API. Since the guest lectures are now fixed the last lecture will be on Oct. 12th, giving you more time to prepare for the workshop on Oct. 14th.
-- Sep 14th: There are three updates to the schedule: Michael from Spotify will talk about being a product owner on Oct. 7th and Håkan will be available for short supervision meetings on Sep 28th and 30th. The slides for the third lecture are also available.
-- Sep 8th: Remember, the deadline for [registrering][anmalan] your team to the innovation challenge is Sept. 11.
-- Sep 1st: For those of you who don't have a team, or for those who are a member or two short of a team, please contact Håkan. The sooner the better.
-- Aug 31st: There is now a wiki page with [teams and Scrum slots][ScrumSlots].
-- Aug 28th: The names of the student representatives was added.
-- Aug 27th: Updated the [grading policy][grading] and the [Post-mortem report][pmr].
-- Aug 25th: Added new information regarding the LEGO Scrum exercise under Lectures and Tutorials.
-- Jul 1st: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
+Mar 02: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
-[anmalan]: http://challenge.goteborgelectricity.se/anmalan
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 [C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
-[ICE]: https://docs.google.com/forms/d/1U4x-AY-QlwUzdi2jU-hjAcyVSPbn3LrNhMWWYDcgrCY/viewform
-
-
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -33,12 +12,7 @@ Software remains malleable, often illogical, and incomplete forever. *Sequential
 Given the nature of software, is it really feasible to identify all variables beforehand? *Iterative and incremental approaches* accepts that changes are inevitable and integrates change management into the development process. *Agile approaches* promotes iterative and incremental development by using a very tight *design-code-test* cycle. If we again use a traditional product perspective, this can be compared to new product development.
 
 ## Course Project
-The most of the time is spent on a course project. This year the project is integrated with the [Electricity Innovation Challenge][EICWeb]. As students you will participate in the challenge in teams of five where each team is to develop an Android app that uses at least one data source from the supplied API (released Sept. 18th.). Those who want can opt for using another mobile OS, such as iOS, but cannot rely on getting any technical support. The app shall address one of the three challenges:
-- More efficient or fun travelling
-- Attractive bus stops
-- A journey for everyone
-
-More details about the challenge will be presented at the [lecture given on 2nd of September][L2].
+Most of the course time is spent on a course project. This year the project is run in collaboration with Volvo Bus and Keolis with the aim to improve the daily maintenance of the electric and hybrid buses of route 55. More details about the challenge will be presented at the [workshop given on the 13th of April][L4].
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
@@ -56,23 +30,19 @@ In this course you will learn how to design and develop software, and to manage 
 - Judgement and approach, the student should be able to:
 	- reflect on the choice of software engineering methods used in the project
 
-You can find more information about the [grading policy][grading] in the wiki.
+The [grading policy][grading] will be updated before the first lecture. The aim is to meet the requests from last year's course evaluation.
 
 [grading]: https://github.com/hburden/DAT255/wiki/Grading-Policy
-[ScrumSlots]:  https://github.com/hburden/DAT255/wiki/Scrum-slots 
 
 ## Teachers
 - Håkan Burden, hburden, [burden@cse.gu.se](mailto:burden@cse.gu.se), Lecturer
 - Jan-Philipp Steghöfer, steghoja, [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se), Examiner
 - Rodi Jolak, rodijolak, Lecturer
+- Daniel Sjölin, Lecturer
 
 
 ## Student Representatives
-- Victor Christoffersson, IT
-- Oskar Frost, Ober.
-- Oscar Hall, D
-- Mats Högberg, IT
-- Alexander Sandberg, IT
+TBA
 
 
 ## Course Literature 
@@ -94,43 +64,17 @@ Android:
 - [Android development tools and docs](http://developer.android.com/index.html)
 
 
-## Lectures and Tutorials
-Below you can see the date, time, room and themes for the lectures. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
+## Schedule
+Below you can see the time etc. of the lectures, exercises, workshops and deliverables. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
 
-There are four LEGO Scrum sessions but each team will only participate at one session. Ju520 is situated at Lindholmen, on the fifth floor of the Jupiter building. Each session has an upper limit of 9 teams. The teams will be able to choose sessions during the first lecture. 
 
 If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
 
-| Date & Time | Room(s) | Theme |Who | Slides |
-|  ------	| :----:	| ------	| :------: |  :------: |
-| 31/8 *10:00 - 11:45* | HC4 | **Introduction** |  | [L1] |
-| 1/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 2/9 *10:00 - 11:45* | HC4 | **Project overview** | Electricity | [L2] |
-| 7/9 *8.00 - 12.00* | Ju520 / 3209-17 | **LEGO Scrum** | | |
-| 8/9 *8.00 - 12.00* | Ju520 | **LEGO Scrum** | | |
-| 9/9 *10.00 - 11:45* | HC4 | **Git/Android** | |
-| 9/9 *13.15 - 17.00* | 3209-15 | **LEGO Scrum** | | |
-| 14/9 *10.00 - 11:45* | HC4 | **Scrum** | Jan-Philipp | [L3] |
-| 15/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 16/9 *10.00 - 11:45* | HC4 | **Requirements & Testing** | | [L4] |
-| 21/9 *10.00 - 11:45* | HC4 | **EIC API** | Cybercom | [L5] |
-| 22/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 23/9 *10.00 - 11:45* | HC4 | **Design and Patterns** | Rodi | [L6] |
-| 28/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
-| 29/9 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 30/9 *10.00 - 11:45* | HC4 | **Supervision** |  | |
-| 5/10 *10.00 - 11:45* | HC4 | **The Cloud** | Ericsson | |
-| 6/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 7/10 *10.00 - 11:45* | HC4 | **Being a product owner** | Spotify | |
-| 12/10 *10.00 - 11:45* | HC4 | **Project Documentation** |  | [L9] |
-| 13/10 *10.00 - 11:45* | 5205-15 | **Git/Android** | |
-| 14/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
-| 19/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
-| 20/10 *10.00 - 11:45* | HC4 | **No lecture** | |
-| 21/10 *10.00 - 11:45* | HC4 | **No lecture** |  | |
+| Week    | Date & Time | Room | Topic | Who | Deliverable(s) |
+| ----    | ----------- | ---- | ------| --- | -------------- |
+| 01 / 12 | Mar 21 13.15-15.00 | VasaC | Introduction | HB | |
 
 
-[EICWeb]: http://challenge.goteborgelectricity.se
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
 [gitvid]: http://git-scm.com/videos
@@ -159,9 +103,6 @@ If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays
 [gittut]: https://www.atlassian.com/git/tutorials
 [androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
 
-## Supervision
-
-There is no regular supervision. During the three first weeks of the course there will be workshops where you can learn how to use Git and Android. During the project you will have access to your customers through workshops, see the homepage of the [Electricity Innovation Challenge][EICWeb].
 
 ## Examination
 Every *group* should submit the following at the end of the course:
@@ -182,16 +123,10 @@ Every *group* should submit the following at the end of the course:
 	- User manual
 - [Post-mortem Report][pmr]
 
-Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult your supervisor and check the sample project.
+Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult a supervisor.
 
 Every *team member* should submit a brief evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
-You can find more information about the [grading policy][grading] in the wiki.
-
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
-[grading]: https://github.com/morganericsson/DAT255/wiki/Grading-Policy
 
-## Sample project
-To give you an idea of what a project might look like in the end, we've been authorised to publish this project which was made during the fall semester (2012). Note that this project is a regular Android app, so use it to get an idea about documentation and such.
 
-[WatchMe for Android](http://github.com/johanbrook/watchme)
