@@ -36,7 +36,7 @@ The [grading policy][grading] will be updated before the first lecture. The aim 
 
 ## Teachers
 
-| Name | gitname | contact | role |
+| Name | Gitname | Contact | Role |
 |  ------	| ------	| ------	| ------ | 
 | Håkan Burden | hburden | [burden@cse.gu.se](mailto:burden@cse.gu.se) | Course responsible |
 | Jan-Philipp Steghöfer | steghoja | [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) | Examiner |
@@ -71,8 +71,10 @@ Android:
 Below you can see the time etc. of the lectures, exercises, workshops and deliverables. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
-| ------- | ------------------ | ----- | ------------ | --- | -- |
+|  ------	| :----:	| ------	| :------: |  :------: | ------ |
 | 01 / 12 | Mar 21 13.15-15.00 | VasaC | Introduction | HB |  |
+|  | Mar 23 13.15-17.00 | TBA | Lego scrum | HB |  |
+| 02 / 15 | Apr 11 13.15-15.00 | VasaC | Scrum | JP & HB |  |
 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
