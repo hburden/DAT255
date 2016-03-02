@@ -35,6 +35,7 @@ The [grading policy][grading] will be updated before the first lecture. The aim 
 [grading]: https://github.com/hburden/DAT255/wiki/Grading-Policy
 
 ## Teachers
+
 | Name | gitname | contact | role |
 | -- | -- | -- | -- |
 | Håkan Burden | hburden | [burden@cse.gu.se](mailto:burden@cse.gu.se) | Course responsible |
