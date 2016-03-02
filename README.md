@@ -77,8 +77,12 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 02 / 15 | Apr 11 13.15-15.00 | VasaC | Scrum | JP & HB |  |
 |  | Apr 13 TBA | [VBEC][VBEC] | Project introduction | HB |  |
 |  | Apr 15 13.15-15.00 | Lindholmen | Process supervision | HB | Vision, Product backlog & Scrum setup |
-
-
+| 03 / 16 | Apr 18 13.15-15.00 | VasaC | Software project management | HB |  |
+|  | Apr 20 13.15-15.00 | Vasa4 | Tool supervision | RJ |  |
+|  | Apr 22 13.15-15.00 | VasaC | Process & tool supervision | HB & RJ |  |
+| 04 / 17 | Apr 25 13.15-15.00 | VasaC | Guest lectures | HB |  |
+|  | Apr 27 13.15-15.00 | VasaC | Guest lectures | HB |  |
+|  | Apr 29 13.15-15.00 | VasaC | Guest lectures | HB |  |
 
 [VBEC]: https://www.facebook.com/pages/Volvo-Bus-Experience-Center/477546525732720 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
