@@ -123,25 +123,11 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 
 
 ## Examination
-Every *group* should submit the following at the end of the course:
+Every *group* should have submitted the following, taking note on the deadline for each deliverable:
+- [D1][DELS]
+- [D2][DELS]
+- [D3][DELS]
 
-- Working app (APK incl. source code) that will be demonstrated at the project presentations. 
-- Documentation (produced during the project):
-	- Vision / Concept
-	- A few user stories
-	- Developer documentation (information relevant to people who work on the project) Suggestions:
-		- How does the build process work
-		- What major parts / components are there in the application
-		- Design decisions (such as API level, etc.)
-		- UML
-		- Flowchart
-		- Protocol (client/server )
-		- External dependencies
-		- Others that fit your project.
-	- User manual
-- [Post-mortem Report][pmr]
-
-Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult a supervisor.
 
 Every *team member* should submit a brief evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
