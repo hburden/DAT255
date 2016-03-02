@@ -72,11 +72,15 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
 |  ------	| :----:	| ------	| :------: |  :------: | ------ |
-| 01 / 12 | Mar 21 13.15-15.00 | VasaC | Introduction | HB |  |
+| 01 / 12 | Mar 21 13.15-15.00 | VasaC | Course introduction | HB |  |
 |  | Mar 23 13.15-17.00 | TBA | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 13.15-15.00 | VasaC | Scrum | JP & HB |  |
+|  | Apr 13 TBA | [VBEC][VBEC] | Project introduction | HB |  |
+|  | Apr 15 13.15-15.00 | Lindholmen | Process supervision | HB | Vision, Product backlog & Scrum setup |
 
 
+
+[VBEC]: https://www.facebook.com/pages/Volvo-Bus-Experience-Center/477546525732720 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
 [gitvid]: http://git-scm.com/videos
