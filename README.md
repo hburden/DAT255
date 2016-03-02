@@ -71,7 +71,7 @@ Android:
 Below you can see the time etc. of the lectures, exercises, workshops and deliverables. There is also a detailed schedule in [TimeEdit]. Note that the TimeEdit schedule contains all possible sessions, while the schedule below contains those that we actually use! 
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
-|  ------	| :----:	| ------	| :------: |  :------: | ------ |
+|  ------	| ------	| ------	| :------: |  :------: | ------ |
 | 01 / 12 | Mar 21 13.15-15.00 | VasaC | Course introduction | HB |  |
 |  | Mar 23 13.15-17.00 | TBA | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 13.15-15.00 | VasaC | Scrum | JP & HB |  |
@@ -87,7 +87,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 06 / 19 | May 09 13.15-15.00 | VasaC | Guest lecture | Interaktionsbyrån |  |
 |  | May 11 13.15-15.00 | Vasa3&4 | Process supervision | HB |  |
 |  | May 13 13.15-15.00 | VasaC | Guest lectures | TBA |  |
-| 07 / 20 | May 16 13.15-15.00 | VasaC | Reflection reports | HB |  | 
+| 07 / 20 | May 16 13.15-15.00 | VasaC | [Post-mortem reports][PMR] | HB |  | 
 | 08 / 21 | May 25 TBA | [VBEC][VBEC] | Final presentation | HB | [D2][DELS] |
 | 09 / 22 | Jun 03 | -- | Hand off | HB | [D3][DELS] |
 
