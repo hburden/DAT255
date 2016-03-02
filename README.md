@@ -100,7 +100,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
 [AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android/
-[DELS]: https://github.com/hburden/DAT255/wiki/DELS 
+[DELS]: https://github.com/hburden/DAT255/wiki/Deliverables 
 
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
