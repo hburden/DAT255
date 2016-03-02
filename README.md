@@ -71,8 +71,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 If nothing else is stated, Håkan will be the lecturer on Mondays and Wednesdays and Rodi on Tuesdays.
 
 | Week    | Date & Time | Room | Topic | Who | Deliverable(s) |
-| ----    | ----------- | ---- | ------| --- | -------------- |
-| 01 / 12 | Mar 21 13.15-15.00 | VasaC | Introduction | HB | |
+| 01 / 12 | Mar 21 13.15-15.00 | VasaC | Introduction | HB |  |
 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
