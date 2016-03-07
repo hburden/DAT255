@@ -124,13 +124,17 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 
 ## Examination
 Every *group* should have submitted the following, taking note on the deadline for each deliverable:
-- [D1][DELS]
+- [D1.A & D1.B][DELS]
 - [D2][DELS]
+- [D3][DELS]
 - [D3][DELS]
 
 
 Every *team member* should submit a brief evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
+We strive for a transparent and fair assessment strategy. [That is why we as teachers are the ones that do the grading based on our experience][fairgrade].
+
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
+[fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
 
 
