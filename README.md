@@ -83,13 +83,13 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Guest lectures | HB |  |
 |  | Apr 27 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
 |  | Apr 29 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
-| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB |  |
+| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB | [D2][DELS] |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Guest lecture | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB |  |
 |  | May 13 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
 | 07 / 20 | May 16 *13.15-15.00* | VasaC | [Post-mortem reports][PMR] | HB |  | 
-| 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D2][DELS] |
-| 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D3][DELS] |
+| 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3][DELS] |
+| 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4][DELS] |
 
 [VBEC]: https://www.facebook.com/pages/Volvo-Bus-Experience-Center/477546525732720 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
