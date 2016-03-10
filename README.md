@@ -140,14 +140,14 @@ To pass the course a student has to deliver:
 
 within the designated deadline
 
-## Stakeholder value, 9p
+### Stakeholder value, 9p
 The stakeholder value is assessed during the final presentation. The total score is the sum of
 - Completeness (features outlined in vision are present, one application, stable)
 - GUI (self-explanatory for intended users, clarity, no excess information) 
 - Relevance to vision (efficiency, clear relation to vision document)
 Each part is worth 0-3 points where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. 
 
-## Prototype, 22p
+### Prototype, 22p
 All artefacts related to the prototype should be in the Git repository. These will be assessed after the final deadline of the course. 
 - Code quality, 3p. Code quality is based on the verdict of [FindBugs][FindBugs] where the sum of issues gives the number of points for code quality
 -- 0-10 = 3p
@@ -165,7 +165,7 @@ All artefacts related to the prototype should be in the Git repository. These wi
 - Vision, 0-1p (present or not)
 Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies met minor remarks and 3 no remarks.
 
-## Reflection report, 19p
+### Reflection report, 19p
 The reflection report is also uploaded to the git repository as a PDF-file. It will be assessed after the final deadline of the course.
 - Application of scrum
 -- Roles, team work and social contract 
@@ -186,7 +186,7 @@ Each part worth 3 points has an allocation strategy where 0 represents failed de
 Reflection is here defined as *“assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap”* (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. *New Directions for Teaching and Learning*, vol. 88, 2001, pp. 51-62). This means that you should describe the situation as it is, what you would like it to be as well as a realistic way to get there.
 
 
-## Grades
+### Grades
 The team grade is given by the total number of points for the team effort:
 - 00 - 20: U (Fail)
 - 21 – 30: 3 / G (Pass)
