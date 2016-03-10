@@ -122,14 +122,80 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 
 
 ## Examination
-Every *group* should have submitted the following, taking note on the deadline for each deliverable:
+The individual grades are based on the team contribution. Contribution is in turn defined according to *Stakeholder value*, *Protoype* and *Reflection report*. Each category represents a certain number of points so that the total number of points sums to 50. The points are not evenly distributed across the categories since the assessment occurs at different points in time and represent different efforts.
+
+## Pass / Fail
+To pass the course each team has to deliver:
+
 - [D1.A & D1.B][DELS]
 - [D2][DELS]
 - [D3][DELS]
 - [D3][DELS]
 
+within the designated deadlines.
 
-Every *team member* should submit a brief evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+To pass the course a student has to deliver:
+- evidence for active participation in the team effort
+- an evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+
+within the designated deadline
+
+## Stakeholder value, 9p
+The stakeholder value is assessed during the final presentation. The total score is the sum of
+- Completeness (features outlined in vision are present, one application, stable)
+- GUI (self-explanatory for intended users, clarity, no excess information) 
+- Relevance to vision (efficiency, clear relation to vision document)
+Each part is worth 0-3 points where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. 
+
+## Prototype, 22p
+All artefacts related to the prototype should be in the Git repository. These will be assessed after the final deadline of the course. 
+- Code quality, 3p. Code quality is based on the verdict of [FindBugs][FindBugs] where the sum of issues gives the number of points for code quality
+-- 0-10 = 3p
+-- 11-20 = 1p
+-- >21 = 0p where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report to their repository.
+- Unit tests, 3p
+- Integration / system tests, 3p
+- Acceptance tests, 3p
+- Design rationale, 3p
+- Overview, 2p (present or not)
+-- Behavioural
+-- Structural
+- User stories, 3p 
+- Burn-down chart, 0-1p (present or not)
+- Vision, 0-1p (present or not)
+Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies met minor remarks and 3 no remarks.
+
+## Reflection report, 19p
+The reflection report is also uploaded to the git repository as a PDF-file. It will be assessed after the final deadline of the course.
+- Application of scrum
+-- Roles, team work and social contract 
+-- Used practices (pair programming, stand-up meetings, etc.)
+-- Time distribution (person / role / tasks etc.)
+-- Effort and velocity
+-- User stories and tasks
+- Reflection on the sprint retrospectives, 1p
+- Reflection on the sprint reviews
+-- Feedback from stakeholders
+-- Interaction with stakeholders
+- Best practices for new tools and technologies
+- Reflection on the relationship between *prototype*, *process* and *stakeholder value*
+- Relation to Lego exercise, literature or guest lectures
+- Comments to D2
+Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks.
+
+Reflection is here defined as *“assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap”* (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. *New Directions for Teaching and Learning*, vol. 88, 2001, pp. 51-62). This means that you should describe the situation as it is, what you would like it to be as well as a realistic way to get there.
+
+
+## Grades
+The team grade is given by the total number of points for the team effort:
+- 00 - 20: U (Fail)
+- 21 – 30: 3 / G (Pass)
+- 31 – 40: 4
+- 41 – 50: 5 / VG
+
+The team grade then serves as a baseline for the individual grades so that students with higher contributions **and** team effort receive a higher grade than the team grade and students with lower individual scores receive a lower grade. Higher and lower are approximately 25% more / less than team average.
+
+[FindBugs]: http://findbugs.sourceforge.net/
 
 We strive for a transparent and fair assessment strategy. [That is why we as teachers are the ones that do the grading based on our experience][fairgrades].
 
