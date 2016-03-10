@@ -134,12 +134,12 @@ To pass the course **each team** has to deliver:
   - D1.B: A vision or a concept for the prototype. An initial product backlog. A [social contract][socialcontract] for the team. Make sure D1.B is in your git account in time for the first process supervision meeting!
 - D2: Half-time evaluation: A one-page document reflecting on the work so far, both in terms of process and product.
 - D3: Final presentation: The third deliverable is a *working prototype* (APK) for the final presentation.
-- D4: Signing off: The last deliverable consists of deliverable D1, D2 and D3 including the source code as well as the artefacts asked for under [Prototype](### Prototype) and [Reflection Report](### Reflection Report).
+- D4: Signing off: The last deliverable consists of deliverables D1, D2 and D3 including the source code and the output from [gitinspector][GitInspector] as well as the artefacts asked for under [Prototype](### Prototype) and [Reflection Report](### Reflection Report).
 
 within the designated deadlines.
 
 To pass the course **a student** has to deliver:
-- evidence for active participation in the team effort. The level of student participation is determined on a combined assessment of the verdict of [gitinspector][GitInspector] and the mean values from the team evaluation. 
+- evidence for active participation in the team effort. The level of student participation is determined on a combined assessment of the output from [gitinspector][GitInspector] and the mean values from the team evaluation. 
 - an evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 within the designated deadline
