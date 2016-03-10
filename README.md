@@ -136,31 +136,29 @@ To pass the course each team has to deliver:
 - D3: Final presentation: The third deliverable is a *working prototype* (APK) for the final presentation.
 - D4: Signing off: The last deliverable consists of deliverable D1, D2 and D3 including the source code as well as the artefacts asked for under [Prototype](### Prototype) and [Reflection Report](### Reflection Report).
 
-Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult a supervisor.
-
 To pass the course a student has to deliver:
-- evidence for active participation in the team effort
+- evidence for active participation in the team effort. Student participation is determined on a combined assessment of the verdict of [GitInspector][GitInspector] and the mean values from the team evaluation. 
 - an evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 within the designated deadline
 
 ### Stakeholder value, 9p
 The stakeholder value is assessed during the final presentation. The total score is the sum of
-- Completeness (features outlined in vision are present, one application, stable)
-- GUI (self-explanatory for intended users, clarity, no excess information) 
-- Relevance to vision (efficiency, clear relation to vision document)
+- Completeness (features outlined in vision are present, one application and stable operation)
+- GUI (self-explanatory for intended users, clarity and no excess information) 
+- Relevance to vision (efficiency and clear relation to vision document)
 Each part is worth 0-3 points where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. 
 
 ### Prototype, 22p
 All artefacts related to the prototype should be in the Git repository. These will be assessed after the final deadline of the course. 
 - Code quality, 3p. Code quality is based on the verdict of [FindBugs][FindBugs] where the sum of issues gives the number of points for code quality
--- 0-10 = 3p
--- 11-20 = 1p
--- >21 = 0p where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report to their repository.
+  - 0-10 = 3p
+  - 11-20 = 1p
+  - >21 = 0p where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report to their repository.
 - Unit tests, 3p
 - Integration / system tests, 3p
 - Acceptance tests, 3p
-- Design rationale (such as API-level, external dependencies etc.), 3p
+- Design rationale (choice of API-level, external dependencies, database structure etc.), 3p
 - Overview, 2p (present or not)
   - Behavioural
   - Structural (What major parts / components are there in the application)
@@ -201,6 +199,7 @@ The team grade is given by the total number of points for the team effort:
 The team grade then serves as a baseline for the individual grades so that students with higher contributions **and** team effort receive a higher grade than the team grade and students with lower individual scores receive a lower grade. Higher and lower are approximately 25% more / less than team average.
 
 [FindBugs]: http://findbugs.sourceforge.net/
+[GitInspector]: https://github.com/ejwa/gitinspector
 
 We strive for a transparent and fair assessment strategy. [That is why we as teachers are the ones that do the grading based on our experience][fairgrades].
 
