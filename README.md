@@ -74,7 +74,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 / 12 | Mar 21 *13.15-15.00* | VasaC | Course introduction | HB |  |
 |  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
-| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](### Pass / Fail) |
+| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](# Pass / Fail) |
 |  | Apr 13 *TBA* | [VBEC][VBEC] | Project introduction | HB |  |
 |  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B](### Pass / Fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
@@ -149,6 +149,7 @@ The stakeholder value is assessed during the final presentation. The total score
 - Completeness (features outlined in vision are present, one application and stable operation)
 - GUI (self-explanatory for intended users, clarity and no excess information) 
 - Relevance to vision (efficiency and clear relation to vision document)
+
 Each part is worth 0-3 points where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. 
 
 ### Prototype, 22p
@@ -161,13 +162,13 @@ All artefacts related to the prototype should be in the Git repository. These wi
 - Integration / system tests, 3p
 - Acceptance tests, 3p
 - Design rationale (choice of API-level, external dependencies, database structure etc.), 3p
-- Overview, 2p (present or not)
+- Overview, 3p
   - Behavioural
   - Structural (What major parts / components are there in the application)
   - Protocol (client/server) 
 - User stories, 3p 
 - Burn-down chart, 0-1p (present or not)
-- Vision, 0-1p (present or not)
+- 
 Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies met minor remarks and 3 no remarks.
 
 ### Reflection report, 19p
@@ -184,8 +185,9 @@ The reflection report is also uploaded to the git repository as a PDF-file. It w
   - Interaction with stakeholders
 - Best practices for new tools and technologies
 - Reflection on the relationship between *prototype*, *process* and *stakeholder value*
-- Relation to Lego exercise, literature or guest lectures
-- Comments to D2
+- Relation to literature or guest lectures
+- Comments to D1 and D2
+
 Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks.
 
 Reflection is here defined as *“assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap”* (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. *New Directions for Teaching and Learning*, vol. 88, 2001, pp. 51-62). This means that you should describe the situation as it is, what you would like it to be as well as a realistic way to get there.
