@@ -169,7 +169,7 @@ All artefacts related to the prototype should be in the Git repository. These wi
 - User stories, 3p 
 - Burn-down chart, 0-1p (present or not)
 
-Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies met minor remarks and 3 no remarks.
+Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks.
 
 ### Reflection report, 19p
 The reflection report is also uploaded to the git repository as a PDF-file. It will be assessed after the final deadline of the course.
