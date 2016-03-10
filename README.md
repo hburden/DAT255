@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
+Mar 10: The grading policy and the schedule were updated.
 Mar 02: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
