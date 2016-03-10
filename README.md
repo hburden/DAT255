@@ -76,19 +76,19 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README.md#pass--fail) |
 |  | Apr 13 *TBA* | [VBEC][VBEC] | Project introduction | HB |  |
-|  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B](###Pass / Fail) |
+|  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B](README.md#pass--fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
 |  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
 |  | Apr 27 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
 |  | Apr 29 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
-| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D2](### Pass / Fail) |
+| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D2](README.md#pass--fail) |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB, JP |  |
-| 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](### Reflection Reports) | HB |  | 
-| 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3](### Pass / Fail) |
-| 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](### Pass / Fail) |
+| 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](README.md#pass--fail) | HB |  | 
+| 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3](README.md#pass--fail) |
+| 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
 
 [VBEC]: https://www.facebook.com/pages/Volvo-Bus-Experience-Center/477546525732720 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
@@ -131,7 +131,7 @@ To pass the course **each team** has to deliver:
 
 - D1: Setup. The first deliverable consists of two parts,
   - D1.A: A one-page document drawing on the lessons from the Lego scrum exercise on how to initially work with scrum. To be e-mailed to the course responsible at least 24h before the lecture on Scrum.
-  - D1.B: A vision or a concept for the prototype. An initial product backlog. A [social contract][socialcontract] for the team. Make sure D1.B is in your git account in time for the first process supervision meeting!
+  - D1.B: A [vision](README.md#pass--fail) or a concept for the prototype. An initial product backlog. A [social contract][socialcontract] for the team. Make sure D1.B is in your git account in time for the first process supervision meeting!
 - D2: Half-time evaluation: A one-page document reflecting on the work so far, both in terms of process and product.
 - D3: Final presentation: The third deliverable is a *working prototype* (APK) for the final presentation.
 - D4: Signing off: The last deliverable consists of deliverables D1, D2 and D3 including the source code and the output from [gitinspector][GitInspector] as well as the artefacts asked for under [Prototype](### Prototype) and [Reflection Report](### Reflection Report).
