@@ -86,7 +86,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D2](README.md#pass--fail) |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB, JP |  |
-| 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](README.md#pass--fail) | HB |  | 
+| 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](README.md#reflection-report) | HB |  | 
 | 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
 
