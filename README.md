@@ -73,7 +73,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 / 12 | Mar 21 *13.15-15.00* | VasaC | Course introduction | HB |  |
-|  | Mar 23 *13.15-17.00* | TBA | Lego scrum | HB |  |
+|  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A][DELS] |
 |  | Apr 13 *TBA* | [VBEC][VBEC] | Project introduction | HB |  |
 |  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B][DELS] |
