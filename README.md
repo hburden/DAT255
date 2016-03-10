@@ -101,6 +101,8 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android/
 [DELS]: https://github.com/hburden/DAT255/wiki/Deliverables 
 
+[socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
+
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
 
@@ -127,12 +129,14 @@ The individual grades are based on the team contribution. Contribution is in tur
 ### Pass / Fail
 To pass the course each team has to deliver:
 
-- [D1.A & D1.B][DELS]
-- [D2][DELS]
-- [D3][DELS]
-- [D3][DELS]
+- D1: Setup. The first deliverable consists of two parts,
+  - D1.A: A one-page document drawing on the lessons from the Lego scrum exercise on how to initially work with scrum. To be e-mailed to the course responsible at least 24h before the lecture on Scrum.
+  - D1.B: A vision or a concept for the prototype. An initial product backlog. A [social contract][socialcontract] for the team. Make sure D1.B is in your git account in time for the first process supervision meeting!
+- D2: Half-time evaluation: A one-page document reflecting on the work so far, both in terms of process and product.
+- D3: Final presentation: The third deliverable is a *working prototype* (APK) for the final presentation.
+- D4: Signing off: The last deliverable consists of deliverable D1, D2 and D3 including the source code as well as the artefacts asked for under [Prototype](### Prototype) and [Reflection Report](### Reflection Report).
 
-within the designated deadlines.
+Note that the amount of documentation will vary depending on project, but *every group* **must** submit some documentation. If you are unsure about what to document, consult a supervisor.
 
 To pass the course a student has to deliver:
 - evidence for active participation in the team effort
@@ -156,10 +160,11 @@ All artefacts related to the prototype should be in the Git repository. These wi
 - Unit tests, 3p
 - Integration / system tests, 3p
 - Acceptance tests, 3p
-- Design rationale, 3p
+- Design rationale (such as API-level, external dependencies etc.), 3p
 - Overview, 2p (present or not)
--- Behavioural
--- Structural
+  - Behavioural
+  - Structural (What major parts / components are there in the application)
+  - Protocol (client/server) 
 - User stories, 3p 
 - Burn-down chart, 0-1p (present or not)
 - Vision, 0-1p (present or not)
