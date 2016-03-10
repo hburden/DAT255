@@ -124,7 +124,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 ## Examination
 The individual grades are based on the team contribution. Contribution is in turn defined according to *Stakeholder value*, *Protoype* and *Reflection report*. Each category represents a certain number of points so that the total number of points sums to 50. The points are not evenly distributed across the categories since the assessment occurs at different points in time and represent different efforts.
 
-## Pass / Fail
+### Pass / Fail
 To pass the course each team has to deliver:
 
 - [D1.A & D1.B][DELS]
@@ -168,15 +168,15 @@ Each part worth 3 points has an allocation strategy where 0 represents failed de
 ### Reflection report, 19p
 The reflection report is also uploaded to the git repository as a PDF-file. It will be assessed after the final deadline of the course.
 - Application of scrum
--- Roles, team work and social contract 
--- Used practices (pair programming, stand-up meetings, etc.)
--- Time distribution (person / role / tasks etc.)
--- Effort and velocity
--- User stories and tasks
+  - Roles, team work and social contract 
+  - Used practices (pair programming, stand-up meetings, etc.)
+  - Time distribution (person / role / tasks etc.)
+  - Effort and velocity
+  - User stories and tasks
 - Reflection on the sprint retrospectives, 1p
 - Reflection on the sprint reviews
--- Feedback from stakeholders
--- Interaction with stakeholders
+  - Feedback from stakeholders
+  - Interaction with stakeholders
 - Best practices for new tools and technologies
 - Reflection on the relationship between *prototype*, *process* and *stakeholder value*
 - Relation to Lego exercise, literature or guest lectures
