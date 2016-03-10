@@ -74,21 +74,21 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 / 12 | Mar 21 *13.15-15.00* | VasaC | Course introduction | HB |  |
 |  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
-| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A][DELS] |
+| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](### Pass / Fail) |
 |  | Apr 13 *TBA* | [VBEC][VBEC] | Project introduction | HB |  |
-|  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B][DELS] |
+|  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B](### Pass / Fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
 |  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
 |  | Apr 27 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
 |  | Apr 29 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
-| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D2][DELS] |
+| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D2](### Pass / Fail) |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB, JP |  |
-| 07 / 20 | May 16 *13.15-15.00* | VasaC | [Post-mortem reports][PMR] | HB |  | 
-| 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3][DELS] |
-| 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4][DELS] |
+| 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](### Reflection Reports) | HB |  | 
+| 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3](### Pass / Fail) |
+| 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](### Pass / Fail) |
 
 [VBEC]: https://www.facebook.com/pages/Volvo-Bus-Experience-Center/477546525732720 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
@@ -127,7 +127,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 The individual grades are based on the team contribution. Contribution is in turn defined according to *Stakeholder value*, *Protoype* and *Reflection report*. Each category represents a certain number of points so that the total number of points sums to 50. The points are not evenly distributed across the categories since the assessment occurs at different points in time and represent different efforts.
 
 ### Pass / Fail
-To pass the course each team has to deliver:
+To pass the course **each team** has to deliver:
 
 - D1: Setup. The first deliverable consists of two parts,
   - D1.A: A one-page document drawing on the lessons from the Lego scrum exercise on how to initially work with scrum. To be e-mailed to the course responsible at least 24h before the lecture on Scrum.
@@ -136,8 +136,10 @@ To pass the course each team has to deliver:
 - D3: Final presentation: The third deliverable is a *working prototype* (APK) for the final presentation.
 - D4: Signing off: The last deliverable consists of deliverable D1, D2 and D3 including the source code as well as the artefacts asked for under [Prototype](### Prototype) and [Reflection Report](### Reflection Report).
 
-To pass the course a student has to deliver:
-- evidence for active participation in the team effort. Student participation is determined on a combined assessment of the verdict of [GitInspector][GitInspector] and the mean values from the team evaluation. 
+within the designated deadlines.
+
+To pass the course **a student** has to deliver:
+- evidence for active participation in the team effort. The level of student participation is determined on a combined assessment of the verdict of [gitinspector][GitInspector] and the mean values from the team evaluation. 
 - an evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Note that you are not allowed to pay everyone the same amount! Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than Oct 30 17:00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 within the designated deadline
