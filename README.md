@@ -76,16 +76,16 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  | Mar 23 *13.15-17.00* | TBA | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A][DELS] |
 |  | Apr 13 *TBA* | [VBEC][VBEC] | Project introduction | HB |  |
-|  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB | [D1.B][DELS] |
+|  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B][DELS] |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
-|  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB & RJ |  |
+|  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
-|  | Apr 27 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
+|  | Apr 27 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
 |  | Apr 29 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
-| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB | [D2][DELS] |
+| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D2][DELS] |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
-|  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB |  |
+|  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB, JP |  |
 |  | May 13 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
 | 07 / 20 | May 16 *13.15-15.00* | VasaC | [Post-mortem reports][PMR] | HB |  | 
 | 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3][DELS] |
