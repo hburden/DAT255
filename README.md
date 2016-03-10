@@ -74,7 +74,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 / 12 | Mar 21 *13.15-15.00* | VasaC | Course introduction | HB |  |
 |  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
-| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](#ReadMe/Pass-Fail) |
+| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README/#Pass-Fail) |
 |  | Apr 13 *TBA* | [VBEC][VBEC] | Project introduction | HB |  |
 |  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP | [D1.B](###Pass / Fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
