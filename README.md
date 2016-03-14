@@ -42,7 +42,7 @@ The [grading policy][grading] will be updated before the first lecture. The aim 
 | HB | Håkan Burden | hburden | [burden@cse.gu.se](mailto:burden@cse.gu.se) | Course responsible |
 | JP | Jan-Philipp Steghöfer | steghoja | [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) | Examiner |
 | RJ | Rodi Jolak| rodijolak | | Lecturer |
-| DS | Daniel Sjölin | | | Lecturer |
+| DS | Daniel Sjölie | | | Lecturer |
 
 
 ## Student Representatives
