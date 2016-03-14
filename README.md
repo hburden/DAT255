@@ -31,9 +31,9 @@ In this course you will learn how to design and develop software, and to manage 
 - Judgement and approach, the student should be able to:
 	- reflect on the choice of software engineering methods used in the project
 
-The [grading policy][grading] will be updated before the first lecture. The aim is to meet the requests from last year's course evaluation.
+The [grading policy](README.md#examination) will be updated before the first lecture. The aim is to meet the requests from last year's [course evaluation][courseeval].
 
-[grading]: https://github.com/hburden/DAT255/wiki/Grading-Policy
+[courseeval]: https://github.com/hburden/DAT255/blob/master/Extras/DAT255_Software_engineering_project_2015_LP1.pdf
 
 ## Teachers
 
