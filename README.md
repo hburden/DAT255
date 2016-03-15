@@ -46,7 +46,14 @@ The [grading policy](README.md#examination) will be updated before the first lec
 
 
 ## Student Representatives
-TBA
+| Program | E-mail | Name | 
+| ------ |  ------	| ------	| 
+TKDAT | hamax@student.chalmers.se | Max Hansson |
+TKIEK | jacobho@student.chalmers.se | Jacob Holmén |
+TKIEK | markoi@student.chalmers.se | Marko Ivanovic |
+TKIEK | antkarr@student.chalmers.se | Anton Kärrman |
+TKDAT | marsig@student.chalmers.se | Martin Sigvardsson |
+ 
 
 
 ## Course Literature 
