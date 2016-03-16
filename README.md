@@ -85,20 +85,20 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 01 / 12 | Mar 21 *13.15-15.00* | VasaC | Course introduction | HB |  |
 |  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README.md#pass--fail) |
-|  | Apr 13 *TBA* | [VBEC][VBEC] | Project introduction | HB |  |
-|  | Apr 15 *13.15-15.00* | Lindholmen | Process supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
+|  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | Project introduction | HB |  |
+|  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
 |  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
 |  | Apr 27 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
 |  | Apr 29 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
-| 05 / 18 | May 02 *13.15-15.00* | Lindholmen | Process supervision | HB & JP | [D2](README.md#pass--fail) |
+| 05 / 18 | May 02 *13.15-15.00* | Lindholmen Open Arena | Process supervision | HB & JP | [D2](README.md#pass--fail) |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB & JP |  |
 |  | May 13 *13.15-15.00* | VasaC | Entrepeneurship |  Chalmers Ventures | |
 | 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](README.md#reflection-report) | HB |  | 
-| 08 / 21 | May 25 *TBA* | [VBEC][VBEC] | Final presentation | HB | [D3](README.md#pass--fail) |
+| 08 / 21 | May 25 *13.00-16.00* | Lindholmen Open Arena | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
 
 [VBEC]: https://www.facebook.com/pages/Volvo-Bus-Experience-Center/477546525732720 
