@@ -60,6 +60,7 @@ TKDAT | marsig@student.chalmers.se | Martin Sigvardsson |
 ## Course Literature 
 Book:
 - Sommerville, I. (2010) *Software Engineering* (ISBN13: 9780137053469)
+- Kniberg, H (2015) [Scrum and XP from the Trenches - 2nd Edition][http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2]. Free with registration
 
 Vision:
 - Writing a product vision: [1][pv1], [2][pv2].
