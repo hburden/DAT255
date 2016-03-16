@@ -87,7 +87,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README.md#pass--fail) |
 |  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | Project introduction | HB |  |
-|  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
+|  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process & tool supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
 |  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
