@@ -142,7 +142,7 @@ The individual grades are based on the team contribution. Contribution is in tur
 To pass the course **each team** has to deliver:
 
 - D1: Setup: The first deliverable consists of two parts,
-  - D1.A: A one-page document drawing on the lessons from the Lego scrum exercise on how to initially work with scrum. To be e-mailed to the course responsible at least 24h before the lecture on Scrum.
+  - D1.A: A one-page document drawing on the lessons from the Lego scrum exercise on how to initially work with scrum. Describe three insights from the exercise and how these will affect how you implement Scrum in your project. To be e-mailed to the course responsible at least 24h before the lecture on Scrum.
   - D1.B: A [vision](README.md#course-literature) or a concept for the prototype. An initial product backlog. A [social contract][socialcontract] for the team. Make sure D1.B is in your git account in time for the first process supervision meeting!
 - D2: Half-time evaluation: A one-page document reflecting on the work so far, both in terms of process and product.
 - D3: Final presentation: The third deliverable is a *working prototype* (APK) for the final presentation.
