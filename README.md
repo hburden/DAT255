@@ -83,7 +83,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
-| 01 / 12 | Mar 21 *13.15-15.00* | VasaC | Course introduction | HB |  |
+| 01 / 12 | Mar 21 *13.15-15.00* | VasaC | [Course introduction][L1] | HB |  |
 |  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README.md#pass--fail) |
 |  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | Project introduction | HB |  |
@@ -118,7 +118,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
 
-[L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
+[L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Overview.pdf?raw=true
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Scrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
