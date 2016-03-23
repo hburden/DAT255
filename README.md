@@ -84,7 +84,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 / 12 | Mar 21 *13.15-15.00* | VasaC | [Course introduction][L1] | HB |  |
-|  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
+|  | Mar 23 *13.15-17.00* | Vasa6 | [Lego scrum][ScrumSurvey] | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README.md#pass--fail) |
 |  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | Project introduction | HB |  |
 |  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process & tool supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
@@ -112,6 +112,8 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
 [AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android/
 [DELS]: https://github.com/hburden/DAT255/wiki/Deliverables 
+[ScrumSurvey]: https://docs.google.com/forms/d/1Z4J-g2Eaj97jCx8NIvEOIQBpr0jCWavUk9x72bjNLv0/viewform?usp=send_form
+
 
 [socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
 
