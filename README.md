@@ -1,9 +1,10 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
+- Apr 11: Unfortunately the electrical buses are all busy on Wednesday. If you go by public transport Bus 32 leaves Eketrägatan at 13.20 and arrives at Arendal Skans 13.37
 - Mar 16: Updated course literature and schedule
 - Mar 15: Added student representatives
-- Mar 10: The grading policy and the schedule were clarified.
+- Mar 10: The grading policy and the schedule were clarified
 - Mar 02: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
@@ -83,8 +84,8 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
-| 01 / 12 | Mar 21 *13.15-15.00* | VasaC | Course introduction | HB |  |
-|  | Mar 23 *13.15-17.00* | Vasa6 | Lego scrum | HB |  |
+| 01 / 12 | Mar 21 *13.15-15.00* | VasaC | [Course introduction][L1] | HB |  |
+|  | Mar 23 *13.15-17.00* | Vasa6 | [Lego scrum][ScrumSurvey] | HB |  |
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README.md#pass--fail) |
 |  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | Project introduction | HB |  |
 |  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process & tool supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
@@ -112,13 +113,15 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
 [AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android/
 [DELS]: https://github.com/hburden/DAT255/wiki/Deliverables 
+[ScrumSurvey]: https://docs.google.com/forms/d/1Z4J-g2Eaj97jCx8NIvEOIQBpr0jCWavUk9x72bjNLv0/viewform?usp=send_form
+
 
 [socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
 
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
 
-[L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
+[L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Overview.pdf?raw=true
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Scrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
