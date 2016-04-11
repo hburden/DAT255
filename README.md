@@ -86,15 +86,15 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 / 12 | Mar 21 *13.15-15.00* | VasaC | [Course introduction][L1] | HB |  |
 |  | Mar 23 *13.15-17.00* | Vasa6 | [Lego scrum][ScrumSurvey] | HB |  |
-| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | Scrum | HB | [D1.A](README.md#pass--fail) |
-|  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | Project introduction | HB |  |
+| 02 / 15 | Apr 11 *13.15-15.00* | VasaC | [Scrum][L3n,L3o] | HB | [D1.A](README.md#pass--fail) |
+|  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | [Project introduction][L4] | HB |  |
 |  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process & tool supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
 |  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
-|  | Apr 27 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
-|  | Apr 29 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
+|  | Apr 27 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
+|  | Apr 29 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
 | 05 / 18 | May 02 *13.15-15.00* | Lindholmen Open Arena | Process supervision | HB & JP | [D2](README.md#pass--fail) |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB & JP |  |
@@ -123,8 +123,9 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Overview.pdf?raw=true
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
-[L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Scrum.pdf?raw=true
-[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Testing.pdf?raw=true
+[L3n]: https://github.com/hburden/DAT255/blob/master/Slides/L3-NewScrum.pdf?raw=true
+[L3o]: https://github.com/hburden/DAT255/blob/master/Slides/L3-OldScrum.pdf?raw=true
+[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Project.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-Cybercom.pdf?raw=true
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Design.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Reflection.pdf?raw=true
