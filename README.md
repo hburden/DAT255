@@ -67,6 +67,10 @@ Book:
 Vision:
 - Writing a product vision: [1][pv1], [2][pv2].
 
+Agile:
+- [Breaking a feature into tasks](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/)
+- [Maintaining the full view of a complex system](http://jpattonassociates.com/the-new-backlog/)
+
 Git:
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
 - [A successful Git branching model][gitbranch]
