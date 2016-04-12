@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
-- Apr 12: Added two links under *Literature* that helps in defining the product backlog and tasks
+- Apr 12: Added two links under *Course Literature* that helps in defining the product backlog and tasks
 - Apr 11: Unfortunately the electrical buses are all busy on Wednesday. If you go by public transport Bus 32 leaves Eketrägatan at 13.20 and arrives at Arendal Skans 13.37
 - Mar 16: Updated course literature and schedule
 - Mar 15: Added student representatives
