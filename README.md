@@ -98,12 +98,12 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
 |  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
-|  | Apr 27 *13.15-15.00* | VasaC | Guest lectures | TBA |  |
+|  | Apr 27 *13.15-15.00* | VasaC | Entrepeneurship |  Chalmers Ventures | |
 |  | Apr 29 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
 | 05 / 18 | May 02 *13.15-15.00* | Lindholmen Open Arena | Process supervision | HB & JP | [D2](README.md#pass--fail) |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB & JP |  |
-|  | May 13 *13.15-15.00* | VasaC | Entrepeneurship |  Chalmers Ventures | |
+|  | May 13 *13.15-15.00* | VasaC | Product and organisation | Spotify |  |
 | 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](README.md#reflection-report) | HB |  | 
 | 08 / 21 | May 25 *13.00-16.00* | Lindholmen Open Arena | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
