@@ -2,6 +2,7 @@
 
 ## News
 - Apr 14: The Electricty [Platform](http://platform.goteborgelectricity.se/) supplies real-time data from the buses and information regarding the bus stops etc. Apply for an account [here](http://platform.goteborgelectricity.se/user/register?destination=forum/11)
+- Apr 14: Updated the schedule
 - Apr 12: Added two links under *Course Literature* that helps in defining the product backlog and tasks
 - Apr 11: Unfortunately the electrical buses are all busy on Wednesday. If you go by public transport Bus 32 leaves Eketrägatan at 13.20 and arrives at Arendal Skans 13.37
 - Mar 16: Updated course literature and schedule
