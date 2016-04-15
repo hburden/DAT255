@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
+- Apr 15: A team member from each team should by now have received login credentials for the [EIC-API](http://platform.goteborgelectricity.se/). There are java examples of how to [request data from the API](https://github.com/hburden/DAT255/blob/master/Extras/HttpsUrlConnectionDemo.java?raw=true) and how to use the [login credentials](https://github.com/hburden/DAT255/blob/master/Extras/Base64Example.java?raw=true) 
 - Apr 14: The Electricty [Platform](http://platform.goteborgelectricity.se/) supplies real-time data from the buses and information regarding the bus stops etc. Apply for an account to the discussion forum [here](http://platform.goteborgelectricity.se/user/register?destination=forum/11)
 - Apr 14: Updated the schedule
 - Apr 12: Added two links under *Course Literature* that helps in defining the product backlog and tasks
