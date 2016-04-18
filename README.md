@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
+- Apr 18: Added slides for today's lecture
 - Apr 15: A team member from each team should by now have received login credentials for the [EIC-API](http://platform.goteborgelectricity.se/). There are java examples of how to [request data from the API](https://github.com/hburden/DAT255/blob/master/Extras/HttpsUrlConnectionDemo.java?raw=true) and how to use the [login credentials](https://github.com/hburden/DAT255/blob/master/Extras/Base64Example.java?raw=true) 
 - Apr 14: The Electricty [Platform](http://platform.goteborgelectricity.se/) supplies real-time data from the buses and information regarding the bus stops etc. Apply for an account to the discussion forum [here](http://platform.goteborgelectricity.se/user/register?destination=forum/11)
 - Apr 14: Updated the schedule
@@ -97,7 +98,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 02 / 15 | Apr 11 *13.15-15.00* | VasaC | [Lego Reflections][L3n] & [Scrum][L3o] | HB | [D1.A](README.md#pass--fail) |
 |  | Apr 13 *14.00-16.00* | [VBEC][VBEC] | [Project introduction][L4] | HB |  |
 |  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process & tool supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
-| 03 / 16 | Apr 18 *13.15-15.00* | VasaC | Software project management | HB |  |
+| 03 / 16 | Apr 18 *13.15-15.00* | VasaC | [Software project management][L5] | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
 |  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
@@ -134,7 +135,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [L3n]: https://github.com/hburden/DAT255/blob/master/Slides/L3-NewScrum.pdf?raw=true
 [L3o]: https://github.com/hburden/DAT255/blob/master/Slides/L3-OldScrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Project.pdf?raw=true
-[L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-Cybercom.pdf?raw=true
+[L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SWEPM.pdf?raw=true
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Design.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Reflection.pdf?raw=true
 
