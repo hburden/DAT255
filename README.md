@@ -100,7 +100,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  | Apr 15 *13.15-15.00* | Lindholmen Open Arena | Process & tool supervision | HB, JP & RJ | [D1.B](README.md#pass--fail) |
 | 03 / 16 | Apr 18 *13.15-15.00* | VasaC | [Software project management][L5] | HB |  |
 |  | Apr 20 *13.15-15.00* | Vasa4 | Tool supervision | RJ |  |
-|  | Apr 22 *13.15-15.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
+|  | Apr 22 *09.00-12.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
 |  | Apr 27 *13.15-15.00* | VasaC | Entrepeneurship |  Chalmers Ventures | |
 |  | Apr 29 *13.15-15.00* | VasaC | Human-Computer Interaction | DS |  |
