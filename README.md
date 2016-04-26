@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
+- Apr 26: Thanks to team Outsourcify there is now a list of the troubles reported by the bus drivers. Send Håkan an e-mail if you want access to the file
 - Apr 19: On April 22nd the supervision will take place in the morning, 9-12, due to the [TBC] event. Check the lecture slides for the order among the teams
 - Apr 18: Added slides for today's lecture
 - Apr 15: A team member from each team should by now have received login credentials for the [EIC-API](http://platform.goteborgelectricity.se/). There are java examples of how to [request data from the API](https://github.com/hburden/DAT255/blob/master/Extras/HttpsUrlConnectionDemo.java?raw=true) and how to use the [login credentials](https://github.com/hburden/DAT255/blob/master/Extras/Base64Example.java?raw=true) 
