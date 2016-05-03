@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
+- May 03: Uploaded slides for HCI lectrue. Changed date for last lecture, from May 16 to May 20
 - Apr 26: Thanks to team Outsourcify there is now a list of the troubles reported by the bus drivers. Send Håkan an e-mail if you want access to the file
 - Apr 19: On April 22nd the supervision will take place in the morning, 9-12, due to the [TBC] event. Check the lecture slides for the order among the teams
 - Apr 18: Added slides for today's lecture
@@ -110,7 +111,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB & JP |  |
 |  | May 13 *13.15-15.00* | VasaC | Product and organisation | Spotify |  |
-| 07 / 20 | May 16 *13.15-15.00* | VasaC | [Reflection reports](README.md#reflection-report) | HB |  | 
+| 07 / 20 | May 20 *13.15-15.00* | VasaC | [Reflection reports](README.md#reflection-report) | HB |  | 
 | 08 / 21 | May 25 *13.00-16.00* | Lindholmen Open Arena | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
 
