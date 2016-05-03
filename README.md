@@ -106,7 +106,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 |  | Apr 22 *09.00-12.00* | VasaC | Process & tool supervision | HB, DS & RJ |  |
 | 04 / 17 | Apr 25 *13.15-15.00* | VasaC | Automotive Software Development | VCC |  |
 |  | Apr 27 *13.15-15.00* | VasaC | Entrepeneurship |  Chalmers Ventures | |
-|  | Apr 29 *13.15-15.00* | VasaC | [Human-Computer Interaction](http://www.ait,chalmers.se/~sjolie/Pressence/?slides=sep_hci) [App Design][L6] | DS |  |
+|  | Apr 29 *13.15-15.00* | VasaC | [Human-Computer Interaction][L6l] & [App Design][L6s] | DS |  |
 | 05 / 18 | May 02 *13.15-15.00* | Lindholmen Open Arena | Process supervision | HB & JP | [D2](README.md#pass--fail) |
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB & JP |  |
@@ -139,7 +139,8 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [L3o]: https://github.com/hburden/DAT255/blob/master/Slides/L3-OldScrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Project.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SWEPM.pdf?raw=true
-[L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-HCI.pdf?raw=true
+[L6l]: http://www.ait,chalmers.se/~sjolie/Pressence/?slides=sep_hci
+[L6s]: https://github.com/hburden/DAT255/blob/master/Slides/L6-HCI.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Reflection.pdf?raw=true
 
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
