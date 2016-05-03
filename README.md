@@ -139,7 +139,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [L3o]: https://github.com/hburden/DAT255/blob/master/Slides/L3-OldScrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Project.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SWEPM.pdf?raw=true
-[L6l]: http://www.ait,chalmers.se/~sjolie/Pressence/?slides=sep_hci
+[L6l]: http://www.ait.chalmers.se/~sjolie/Pressence/?slides=sep_hci
 [L6s]: https://github.com/hburden/DAT255/blob/master/Slides/L6-HCI.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Reflection.pdf?raw=true
 
