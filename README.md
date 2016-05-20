@@ -111,7 +111,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 | 06 / 19 | May 09 *13.15-15.00* | VasaC | Future of Software | Interaktionsbyrån |  |
 |  | May 11 *13.15-15.00* | Vasa3&4 | Process supervision | HB & JP |  |
 |  | May 13 *13.15-15.00* | VasaC | Product and organisation | Spotify |  |
-| 07 / 20 | May 20 *13.15-15.00* | VasaC | [Reflection reports](README.md#reflection-report) | HB |  | 
+| 07 / 20 | May 20 *13.15-15.00* | VasaC | [Reflection reports][LX] | HB |  | 
 | 08 / 21 | May 25 *13.00-16.00* | Lindholmen Open Arena | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 / 22 | Jun 03 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
 
@@ -141,7 +141,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SWEPM.pdf?raw=true
 [L6l]: http://www.ait.chalmers.se/~sjolie/Pressence/?slides=sep_hci
 [L6s]: https://github.com/hburden/DAT255/blob/master/Slides/L6-HCI.pdf?raw=true
-[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Reflection.pdf?raw=true
+[LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX-Final.pdf?raw=true
 
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
