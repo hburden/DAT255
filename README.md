@@ -141,7 +141,7 @@ Below you can see the time etc. of the lectures, exercises, workshops and delive
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SWEPM.pdf?raw=true
 [L6l]: http://www.ait.chalmers.se/~sjolie/Pressence/?slides=sep_hci
 [L6s]: https://github.com/hburden/DAT255/blob/master/Slides/L6-HCI.pdf?raw=true
-[LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX-Final.pdf?raw=true
+[LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX_Final.pdf?raw=true
 
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
