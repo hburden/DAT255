@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2016
 
 ## News
+- Jun 30: If you want feedback there will be an opportunity to meet the teachers on Aug 29, 14.00-16.00, in ML1
 - May 03: Uploaded slides for HCI lectrue. Changed date for last lecture, from May 16 to May 20
 - Apr 26: Thanks to team Outsourcify there is now a list of the troubles reported by the bus drivers. Send Håkan an e-mail if you want access to the file
 - Apr 19: On April 22nd the supervision will take place in the morning, 9-12, due to the [TBC] event. Check the lecture slides for the order among the teams
