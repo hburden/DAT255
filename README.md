@@ -41,7 +41,7 @@ The [grading policy](README.md#examination) will be updated before the first lec
 | HB | Håkan Burden | hburden | [burden@cse.gu.se](mailto:burden@cse.gu.se) | Course responsible |
 | JP | Jan-Philipp Steghöfer | steghoja | [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) | Examiner |
 | RJ | Rodi Jolak| rodijolak | | Lecturer |
-| DS | Daniel Sjölie | [daniel.sjolie@ait.gu.se](mailto:daniel.sjolie@ait.gu.se) | | Lecturer |
+| DS | Daniel Sjölie | | [daniel.sjolie@ait.gu.se](mailto:daniel.sjolie@ait.gu.se) | Lecturer |
 
 
 ## Student Representatives
@@ -83,8 +83,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 02 | Sep 05 *10.00-11.45* | HC4 | Scrum & Assessment | HB |  |
 |    | Sep 06 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
 |    | Sep 07 *10.00-11.45* | HC4 | Project management | HB |  |
-| 03 | Sep 12 *10.00-11.45* | HC4 |  |  |  |
-|    | Sep 13 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
+| 03 | Sep 13 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
 |    | Sep 14 *13.00-17.00* | Lindholmen Open Arena | Project introduction | HB, DS & RJ | [D1B](README.md#pass--fail) |
 | 04 | Sep 19 *10.00-11.45* | HC4 | Task breakdown | JS & HB |  |
 |    | Sep 21 *10.00-11.45* | HC4 | AR & HCI | DS | |
@@ -95,7 +94,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 07 | Oct 10 *10.00-11.45* | HC4 | TBD |  |  |
 |    | Oct 12 *13.00-17.00* | Lindholmen Open Arena | Last chance demo | HB |  |
 | 08 | Oct 17 *10.00-11.45* | HC4 | Reflection | HB |  |
-|    | Oct 19 *13.00-16.00* | Lindholmen Open Arena | Final presentation | HB | [D3](README.md#pass--fail) |
+|    | Oct 19 *13.00-17.00* | Lindholmen Open Arena | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 | Oct 28 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
 | -- | Nov 28 *13.00-16.00* | ML3 | Feedback | HB  | | 
 
