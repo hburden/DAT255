@@ -90,7 +90,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 21 *10.00-11.45* | HC4 | AR & HCI | DS | |
 | 05 | Sep 26 *10.00-11.45* | HC4 | Från vattenfall till agil utveckling | Maria Carlsson, VCC |  |
 |    | Sep 28 *13.00-17.00* | Lindholmen Open Arena | Half-time Review | HB | [D2](README.md#pass--fail) |
-| 06 | Oct 03 *10.00-11.45* | HC4 | Hur får man användare till sin mjukvara? | Joel Rozada, Technocreatives | |
+| 06 | Oct 03 *10.00-11.45* | HC4 | Hur får man användare till sin mjukvara? | Joel Rozada, The Techno Creatives | |
 |    | Oct 05 *10.00-11.45* | HC4 |Produkt och organisation i agil utveckling | Michael Öhman, Spotify | |
 | 07 | Oct 10 *10.00-11.45* | HC4 | TBD |  |  |
 |    | Oct 12 *13.00-17.00* | Lindholmen Open Arena | Last chance demo | HB |  |
