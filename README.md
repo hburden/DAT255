@@ -88,10 +88,10 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 14 *13.00-17.00* | Lindholmen Open Arena | Project introduction | HB, DS & RJ | [D1B](README.md#pass--fail) |
 | 04 | Sep 19 *10.00-11.45* | HC4 | Task breakdown | JS & HB |  |
 |    | Sep 21 *10.00-11.45* | HC4 | AR & HCI | DS | |
-| 05 | Sep 26 *10.00-11.45* | HC4 | Från vattenfall till agil utveckling | Maria Carlsson, VCC |  |
+| 05 | Sep 26 *10.00-11.45* | HC4 | From waterfall to agile | Maria Carlsson, VCC |  |
 |    | Sep 28 *13.00-17.00* | Lindholmen Open Arena | Half-time Review | HB | [D2](README.md#pass--fail) |
-| 06 | Oct 03 *10.00-11.45* | HC4 | Hur får man användare till sin mjukvara? | Joel Rozada, The Techno Creatives | |
-|    | Oct 05 *10.00-11.45* | HC4 |Produkt och organisation i agil utveckling | Michael Öhman, Spotify | |
+| 06 | Oct 03 *10.00-11.45* | HC4 | How to grow a community | Joel Rozada, The Techno Creatives | |
+|    | Oct 05 *10.00-11.45* | HC4 |Product and organisation in agile development | Michael Öhman, Spotify | |
 | 07 | Oct 10 *10.00-11.45* | HC4 | TBD |  |  |
 |    | Oct 12 *13.00-17.00* | Lindholmen Open Arena | Last chance demo | HB |  |
 | 08 | Oct 17 *10.00-11.45* | HC4 | Reflection | HB |  |
