@@ -82,8 +82,8 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Aug 31 *10.00-17.00* | Mållgan / 5215 | Lego exercise | HB & JS | [D1A](README.md#pass--fail) |
 | 02 | Sep 05 *10.00-11.45* | HC4 | Scrum & Assessment | HB |  |
 |    | Sep 06 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
-|    | Sep 07 *10.00-11.45* | HC4 | Project management | HB |  |
-| 03 | Sep 12 *10.00-11.45* | HC4 | TBD | HB |  |
+|    | Sep 07 *10.00-11.45* | HC4 |  |  |  |
+| 03 | Sep 12 *10.00-11.45* | HC4 | Project management | HB |  |
 |    | Sep 13 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
 |    | Sep 14 *13.00-17.00* | Lindholmen Open Arena | Project introduction | HB, DS & RJ | [D1B](README.md#pass--fail) |
 | 04 | Sep 19 *10.00-11.45* | HC4 | Task breakdown | JS & HB |  |
