@@ -1,6 +1,12 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
+- Aug 23: On Aug 31 we will introduce Scrum by a workshop. There will be four sessions and you will participate in only one of the sessions. The sessions are
+-- 10-13 5209-15 (EDIT/Johanneberg)
+-- 10-13 Mållgan (Patricia/Lindholmen)
+-- 14-17 5209-15
+-- 14-17 Mållgan
+ Divide into teams of six and e-mail Håkan team members, team name and preferred session. This information will be repeated at the first lecture.
 - Aug 15: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
