@@ -4,8 +4,9 @@
 - Aug 23: On Aug 31 we will introduce Scrum by a workshop. There will be four sessions and you will participate in only one of the sessions. The sessions are
 	- 10-13 5209-15 (EDIT/Johanneberg)
 	- 10-13 Mållgan (Patricia/Lindholmen)
-	- 14-17 5209-15
-	- 14-17 Mållgan
+	- 14-17 5209-15 (EDIT/Johanneberg)
+	- 14-17 Mållgan (Patricia/Lindholmen)
+	
  Divide into teams of six and e-mail Håkan team members, team name and preferred session. This information will be repeated at the first lecture.
 - Aug 15: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
