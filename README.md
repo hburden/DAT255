@@ -3,15 +3,18 @@
 ## News
 - Aug 23: On Aug 31 we will introduce Scrum by a workshop. There will be four sessions and you will participate in only one of the sessions. The sessions are
 	- 10-13 in 5209-15 (EDIT/Johanneberg)
-	- 10-13 in Mållgan (Patricia/Lindholmen)
+	- 10-13 in [Mållgan][Mållgan] (Patricia/Lindholmen)
 	- 14-17 in 5209-15 (EDIT/Johanneberg)
-	- 14-17 in Mållgan (Patricia/Lindholmen)
+	- 14-17 in [Mållgan][Mållgan] (Patricia/Lindholmen)
 	
  Divide into teams of six and e-mail Håkan team members, team name and preferred session. This information will be repeated at the first lecture.
 - Aug 15: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 [C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
+
+[Mållgan]: https://github.com/hburden/DAT255/blob/master/Extras/Mållgan.jpg?raw=true
+[Navet]: https://github.com/hburden/DAT255/blob/master/Extras/Navet.jpg?raw=true
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
