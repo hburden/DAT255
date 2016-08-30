@@ -1,7 +1,8 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
-- Aug 23: On Aug 31 we will introduce Scrum by a workshop. There will be four sessions and you will participate in only one of the sessions. The sessions are
+- Aug 30: Those who want to meet up with others to form a team are recommended to attend the Lego session at Lindholmen.
+- Aug 23: On Aug 31 we will introduce Scrum by a workshop. There will be ~~four~~ *three* sessions and you will participate in only one of the sessions. The sessions are
 	- 10-13 in 5209-15 (EDIT/Johanneberg)
 	- 10-13 in [Mållgan][Mållgan] (Patricia/Lindholmen)
 	- 14-17 in 5209-15 (EDIT/Johanneberg)
