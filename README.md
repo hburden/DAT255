@@ -5,7 +5,7 @@
 	- 10-13 in 5209-15 (EDIT/Johanneberg)
 	- 10-13 in [Mållgan][Mållgan] (Patricia/Lindholmen)
 	- 14-17 in 5209-15 (EDIT/Johanneberg)
-	- 14-17 in [Mållgan][Mållgan] (Patricia/Lindholmen)
+	- ~~14-17 in [Mållgan][Mållgan] (Patricia/Lindholmen)~~
 	
  Divide into teams of six and e-mail Håkan team members, team name and preferred session. This information will be repeated at the first lecture.
 - Aug 15: Homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
@@ -87,7 +87,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
-| 01 | Aug 29 *10.00-11.45* | VasaA | Course introduction | HB |  |
+| 01 | Aug 29 *10.00-11.45* | VasaA | [Course introduction][L1] | HB |  |
 |    | Aug 30 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
 |    | Aug 31 *10.00-17.00* | Mållgan / 5215 | Lego exercise | HB & JS | [D1A](README.md#pass--fail) |
 | 02 | Sep 05 *10.00-11.45* | HC4 | Scrum & Assessment | HB |  |
