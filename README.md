@@ -52,7 +52,7 @@ The [grading policy](README.md#examination) will be updated before the first lec
 | HB | Håkan Burden | hburden | [burden@cse.gu.se / burden@chalmers.se](mailto:burden@cse.gu.se) | Course responsible |
 | JP | Jan-Philipp Steghöfer | steghoja | [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) | Examiner |
 | RJ | Rodi Jolak| rodijolak | | Lecturer |
-| DS | Daniel Sjölie | | [daniel.sjolie@ait.gu.se](mailto:daniel.sjolie@ait.gu.se) | Lecturer |
+| DS | Daniel Sjölie | dsjolie | [daniel.sjolie@ait.gu.se](mailto:daniel.sjolie@ait.gu.se) | Lecturer |
 
 
 ## Student Representatives
