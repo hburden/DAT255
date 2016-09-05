@@ -91,7 +91,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 01 | Aug 29 *10.00-11.45* | VasaA | [Course introduction][L1] | HB |  |
 |    | Aug 30 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
 |    | Aug 31 *10.00-17.00* | Mållgan / 5215 | Lego exercise | HB & JS | [D1A](README.md#pass--fail) |
-| 02 | Sep 05 *10.00-11.45* | HC4 | Scrum & Assessment | HB |  |
+| 02 | Sep 05 *10.00-11.45* | HC4 | [Assessment][L3n] & [Scrum][L3o] | HB |  |
 |    | Sep 06 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
 |    | Sep 07 *10.00-11.45* | HC4 |  |  |  |
 | 03 | Sep 12 *10.00-11.45* | HC4 | Project management | HB |  |
