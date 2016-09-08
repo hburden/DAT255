@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
-- Sep 08: If you want to get in touch with newcomers, [Rampen][Rampen] is a football club that can be of interest
+- Sep 08: If you want to get in touch with newcomers, [Rampen][Rampen] is a football club that can be of interest.
 - Aug 30: Those who want to meet up with others to form a team are recommended to attend the Lego session at Lindholmen.
 - Aug 23: On Aug 31 we will introduce Scrum by a workshop. There will be ~~four~~ *three* sessions and you will participate in only one of the sessions. The sessions are
 	- 10-13 in 5209-15 (EDIT/Johanneberg)
