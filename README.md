@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
+- Sep 15: Updated the information regarding [D1.B](README.md#pass--fail)
 - Sep 08: If you want to get in touch with newcomers, [Rampen][Rampen] is a football club that can be of interest.
 - Aug 30: Those who want to meet up with others to form a team are recommended to attend the Lego session at Lindholmen.
 - Aug 23: On Aug 31 we will introduce Scrum by a workshop. There will be ~~four~~ *three* sessions and you will participate in only one of the sessions. The sessions are
@@ -98,7 +99,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 07 *10.00-11.45* | HC4 |  |  |  |
 | 03 | Sep 12 *10.00-11.45* | HC4 | [Project management][L4] | HB |  |
 |    | Sep 13 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
-|    | Sep 14 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Project introduction | HB, DS & RJ | [D1B](README.md#pass--fail) |
+|    | Sep 14 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Project introduction | HB, DS & RJ | [D1.B](README.md#pass--fail) |
 | 04 | Sep 19 *10.00-11.45* | HC4 | Task breakdown | JS & HB |  |
 |    | Sep 21 *10.00-11.45* | HC4 | AR & HCI | DS | |
 | 05 | Sep 26 *10.00-11.45* | HC4 | From waterfall to agile | Maria Carlsson, VCC |  |
@@ -156,7 +157,7 @@ To pass the course **each team** has to deliver:
 
 - D1: Setup: The first deliverable consists of two parts,
   - D1.A: A one-page document drawing on the lessons from the Lego scrum exercise on how to initially work with scrum. Describe three insights from the exercise and how these will affect how you implement Scrum in your project. An insight can be that you want to do more or less of a practice, or that you want to change how you applied a practice. To be e-mailed to the course responsible at Sep 02 17.00 at the latest.
-  - D1.B: A [vision](README.md#course-literature) or a concept for the prototype. An initial product backlog. A [social contract][socialcontract] for the team. Make sure the documents are in your git repo and an invitation to your scrum board is sent to JS before Sep 16 17.00.
+  - D1.B: A [vision](README.md#course-literature) or a concept for the prototype. An initial product backlog. A [social contract][socialcontract] for the team. Make sure the documents are in your git repo and an invitation to your scrum board is sent to Jan-Philipp before Sep 16 17.00. You are free to choose any scrum board you want but make sure you can share it.
 - D2: Half-time evaluation: A one-page document reflecting on the work so far, both in terms of process and product. D2 should be uploaded to the git repo before Sep 30 17.00.
 - D3: Final presentation: The third deliverable is a *working prototype* (APK) for the final presentation. D3 should be uploaded to the git repo before Oct 19 13.00.
 - D4: Signing off: The last deliverable consists of deliverables D1, D2 and D3 including the source code and the output from [gitinspector][GitInspector] as well as the artefacts asked for under [Prototype](### Prototype) and [Reflection Report](### Reflection Report). Do not touch the git repo after Oct 28 17.00.
