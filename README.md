@@ -100,7 +100,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 07 *10.00-11.45* | HC4 |  |  |  |
 | 03 | Sep 12 *10.00-11.45* | HC4 | [Project management][L4] | HB |  |
 |    | Sep 13 *10.00-11.45* | 5215 | Tool supervision | RJ |  |
-|    | Sep 14 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Project introduction | HB, DS & RJ | [D1.B](README.md#pass--fail) |
+|    | Sep 14 *13.00-17.00* | [Lindholmen Open Arena][Navet] | [Project introduction][L5] | HB, DS & RJ | [D1.B](README.md#pass--fail) |
 | 04 | Sep 19 *10.00-11.45* | HC4 | Task breakdown | JS & HB |  |
 |    | Sep 21 *10.00-11.45* | HC4 | AR & HCI | DS | |
 | 05 | Sep 26 *10.00-11.45* | HC4 | From waterfall to agile | Maria Carlsson, VCC |  |
@@ -136,7 +136,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 [L3n]: https://github.com/hburden/DAT255/blob/master/Slides/L3-NewScrum.pdf?raw=true
 [L3o]: https://github.com/hburden/DAT255/blob/master/Slides/L3-OldScrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-ProjectManagement.pdf?raw=true
-[L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SWEPM.pdf?raw=true
+[L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-LanguageSupport.pdf?raw=true
 [L6l]: http://www.ait.chalmers.se/~sjolie/Pressence/?slides=sep_hci
 [L6s]: https://github.com/hburden/DAT255/blob/master/Slides/L6-HCI.pdf?raw=true
 [LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX_Final.pdf?raw=true
