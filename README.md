@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
+- Sep 20: Thanks to the teams that have sent a screenshot of their backlogs to Håkan
 - Sep 15: Updated the information regarding [D1.B](README.md#pass--fail)
 - Sep 08: If you want to get in touch with newcomers, [Rampen][Rampen] is a football club that can be of interest.
 - Aug 30: Those who want to meet up with others to form a team are recommended to attend the Lego session at Lindholmen.
