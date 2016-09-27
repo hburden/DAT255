@@ -110,7 +110,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 14 *13.00-17.00* | [Lindholmen Open Arena][Navet] | [Project introduction][L5] | HB, DS & RJ | [D1.B](README.md#pass--fail) |
 | 04 | Sep 19 *10.00-11.45* | HC4 | Task breakdown | JS & HB |  |
 |    | Sep 21 *10.00-11.45* | HC4 | AR & HCI | DS | |
-| 05 | Sep 26 *10.00-11.45* | HC4 | From waterfall to agile | Maria Carlsson, VCC |  |
+| 05 | Sep 26 *10.00-11.45* | HC4 | [From waterfall to agile][L6] | Maria Carlsson, VCC |  |
 |    | Sep 28 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Half-time Review | HB | [D2](README.md#pass--fail) |
 | 06 | Oct 03 *10.00-11.45* | HC4 | How to grow a community | Joel Rozada, The Techno Creatives | |
 |    | Oct 05 *10.00-11.45* | HC4 |Product and organisation in agile development | Michael Öhman, Spotify | |
@@ -144,7 +144,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-ProjectManagement.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-LanguageSupport.pdf?raw=true
 [L6l]: http://www.ait.chalmers.se/~sjolie/Pressence/?slides=sep_hci
-[L6s]: https://github.com/hburden/DAT255/blob/master/Slides/L6-HCI.pdf?raw=true
+[L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-VCC.pdf?raw=true
 [LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX_Final.pdf?raw=true
 
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
