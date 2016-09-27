@@ -114,8 +114,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 28 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Half-time Review | HB | [D2](README.md#pass--fail) |
 | 06 | Oct 03 *10.00-11.45* | HC4 | How to grow a community | Joel Rozada, The Techno Creatives | |
 |    | Oct 05 *10.00-11.45* | HC4 |Product and organisation in agile development | Michael Öhman, Spotify | |
-| 07 | Oct 10 *10.00-11.45* | HC4 | TBD |  |  |
-|    | Oct 12 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Last chance demo | HB |  |
+| 07 | Oct 12 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Last chance demo | HB |  |
 | 08 | Oct 17 *10.00-11.45* | HC4 | Reflection | HB |  |
 |    | Oct 19 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 | Oct 28 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
