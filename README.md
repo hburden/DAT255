@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
+- Sep 29: Thanks for a great day yesterday! And for all the backlog screenshots, there has been quite an improvement. Well done!
 - Sep 22: The course representatives have been elected and the information is subsequently added 
 - Sep 20: Added slides for lecture 5, project introduction
 - Sep 20: Thanks to the teams that have sent a screenshot of their backlogs to Håkan
