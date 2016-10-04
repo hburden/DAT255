@@ -113,7 +113,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 21 *10.00-11.45* | HC4 | AR & HCI | DS | |
 | 05 | Sep 26 *10.00-11.45* | HC4 | [From waterfall to agile][L6] | Maria Carlsson, VCC |  |
 |    | Sep 28 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Half-time Review | HB | [D2](README.md#pass--fail) |
-| 06 | Oct 03 *10.00-11.45* | HC4 | How to grow a community | Joel Rozada, The Techno Creatives | |
+| 06 | Oct 03 *10.00-11.45* | HC4 | [Digitalisation][L7] | Joel Rozada, The Techno Creatives | |
 |    | Oct 05 *10.00-11.45* | HC4 |Product and organisation in agile development | Michael Öhman, Spotify | |
 | 07 | Oct 12 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Last chance demo | HB |  |
 | 08 | Oct 17 *10.00-11.45* | HC4 | Reflection | HB |  |
@@ -147,7 +147,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 [L6l]: http://www.ait.chalmers.se/~sjolie/Pressence/?slides=sep_hci
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6_VCC.pdf?raw=true
 [LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX_Final.pdf?raw=true
-
+[L7]: https://www.slideshare.net/secret/3wOZUPV5h15mHg
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
