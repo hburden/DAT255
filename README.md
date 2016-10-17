@@ -116,7 +116,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 06 | Oct 03 *10.00-11.45* | HC4 | [Digitalisation][L7] | Joel Rozada, The Techno Creatives | |
 |    | Oct 05 *10.00-11.45* | HC4 |Product and organisation in agile development | Michael Öhman, Spotify | |
 | 07 | Oct 12 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Last chance demo | HB |  |
-| 08 | Oct 17 *10.00-11.45* | HC4 | Reflection | HB |  |
+| 08 | Oct 17 *10.00-11.45* | HC4 | [Reflection][LX] | HB |  |
 |    | Oct 19 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 | Oct 28 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
 | -- | Nov 28 *13.00-16.00* | ML3 | Feedback | HB  | | 
