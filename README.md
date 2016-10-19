@@ -232,7 +232,7 @@ The team grade is given by the total number of points for the team effort:
 - 31 – 40: 4
 - 41 – 50: 5 / VG
 
-The team grade then serves as a baseline for the individual grades so that students with higher contributions **and** team effort receive a higher grade than the team grade and students with lower individual scores receive a lower grade. Higher and lower are approximately 25% more / less than team average. *Please use the [online survey][PersonalSurvey] to assess your own and your team mates contribution*
+The team grade then serves as a baseline for the individual grades so that students with higher contributions **and** team effort receive a higher grade than the team grade and students with lower individual scores receive a lower grade. Higher and lower are approximately 25% more / less than team average. *Please use the [online survey][PersonalSurvey] to assess your own and your team mates contribution*. And remember to include yourself!
 
 [FindBugs]: http://findbugs.sourceforge.net/
 [GitInspector]: https://github.com/ejwa/gitinspector
