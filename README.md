@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
+- Oct 19: Updated the info regarding [personal contribution](README.md#grades) 
 - Sep 29: Thanks for a great day yesterday! And for all the backlog screenshots, there has been quite an improvement. Well done!
 - Sep 22: The course representatives have been elected and the information is subsequently added 
 - Sep 20: Added slides for lecture 5, project introduction
@@ -231,10 +232,11 @@ The team grade is given by the total number of points for the team effort:
 - 31 – 40: 4
 - 41 – 50: 5 / VG
 
-The team grade then serves as a baseline for the individual grades so that students with higher contributions **and** team effort receive a higher grade than the team grade and students with lower individual scores receive a lower grade. Higher and lower are approximately 25% more / less than team average.
+The team grade then serves as a baseline for the individual grades so that students with higher contributions **and** team effort receive a higher grade than the team grade and students with lower individual scores receive a lower grade. Higher and lower are approximately 25% more / less than team average. *Please use the [online survey][PersonalSurvey] to assess your own and your team mates contribution*
 
 [FindBugs]: http://findbugs.sourceforge.net/
 [GitInspector]: https://github.com/ejwa/gitinspector
+[PersonalSurvey]: https://goo.gl/forms/3xPs53HGpCUtIa3S2
 
 We strive for a transparent and fair assessment strategy. [That is why we as teachers are the ones that do the grading based on our experience][fairgrades].
 
