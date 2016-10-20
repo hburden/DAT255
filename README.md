@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2016
 
 ## News
+- Oct 20: Please fill in the [Google doc](https://docs.google.com/document/d/1tQH7Q2I0Ib57kKfuxX_shWM17PBTJiNZ3F5cr4sSfNw/edit?usp=sharing) to give Länsstyrelsen and Göteborgs Stad an overview of your effort
 - Oct 20: The place for the feedback lecture is now decided, HB4. We will go through the assessment and show some insights from the Elephant exercise. And feedback of course. Welcome!
 - Oct 19: Updated the info regarding [personal contribution](README.md#grades) 
 - Sep 29: Thanks for a great day yesterday! And for all the backlog screenshots, there has been quite an improvement. Well done!
