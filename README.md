@@ -120,7 +120,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 08 | Oct 17 *10.00-11.45* | HC4 | [Reflection][LX] | HB |  |
 |    | Oct 19 *13.00-17.00* | [Lindholmen Open Arena][Navet] | Final presentation | HB | [D3](README.md#pass--fail) |
 | 09 | Oct 28 *17.00* | -- | Hand off | HB | [D4](README.md#pass--fail) |
-| -- | Nov 28 *13.00-16.00* | ML3 | Feedback | HB  | | 
+| -- | Nov 28 *13.00-16.00* | HB4 | Feedback | HB  | | 
 
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
