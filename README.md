@@ -177,7 +177,7 @@ within the designated deadlines.
 
 To pass the course **a student** has to deliver:
 - evidence for active participation in the team effort. The level of student participation is determined on a combined assessment of the output from [gitinspector][GitInspector] and the mean values from the team evaluation. 
-- an evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Email your evaluation (name and amount for each group member *including* yourself) to burden@cse.gu.se no later than 03 June 17:00 2016. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
+- an evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (so, $50 for a group of 5). How would you distribute this "pay" among your group members, based on their value and contribution? Submit your evaluation using our [new online web survey][PersonalSurvey] before Oct 28 17.00. (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
 
 within the designated deadline
 
