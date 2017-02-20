@@ -85,7 +85,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | May 17 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 10 | May 22 *13.15-15.00* | Lindholmen | Final presentation | Everyone | D5 |
 | 11 | Jun ?? *13.15-15.00* | Lindholmen | Writing reflections | HB | |
-|    | Jun 02 *17.00*       |  | General release |  | D6 | 
+|    | Jun 02 *17.00*       |  | General release | The teams | D6 | 
 
 
 
