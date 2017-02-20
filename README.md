@@ -66,7 +66,7 @@ Git:
 ## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
 
-| Week    | Date & Time        | Room  | Topic        | Who | Deliverable(s) |
+| Week    | Date & Time        | Room  | Topic        | Who | Deliverable |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 | Mar 20 *13.15-15.00* | VasaC | Course introduction | HB |  |
 |    | Mar 22 *13.15-17.00* | Vasa6 | Lego exercise | HB | D1 |
