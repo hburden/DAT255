@@ -28,8 +28,6 @@ In this course you will learn how to design and develop software, and to manage 
 - Judgement and approach, the student should be able to:
 	- reflect on the choice of software engineering methods used in the project
 
-The [grading policy](README.md#examination) will be updated before the first lecture. The aim is to meet the requests from last year's [course evaluation][courseeval].
-
 
 ## Teachers
 
@@ -188,6 +186,8 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
+[PortCDM]: http://stmvalidation.eu/#!activity-item/activity-1-port-collaborative-decision-making
+
 
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Overview.pdf?raw=true
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
