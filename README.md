@@ -70,7 +70,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 | Mar 20 *13.15-15.00* | VasaC | Course introduction | HB |  |
 |    | Mar 22 *13.15-17.00* | Vasa6 | Lego exercise | HB | D1 |
-|    | Mar 24 *13.15-15.00* |  | Git for newbies | RJ | |
+|    | Mar 24 *13.15-15.00* | Vasa4 | Git for newbies | RJ | |
 | 02 | Mar 27 *13.15-15.00* | VasaC | Assessment & Scrum | HB |  |
 |    | Mar 29 *13.15-15.00* | VasaC | Kata exercise | HB |  |
 |    | Mar 31 *13.15-15.00* | VasaC | Software quality | HB | D2 |
