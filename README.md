@@ -38,16 +38,17 @@ In this course you will learn how to design and develop software, and to manage 
 | RJ | Rodi Jolak| rodijolak | | Lecturer |
 
 
-<!--
+
 ## Student Representatives
 | Program | E-mail | Name |
 | ------  |  ------	                 | 	     | 
-|    |   |       |
-|    |    |     |
-|    |  |  |
-|    |    |  |
-|    |    |     |
--->
+| TKIEK   | oskarha@student.chalmers.se  | Oskar Hagman |
+| TKIEK   | davhell@student.chalmers.se  | David Helldén |
+| TKIEK   | henmar@student.chalmers.se   | Henrik Marklund |
+| TKIEK   | teodorm@student.chalmers.se  | Teodor Martinsson |
+| TKIEK   | tobsten@student.chalmers.se  | Tobias Stenshagen |
+ 
+
 
 ## Course Literature 
 Book:
