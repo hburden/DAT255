@@ -41,7 +41,7 @@ In this course you will learn how to design and develop software, and to manage 
 
 ## Student Representatives
 | Program | E-mail | Name |
-| ------  |  ------	                 | 	     | 
+| ------  |  ------	                 | -----	     | 
 | TKIEK   | oskarha@student.chalmers.se  | Oskar Hagman |
 | TKIEK   | davhell@student.chalmers.se  | David Helldén |
 | TKIEK   | henmar@student.chalmers.se   | Henrik Marklund |
