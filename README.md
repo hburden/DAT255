@@ -85,7 +85,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 07 | May 10 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM | D4 |
 | 09 | May 15 *13.15-15.00* | VasaC | Reflection | HB |  |
 |    | May 17 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-| 10 | May 22 *13.15-15.00* | Lindholmen | Final presentation | Everyone | D5 |
+| 10 | May 24 *10.00-12.00* | Lindholmen | Final presentation | Everyone | D5 |
 | 11 | Jun ?? *13.15-15.00* | Lindholmen | Writing reflections | HB | |
 |    | Jun 02 *17.00*       |  | General release | The teams | D6 | 
 
