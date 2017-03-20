@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
+- Let's get started!
 - Feb 20: A first version of the course homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 
@@ -28,6 +29,7 @@ In this course you will learn how to design and develop software, and to manage 
 - Judgement and approach, the student should be able to:
 	- reflect on the choice of software engineering methods used in the project
 
+Since a substantial part of the work is conducted in teams, please consider the [Chalmers rules regarding your work conditions][CRS]. If you encounter problems, contact Håkan immediately!
 
 ## Teachers
 
@@ -206,7 +208,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
 
-
+[CRS]: https://student.portal.chalmers.se/sv/chalmersstudier/regelsamling/Sidor/regelsamling.aspx
 
 [gittut]: https://www.atlassian.com/git/tutorials
 [androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
