@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
+- Added an [FAQ][FAQ]
 - Let's get started!
 - Feb 20: A first version of the course homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
@@ -216,6 +217,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
 
+[FAQ]: http://github.com/hburden/DAT255/wiki/FAQ
 
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 [C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
