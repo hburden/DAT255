@@ -51,6 +51,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 | TKIEK   | teodorm@student.chalmers.se  | Teodor Martinsson |
 | TKIEK   | tobsten@student.chalmers.se  | Tobias Stenshagen |
  
+ We meet after the activities on Mar 22, Apr 26 and May 17. 
 
 
 ## Course Literature 
