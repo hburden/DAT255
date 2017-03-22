@@ -76,7 +76,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 | Mar 20 *13.15-15.00* | VasaC | [Course introduction][L1] | HB |  |
-|    | Mar 22 *13.15-17.00* | Vasa6 | Lego exercise | HB | D1 |
+|    | Mar 22 *13.15-17.00* | Vasa6 | [Lego exercise][L2] | HB | D1 |
 |    | Mar 24 *13.15-15.00* | Vasa4 | Git for newbies | RJ | |
 | 02 | Mar 27 *13.15-15.00* | VasaC | Assessment & Scrum | HB |  |
 |    | Mar 29 *13.15-15.00* | VasaC | Kata exercise | HB |  |
@@ -199,7 +199,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 
 
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
-[L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Project.pdf?raw=true
+[L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Lego.pdf?raw=true
 [L3n]: https://github.com/hburden/DAT255/blob/master/Slides/L3-NewScrum.pdf?raw=true
 [L3o]: https://github.com/hburden/DAT255/blob/master/Slides/L3-OldScrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-ProjectManagement.pdf?raw=true
