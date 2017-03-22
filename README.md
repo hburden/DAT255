@@ -54,10 +54,8 @@ Since a substantial part of the work is conducted in teams, please consider the 
 
 
 ## Course Literature 
-Book:
-- Kniberg, H. (2015) [Scrum and XP from the Trenches - 2nd Edition](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2). Free with registration
-
 Agile:
+- Kniberg, H. (2015) [Scrum and XP from the Trenches - 2nd Edition](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2). Free with registration
 - [Breaking a feature into tasks](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/)
 - [Maintaining the full view of a complex system](http://jpattonassociates.com/the-new-backlog/)
 
@@ -66,6 +64,10 @@ Git:
 - [A successful Git branching model][gitbranch]
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
+
+Business Model Canvas:
+- A short [YouTube film](https://youtu.be/QoAOzMTLP5s)
+- Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 
 ## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
