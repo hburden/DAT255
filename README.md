@@ -59,6 +59,7 @@ Agile:
 - Kniberg, H. (2015) [Scrum and XP from the Trenches - 2nd Edition](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2). Free with registration
 - [Breaking a feature into tasks](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/)
 - [Maintaining the full view of a complex system](http://jpattonassociates.com/the-new-backlog/)
+- [Scrum of scrums](https://www.scrumalliance.org/community/articles/2007/may/advice-on-conducting-the-scrum-of-scrums-meeting)
 
 Git:
 - [Pro Git][GITBOOK], [Git Videos][gitvid]
