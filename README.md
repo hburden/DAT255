@@ -81,7 +81,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Mar 24 *13.15-15.00* | Vasa4 | Git for newbies | RJ | |
 | 02 | Mar 27 *13.15-15.00* | VasaC | [Assessment & Scrum][L3] | HB |  |
 |    | Mar 29 *13.15-15.00* | VasaC | [Kata exercise][L4] | HB |  |
-|    | Mar 31 *13.15-15.00* | VasaC | Software quality | HB | D2 |
+|    | Mar 31 *13.15-15.00* | VasaC | [Software quality][L5] | HB | D2 |
 | 03 | Apr 03 *13.15-15.00* | VasaC | Project introduction | PortCDM | D3A |
 |    | Apr 05 *13.15-15.00* | VasaC | Elephant exercise | JS & HB | D3B |
 | 04 | Apr 19 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
@@ -203,7 +203,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Lego.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-AssessmentScrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Kata.pdf?raw=true
-[L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-LanguageSupport.pdf?raw=true
+[L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
 [L6l]: http://www.ait.chalmers.se/~sjolie/Pressence/?slides=sep_hci
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6_VCC.pdf?raw=true
 [LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX_Final.pdf?raw=true
