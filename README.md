@@ -2,7 +2,7 @@
 
 ## News
 - Apr 03: The SoS slack channel is found at https://portcdm-dat255.slack.com/signup
-- Apr 03: The PortCDM [scenario][scenario] description was uploaded 
+- Apr 03: The PortCDM [scenario][scenario] description was uploaded as well as a link to the [backend][backend]
 - Mar 22: Added an [FAQ][FAQ]
 - Mar 20: Let's get started!
 - Feb 20: A first version of the course homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
@@ -14,7 +14,7 @@ Software remains malleable, often illogical, and incomplete forever. *Sequential
 Given the nature of software, is it really feasible to identify all variables beforehand? *Iterative and incremental approaches* accepts that changes are inevitable and integrates change management into the development process. *Agile approaches* promotes iterative and incremental development by using a very tight *design-code-test* cycle. If we again use a traditional product perspective, this can be compared to new product development.
 
 ## Course Project
-Most of the course time is spent on a course project. This term the project is run in collaboration with the [PortCDM project][PortCDM]. As students you will be assigned the task of implementing the frontend for one of the stakeholders involved in maritime shipping. The teams will then have the task to demonstrate the full chain of events as a cargo vessel leaves a port and arrives at the next destination. More information about the project scope will be given on the lecture held Apr 03.
+Most of the course time is spent on a course project. This term the project is run in collaboration with the [PortCDM project][PortCDM], using a shared [backend][backend]. As students you will be assigned the task of implementing the frontend for one of the stakeholders involved in maritime shipping. The teams will then have the task to demonstrate the full chain of events as a cargo vessel leaves a port and arrives at the next destination. More information about the project scope will be given on the lecture held Apr 03.
 
 The [scenario][scenario] gives an initial description of the intentions and responsibilities of the different actors. The teams are assigned actors as follows:
 
@@ -235,6 +235,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [gittut]: https://www.atlassian.com/git/tutorials
 [androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
 
+[backend]: http://releases.portcdm.eu/appliance/
 [scenario]: http://github.com/hburden/DAT255/blob/master/Extras/PortCDM-Scenario.pdf?raw=true
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
