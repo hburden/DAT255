@@ -14,6 +14,9 @@ Given the nature of software, is it really feasible to identify all variables be
 ## Course Project
 Most of the course time is spent on a course project. This term the project is run in collaboration with the [PortCDM project][PortCDM]. As students you will be assigned the task of implementing the frontend for one of the stakeholders involved in maritime shipping. The teams will then have the task to demonstrate the full chain of events as a cargo vessel leaves a port and arrives at the next destination. More information about the project scope will be given on the lecture held Apr 03.
 
+The [scenario][scenario] gives an initial description of the intentions and responsibilities of the different actors. The teams are assigned actors as follows:
+
+
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
 - Knowledge and understanding, the student should be able to:
@@ -82,7 +85,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 02 | Mar 27 *13.15-15.00* | VasaC | [Assessment & Scrum][L3] | HB |  |
 |    | Mar 29 *13.15-15.00* | VasaC | [Kata exercise][L4] | HB |  |
 |    | Mar 31 *13.15-15.00* | VasaC | [Software quality][L5] | HB | D2 |
-| 03 | Apr 03 *13.15-15.00* | VasaC | PortCDM Project & [System][L6S] | PortCDM | D3A |
+| 03 | Apr 03 *13.15-15.00* | VasaC | [PortCDM][L6M] Project & [System][L6S] | PortCDM | D3A |
 |    | Apr 05 *13.15-15.00* | VasaC | Elephant exercise | JS & HB | D3B |
 | 04 | Apr 19 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 05 | Apr 24 *13.15-15.00* |  | Product development | Spotify |  |
@@ -204,7 +207,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-AssessmentScrum.pdf?raw=true
 [L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Kata.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
-[L6M]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectSystem.pdf?raw=true
+[L6M]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectMotivation.pdf?raw=true
 [L6S]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectSystem.pdf?raw=true
 [LX]: https://github.com/hburden/DAT255/blob/master/Slides/LX_Final.pdf?raw=true
 [L7]: https://www.slideshare.net/secret/3wOZUPV5h15mHg
@@ -217,6 +220,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [gittut]: https://www.atlassian.com/git/tutorials
 [androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
 
+[scenario]: http://github.com/hburden/DAT255/blob/master/Extras/PortCDM-Scenario.pdf?raw=true
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
 
