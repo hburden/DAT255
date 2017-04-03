@@ -2,7 +2,7 @@
 
 ## News
 - Apr 03: The SoS slack channel is found at https://portcdm-dat255.slack.com/signup
-- Apr 03: The PortCDM scenario description was uploaded 
+- Apr 03: The PortCDM [scenario][scenario] description was uploaded 
 - Mar 22: Added an [FAQ][FAQ]
 - Mar 20: Let's get started!
 - Feb 20: A first version of the course homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
@@ -27,7 +27,7 @@ The [scenario][scenario] gives an initial description of the intentions and resp
 | Terminal 2 | Billy Corgan Project |
 | Ship Agent 1 | Runda Bordet |
 | Ship Agent 2 | Boaty McBoat |
-| Mooring Organisation |
+| Mooring Organisation | Quadcore |
 | Port Authority | Noooora |
 | VTS | Project Titanic |
 
