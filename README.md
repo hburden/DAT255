@@ -1,8 +1,10 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
-- Added an [FAQ][FAQ]
-- Let's get started!
+- Apr 03: The SoS slack channel is found at https://portcdm-dat255.slack.com/signup
+- Apr 03: The PortCDM scenario description was uploaded 
+- Mar 22: Added an [FAQ][FAQ]
+- Mar 20: Let's get started!
 - Feb 20: A first version of the course homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 
@@ -15,6 +17,19 @@ Given the nature of software, is it really feasible to identify all variables be
 Most of the course time is spent on a course project. This term the project is run in collaboration with the [PortCDM project][PortCDM]. As students you will be assigned the task of implementing the frontend for one of the stakeholders involved in maritime shipping. The teams will then have the task to demonstrate the full chain of events as a cargo vessel leaves a port and arrives at the next destination. More information about the project scope will be given on the lecture held Apr 03.
 
 The [scenario][scenario] gives an initial description of the intentions and responsibilities of the different actors. The teams are assigned actors as follows:
+
+| Actor | Team |
+| ----- | ----- |
+| Vessel | Wale Wale |
+| Pilot Organisation | Lag Filip |
+| Towage Operator | Tug Life |
+| Terminal 1 | Lag Silja Line |
+| Terminal 2 | Billy Corgan Project |
+| Ship Agent 1 | Runda Bordet |
+| Ship Agent 2 | Boaty McBoat |
+| Mooring Organisation |
+| Port Authority | Noooora |
+| VTS | Project Titanic |
 
 
 ## Learning outcomes
