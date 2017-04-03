@@ -85,7 +85,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 02 | Mar 27 *13.15-15.00* | VasaC | [Assessment & Scrum][L3] | HB |  |
 |    | Mar 29 *13.15-15.00* | VasaC | [Kata exercise][L4] | HB |  |
 |    | Mar 31 *13.15-15.00* | VasaC | [Software quality][L5] | HB | D2 |
-| 03 | Apr 03 *13.15-15.00* | VasaC | [PortCDM][L6M] Project & [System][L6S] | PortCDM | D3A |
+| 03 | Apr 03 *13.15-15.00* | VasaC | PortCDM [Project][L6M] & [System][L6S] | PortCDM | D3A |
 |    | Apr 05 *13.15-15.00* | VasaC | Elephant exercise | JS & HB | D3B |
 | 04 | Apr 19 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 05 | Apr 24 *13.15-15.00* |  | Product development | Spotify |  |
