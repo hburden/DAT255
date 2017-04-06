@@ -101,7 +101,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Mar 29 *13.15-15.00* | VasaC | [Kata exercise][L4] | HB |  |
 |    | Mar 31 *13.15-15.00* | VasaC | [Software quality][L5] | HB | D2 |
 | 03 | Apr 03 *13.15-15.00* | VasaC | PortCDM [Project][L6M] & [System][L6S] | PortCDM | D3A |
-|    | Apr 05 *13.15-15.00* | VasaC | [Elephant exercise][L7E] & [Feedback][L7F] | JS & HB | D3B |
+|    | Apr 05 *13.15-15.00* | VasaC | [Elephant][L7E] & [Feedback][L7F] | JS & HB | D3B |
 | 04 | Apr 19 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 05 | Apr 24 *13.15-15.00* |  | Product development | Spotify |  |
 |    | Apr 26 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
@@ -225,7 +225,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L6M]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectMotivation.pdf?raw=true
 [L6S]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectSystem.pdf?raw=true
 [L7E]: https://github.com/hburden/DAT255/blob/master/Slides/L7-ScrumRevisited.pdf?raw=true
-[L7E]: https://github.com/hburden/DAT255/blob/master/Slides/L7-Feedback.pdf?raw=true
+[L7F]: https://github.com/hburden/DAT255/blob/master/Slides/L7-Feedback.pdf?raw=true
 [L7]: https://www.slideshare.net/secret/3wOZUPV5h15mHg
 [L8]: https://github.com/morganericsson/DAT255/blob/master/slides/l8.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
