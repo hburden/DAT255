@@ -103,16 +103,16 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 03 | Apr 03 *13.15-15.00* | VasaC | PortCDM [Project][L6M] & [System][L6S] | PortCDM | D3A |
 |    | Apr 05 *13.15-15.00* | VasaC | [Elephant][L7E] & [Feedback][L7F] | JS & HB | D3B |
 | 04 | Apr 19 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-| 05 | Apr 24 *13.15-15.00* |  | Product development | Spotify |  |
+| 05 | Apr 24 *13.15-15.00* | VasaC | Product development | Spotify |  |
 |    | Apr 26 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-|    | Apr 28 *13.15-15.00* |  | Startup | 8 Dudes in a Garage |  |
+|    | Apr 28 *13.15-15.00* | VasaC | Startup | 8 Dudes in a Garage |  |
 | 06 | May 03 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 07 | May 10 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM | D4 |
 | 09 | May 15 *13.15-15.00* | VasaC | Reflection | HB |  |
 |    | May 17 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 10 | May 24 *10.00-12.00* | Lindholmen | Final presentation | Everyone | D5 |
 | 11 | Jun ?? *13.15-15.00* | Lindholmen | Writing reflections | HB | |
-|    | Jun 02 *17.00*       |  | General release | The teams | D6 | 
+|    | Jun 02 *17.00*       | -- | General release | The teams | D6 | 
 
 
 
