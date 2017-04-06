@@ -14,7 +14,7 @@ Software remains malleable, often illogical, and incomplete forever. *Sequential
 Given the nature of software, is it really feasible to identify all variables beforehand? *Iterative and incremental approaches* accepts that changes are inevitable and integrates change management into the development process. *Agile approaches* promotes iterative and incremental development by using a very tight *design-code-test* cycle. If we again use a traditional product perspective, this can be compared to new product development.
 
 ## Course Project
-Most of the course time is spent on a course project. This term the project is run in collaboration with the [PortCDM project][PortCDM], using a shared [backend][backend]. As students you will be assigned the task of implementing the frontend for one of the stakeholders involved in maritime shipping. The teams will then have the task to demonstrate the full chain of events as a cargo vessel leaves a port and arrives at the next destination. More information about the project scope will be given on the lecture held Apr 03.
+Most of the course time is spent on a course project. This term the project is run in collaboration with the [PortCDM project][PortCDM], using a shared [backend][backend] accessed through the PortCDM [API][SwaggerAPI]. As students you will be assigned the task of implementing the frontend for one of the stakeholders involved in maritime shipping. The teams will then have the task to demonstrate the full chain of events as a cargo vessel leaves a port and arrives at the next destination. More information about the project scope will be given on the lecture held Apr 03.
 
 The [scenario][scenario] gives an initial description of the intentions and responsibilities of the different actors. The teams are assigned actors as follows:
 
@@ -215,7 +215,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [xkcd]: http://xkcd.com/1425/
 [COCO]: http://youtu.be/5HbYScltf1c
 [PortCDM]: http://stmvalidation.eu/#!activity-item/activity-1-port-collaborative-decision-making
-
+[SwaggerAPI]: http://specification.portcdm.eu/
 
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Lego.pdf?raw=true
