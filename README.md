@@ -102,7 +102,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Mar 31 *13.15-15.00* | VasaC | [Software quality][L5] | HB | D2 |
 | 03 | Apr 03 *13.15-15.00* | VasaC | PortCDM [Project][L6M] & [System][L6S] | PortCDM | D3A |
 |    | Apr 05 *13.15-15.00* | VasaC | [Elephant][L7E] & [Feedback][L7F] | JS & HB | D3B |
-| 04 | Apr 19 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
+| 04 | Apr 19 *13.15-15.00* | [Lindholmen][LHMap] | Supervision | HB & PortCDM |  |
 | 05 | Apr 24 *13.15-15.00* | VasaC | Product development | Spotify |  |
 |    | Apr 26 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 |    | Apr 28 *13.15-15.00* | VasaC | Startup | 8 Dudes in a Garage |  |
@@ -246,6 +246,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 [C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
 
+[LHMap]: http://maps.chalmers.se/#edae38d5-8eb0-44d2-9afb-dcaf6cf049ea
 [Mållgan]: https://github.com/hburden/DAT255/blob/master/Extras/Mållgan.jpg?raw=true
 [Navet]: https://github.com/hburden/DAT255/blob/master/Extras/Navet.jpg?raw=true
 [Rampen]: http://www.laget.se/Rampen-SeniorlagDamer
