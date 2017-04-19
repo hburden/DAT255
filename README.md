@@ -111,7 +111,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 07 | May 10 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM | D4 |
 | 09 | May 15 *13.15-15.00* | VasaC | Reflection | HB |  |
 |    | May 17 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-| 10 | May 24 *10.00-12.00* | Lindholmen | Final presentation | Everyone | D5 |
+| 10 | May 24 *10.00-12.00* | [Visual Arena][VAMap] | Final presentation | Everyone | D5 |
 | 11 | Jun ?? *13.15-15.00* | Lindholmen | Writing reflections | HB | |
 |    | Jun 02 *17.00*       | -- | General release | The teams | D6 | 
 
@@ -247,6 +247,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 [C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
 
+[VAMap]: http://visualarena.lindholmen.se/
 [LHMap]: http://maps.chalmers.se/#edae38d5-8eb0-44d2-9afb-dcaf6cf049ea
 [Mållgan]: https://github.com/hburden/DAT255/blob/master/Extras/Mållgan.jpg?raw=true
 [Navet]: https://github.com/hburden/DAT255/blob/master/Extras/Navet.jpg?raw=true
