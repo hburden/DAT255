@@ -129,7 +129,7 @@ To pass the course **each team** has to deliver:
 - D3A: An initial product backlog. The backlog can contain epics but should have a few user stories that can be chosen for the first sprint. E-mail an invitation to your backlog to JS before Apr 04 17.00. You are free to choose any scrum board technology you want but make sure you can share it. The reason for the immediate deadline is that we will give collective feedback on the backlogs during the elephant exercise.
 - D3B: An initial business model for your system. To be uploaded to the team git repo before Apr 07 17.00.
 - D4: Half-time evaluation: A one-page document reflecting on the work so far, both in terms of process and product. D4 should be uploaded to the git repo before May 10 15.00.
-- D5: Final presentation: The fifth deliverable is a *working prototype* (APK) for the final presentation. D5 should be uploaded to the git repo before May 22 13.00.
+- D5: Final presentation: The fifth deliverable is a *working prototype* (.apk, .exe, .html, ...) for the final presentation. D5 should be uploaded to the git repo before May 22 13.00.
 - D6: General relase: The last deliverable consists of the source code and the output from [gitinspector][GitInspector] as well as the artefacts asked for under [Prototype](### Prototype) and the [Reflection Report](### Reflection Report). Do not touch the git repo after Jun 02 17.00.
 
 within the designated deadlines.
