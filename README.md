@@ -178,7 +178,7 @@ The reflection report is also uploaded to the git repository as a PDF-file. It w
 - Best practices for using new tools and technologies
 - Reflection on the relationship between *prototype*, *process* and *stakeholder value*
 - Relating your own process to literature and guest lectures
-- Evaluation of D1, D2 and D4
+- Evaluation of D1 - D4
 - KPI charts, 0-1p 
 
 Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. Including sprrint retrospectives for all sprints gives 1 point, including the burn-down chart is also worth 1 point.
