@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
+- Apr 21: The final presentation will be held in [Visual Arena][VAMap], more details next week during supervision
 - Apr 18: We meet in Open Arena in Navet for tomorrow's supervision, the [reception][LHMap] can give you detailed directions
 - Apr 03: The SoS slack channel is found at https://portcdm-dat255.slack.com/signup
 - Apr 03: The PortCDM [scenario][scenario] description was uploaded as well as a link to the [backend][backend]
