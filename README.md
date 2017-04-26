@@ -18,7 +18,7 @@ Given the nature of software, is it really feasible to identify all variables be
 ## Course Project
 Most of the course time is spent on a course project. This term the project is run in collaboration with the [PortCDM project][PortCDM], using a shared [backend][backend] accessed through the PortCDM [API][SwaggerAPI]. As students you will be assigned the task of implementing the frontend for one of the stakeholders involved in maritime shipping. The teams will then have the task to demonstrate the full chain of events as a cargo vessel leaves a port and arrives at the next destination. More information about the project scope will be given on the lecture held Apr 03.
 
-The [scenario][scenario] gives an initial description of the intentions and responsibilities of the different actors. The teams are assigned actors as follows:
+The [scenario][scenario] gives an initial description of the intentions and responsibilities of the different actors. A set of proposed [minimum states per actor][minimumstates] is also available. The teams are assigned actors as follows:
 
 | Actor | Team |
 | ----- | ----- |
@@ -240,6 +240,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 
 [backend]: http://releases.portcdm.eu/appliance/
 [scenario]: http://github.com/hburden/DAT255/blob/master/Extras/PortCDM-Scenario.pdf?raw=true
+[minimumstates]: http://github.com/hburden/DAT255/blob/master/Extras/MinimumStatesPerActor.pdf?raw=true
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
 
