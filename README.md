@@ -240,7 +240,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 
 [backend]: http://releases.portcdm.eu/appliance/
 [scenario]: http://github.com/hburden/DAT255/blob/master/Extras/PortCDM-Scenario.pdf?raw=true
-[minimumstates]: http://github.com/hburden/DAT255/blob/master/Extras/MinimumStatesPerActor.pdf?raw=true
+[minimumstates]: http://github.com/hburden/DAT255/blob/master/Extras/MinimumRequiredStatesPerActor.pdf?raw=true
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
 
