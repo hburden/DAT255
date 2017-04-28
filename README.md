@@ -107,7 +107,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 04 | Apr 19 *13.15-15.00* | [Lindholmen][LHMap] | Supervision | HB & PortCDM |  |
 | 05 | Apr 24 *13.15-15.00* | VasaC | [Product development][L8] | Spotify |  |
 |    | Apr 26 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-|    | Apr 28 *13.15-15.00* | VasaC | Startup | 8 Dudes in a Garage |  |
+|    | Apr 28 *13.15-15.00* | VasaC | [Startup][L9] | 8 Dudes in a Garage |  |
 | 06 | May 03 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 07 | May 10 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM | D4 |
 | 09 | May 15 *13.15-15.00* | VasaC | Reflection | HB |  |
@@ -230,6 +230,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L7F]: https://github.com/hburden/DAT255/blob/master/Slides/L7-Feedback.pdf?raw=true
 [L7]: https://www.slideshare.net/secret/3wOZUPV5h15mHg
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Spotify.pdf?raw=true
+[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-IDGB.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
 
