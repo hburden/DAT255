@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
+- May 15: Added link for the [integration platform][integrationplatform], thanks Eddie!
 - Apr 21: The final presentation will be held in [Visual Arena][VAMap], more details next week during supervision
 - Apr 18: We meet in Open Arena in Navet for tomorrow's supervision, the [reception][LHMap] can give you detailed directions
 - Apr 03: The SoS slack channel is found at https://portcdm-dat255.slack.com/signup
@@ -110,10 +111,10 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Apr 28 *13.15-15.00* | VasaC | [Startup][L9] | 8 Dudes in a Garage |  |
 | 06 | May 03 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 07 | May 10 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM | D4 |
-| 09 | May 15 *13.15-15.00* | VasaC | Reflection | HB |  |
+| 09 | May 15 *13.15-15.00* | VasaC | [Reflection] | HB |  |
 |    | May 17 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 10 | May 24 *10.00-12.00* | [Visual Arena][VAMap] | Final presentation | Everyone | D5 |
-| 11 | Jun ?? *13.15-15.00* | Lindholmen | Writing reflections | HB | |
+| 11 | Jun 01 *10.00-12.00* | Lindholmen | Writing reflections | HB | |
 |    | Jun 02 *17.00*       | -- | General release | The teams | D6 | 
 
 
@@ -231,6 +232,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L7]: https://www.slideshare.net/secret/3wOZUPV5h15mHg
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Spotify.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-IDGB.pdf?raw=true
+[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L10-Reflections.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 
 
@@ -240,6 +242,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
 
 [backend]: http://releases.portcdm.eu/appliance/
+[integration-platform]: http://sandbox-5.portcdm.eu:8080/
 [scenario]: http://github.com/hburden/DAT255/blob/master/Extras/PortCDM-Scenario.pdf?raw=true
 [minimumstates]: http://github.com/hburden/DAT255/blob/master/Extras/MinimumRequiredStatesPerActor.pdf?raw=true
 [pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
