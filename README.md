@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
-- May 15: Added link for the [integration platform][integrationplatform], thanks Eddie!
+- May 15: Added link for the [integration platform][integration-platform], thanks Eddie!
 - Apr 21: The final presentation will be held in [Visual Arena][VAMap], more details next week during supervision
 - Apr 18: We meet in Open Arena in Navet for tomorrow's supervision, the [reception][LHMap] can give you detailed directions
 - Apr 03: The SoS slack channel is found at https://portcdm-dat255.slack.com/signup
@@ -111,7 +111,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Apr 28 *13.15-15.00* | VasaC | [Startup][L9] | 8 Dudes in a Garage |  |
 | 06 | May 03 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 07 | May 10 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM | D4 |
-| 09 | May 15 *13.15-15.00* | VasaC | [Reflection] | HB |  |
+| 09 | May 15 *13.15-15.00* | VasaC | [Reflection][L10] | HB |  |
 |    | May 17 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
 | 10 | May 24 *10.00-12.00* | [Visual Arena][VAMap] | Final presentation | Everyone | D5 |
 | 11 | Jun 01 *10.00-12.00* | Lindholmen | Writing reflections | HB | |
