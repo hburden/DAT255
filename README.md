@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
+- May 17: Interested in a summer job working with PortCDM? Sandra and Matthias might have an offer for you...
 - May 15: Added link for the [integration platform][integration-platform], thanks Eddie!
 - Apr 21: The final presentation will be held in [Visual Arena][VAMap], more details next week during supervision
 - Apr 18: We meet in Open Arena in Navet for tomorrow's supervision, the [reception][LHMap] can give you detailed directions
