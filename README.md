@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
+- May 24: If you want to help us improve the setup for working with PortCDM, please fill out our [survey][PortCDMSurvey]
 - May 17: Interested in a summer job working with PortCDM? Sandra and Matthias might have an offer for you...
 - May 15: Added link for the [integration platform][integration-platform], thanks Eddie!
 - Apr 21: The final presentation will be held in [Visual Arena][VAMap], more details next week during supervision
@@ -250,6 +251,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
 
 [FAQ]: http://github.com/hburden/DAT255/wiki/FAQ
+[PortCDMSurvey]: https://docs.google.com/forms/d/e/1FAIpQLScGDYe8kYZTjLFWeLiaqunIUdP-iyMv0MxWj9Hx1UlU4RPVmA/viewform?c=0&w=1
 
 [C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
 [C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
