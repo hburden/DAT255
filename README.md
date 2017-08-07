@@ -93,12 +93,12 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 19 *15:15-17:00* | Lindholmen | Supervision |  |  |
 |    | Sep 20 *10:00-11:45* | HC4 | Guest Lecture |  | |
 | 05 | Sep 25 *10:00-11:45* | HC4 | Guest Lecture |  |  |
-|    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | |  |
+|    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | | D3 |
 |    | Sep 27 *10:00-11:45* | HC4 | Guest Lecture |  |  |
 | 06 | Oct 03 *15:15-17:00* | Lindholmen | Supervision | |  |
 | 07 | Oct 10 *15:15-17:00* | Lindholmen | Supervision | | |
 |    | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
-| 08 | Oct 19 *15.00-17.00* | Lindholmen | Final Presentation | |  |
+| 08 | Oct 19 *15.00-17.00* | Lindholmen | Final Presentation | | D4 |
 | 09 | Oct 27 *17:00*       |            | Sign Off | | D5 |
 
 
