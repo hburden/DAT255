@@ -78,29 +78,28 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
-| 01 | AUG 28 *08:00-09:45* | HA4     | [Course introduction][L1] | HB |  |
-|    | AUG 28 *10:00-11:45* | HC4     | [Jigsaw Kata][L2] | HB |  |
-|    | AUG 29 *10:00-11:45* | EG-5215 | Git for newbies | RJ | |
-|    | AUG 30 *10:00-17:00* | Mollgan | Lego Exercise | HB | D1 |
-| 02 | SEP 04 *08:00-09:45* | HA4  | [Assessment & Scrum][L3] | HB |  |
-|    | SEP 04 *10:00-11:45* | HC4  | [Project Introduction][L4] | Kenneth Lind |  |
-|    | SEP 05 *10:00-11:45* |      | Supervision                |              |  |
-|    | SEP 06 *10:00-11:45* | HC4 | [Software quality][L5] | HB | D2 |
-|    | SEP 07 *15:15-17:00* | HC4 | [MVP Exercise][L5] | HB | |
-| 03 | SEP 11 *10:00-15:00* |     |                    |    | |
-|    | SEP 05 *10:00-11:45* |      | Supervision                |              |  |
-|    | SEP 13 *10:00-11:45* | HC4 | Autonomous Systems | JS | |
-| 04 | Apr 19 *13.15-15.00* | [Lindholmen][LHMap] | Supervision | HB & PortCDM |  |
-| 05 | Apr 24 *13.15-15.00* | VasaC | [Product development][L8] | Spotify |  |
-|    | Apr 26 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-|    | Apr 28 *13.15-15.00* | VasaC | [Startup][L9] | 8 Dudes in a Garage |  |
-| 06 | May 03 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-| 07 | May 10 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM | D4 |
-| 09 | May 15 *13.15-15.00* | VasaC | Reflection | HB |  |
-|    | May 17 *13.15-15.00* | Lindholmen | Supervision | HB & PortCDM |  |
-| 10 | May 24 *10.00-12.00* | [Visual Arena][VAMap] | Final presentation | Everyone | D5 |
-| 11 | Jun ?? *13.15-15.00* | Lindholmen | Writing reflections | HB | |
-|    | Jun 02 *17.00*       | -- | General release | The teams | D6 | 
+| 01 | Aug 28 *08:00-09:45* | HA4     | [Course introduction][L1] | HB |  |
+|    | Aug 28 *10:00-11:45* | HC4     | [Jigsaw Kata][L2] | HB |  |
+|    | Aug 29 *10:00-11:45* | EG-5215 | Git for newbies | RJ | |
+|    | Aug 30 *10:00-17:00* | Mollgan | Lego Exercise | HB | D1 |
+| 02 | Sep 04 *08:00-09:45* | HA4  | [Assessment & Scrum][L3] | HB |  |
+|    | Sep 04 *10:00-11:45* | HC4  | [Project Introduction][L4] | Kenneth Lind |  |
+|    | Sep 05 *10:00-11:45* | Lindholmen | Supervision          |              |  |
+|    | Sep 06 *10:00-11:45* | HC4 | [Software quality][L5] | HB | D2 |
+|    | Sep 07 *15:15-17:00* | HC4 | [MVP Exercise][L5] | HB | |
+| 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
+|    | Sep 13 *10:00-11:45* | HC4 | Autonomous Systems | JS | |
+| 04 | Sep 18 *10:00-11:45* | HC4 | Guest Lecture |  |  |
+|    | Sep 19 *15:15-17:00* | Lindholmen | Supervision |  |  |
+|    | Sep 20 *10:00-11:45* | HC4 | Guest Lecture |  | |
+| 05 | Sep 25 *10:00-11:45* | HC4 | Guest Lecture |  |  |
+|    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | |  |
+|    | Sep 27 *10:00-11:45* | HC4 | Guest Lecture |  |  |
+| 06 | Oct 03 *15:15-17:00* | Lindholmen | Supervision | |  |
+| 07 | Oct 10 *15:15-17:00* | Lindholmen | Supervision | | |
+|    | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
+| 08 | Oct 19 *15.00-17.00* | Lindholmen | Final Presentation | |  |
+| 09 | Oct 27 *17:00*       |            | Sign Off | | D5 |
 
 
 
