@@ -141,7 +141,6 @@ All artefacts related to the prototype should be in the Git repository. These wi
   - 0-5 = 3p
   - 5-10 = 1p
   - >10 = 0p 
-
 where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report (or similar) to their repository. 
 - Unit / integration / system tests, 3p
 - Design rationale (choice of API-level, external dependencies, database structure etc.), 3p
