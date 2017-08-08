@@ -37,7 +37,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 | ------ |  ------	| ------	| ------	| ------ | 
 | HB | Håkan Burden | hburden | [burden@cse.gu.se / burden@chalmers.se](mailto:burden@cse.gu.se) | Course responsible |
 | JS | Jan-Philipp Steghöfer | steghoja | [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) | Examiner |
-| RJ | Rodi Jolak| rodijolak | | Lecturer |
+| RJ | Rodi Jolak| rodijolak | | Teaching Assistant |
 
 
 
