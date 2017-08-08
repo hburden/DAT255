@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
-- AUG 07: A first version of the course homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
+- Aug 07: A first version of the course homepage is up and running. The homepage will be continuously edited, reflecting the evolution of the course.
 
 
 ## Course Description
@@ -137,10 +137,12 @@ Each part is worth 0-3 points where 0 represents failed delivery, 1 equals major
 
 ### Prototype, 15p
 All artefacts related to the prototype should be in the Git repository. These will be assessed after the final deadline of the course. 
-- Code quality, 3p. Code quality is based on the verdict of [FindBugs][FindBugs] where the sum of issues gives the number of points for code quality
+- Code quality, 3p. Code quality is based on the verdict of an automated analysis of the source code, such as [FindBugs][FindBugs]. If Findbugs is not appropriate for your project you can talk to Håkan or Jan-Philipp about alternative tools. Given Findbugs the sum of issues gives the number of points for code quality, so that
   - 0-5 = 3p
   - 5-10 = 1p
-  - >10 = 0p where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report to their repository.
+  - >10 = 0p 
+
+where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report (or similar) to their repository. 
 - Unit / integration / system tests, 3p
 - Design rationale (choice of API-level, external dependencies, database structure etc.), 3p
 - Overview, 3p
@@ -186,25 +188,13 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
 [GITBOOK]: http://git-scm.com/book
 [gitvid]: http://git-scm.com/videos
-[pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
-[pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
 [LearnGitBranching]: http://pcottle.github.io/learnGitBranching/
 [AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android/
-[DELS]: https://github.com/hburden/DAT255/wiki/Deliverables 
-[ScrumSurvey]: https://docs.google.com/forms/d/1Z4J-g2Eaj97jCx8NIvEOIQBpr0jCWavUk9x72bjNLv0/viewform?usp=send_form
-
 [FindBugs]: http://findbugs.sourceforge.net/
 [GitInspector]: https://github.com/ejwa/gitinspector
 [PersonalSurvey]: https://goo.gl/forms/3xPs53HGpCUtIa3S2
-
 [socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
-
-[xkcd]: http://xkcd.com/1425/
-[COCO]: http://youtu.be/5HbYScltf1c
-[PortCDM]: http://stmvalidation.eu/#!activity-item/activity-1-port-collaborative-decision-making
-[SwaggerAPI]: http://specification.portcdm.eu/
-
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Lego.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-AssessmentScrum.pdf?raw=true
@@ -218,26 +208,12 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Spotify.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-IDGB.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
-
-
 [CRS]: https://student.portal.chalmers.se/sv/chalmersstudier/regelsamling/Sidor/regelsamling.aspx
-
 [gittut]: https://www.atlassian.com/git/tutorials
-[androidtut1]: https://github.com/morganericsson/DAT255/blob/master/tutorials/android1.md
-
-[backend]: http://releases.portcdm.eu/appliance/
-[scenario]: http://github.com/hburden/DAT255/blob/master/Extras/PortCDM-Scenario.pdf?raw=true
-[minimumstates]: http://github.com/hburden/DAT255/blob/master/Extras/MinimumRequiredStatesPerActor.pdf?raw=true
-[pmr]: http://github.com/morganericsson/DAT255/wiki/Post-Mortem-Report
 [fairgrades]: http://www.cse.chalmers.se/~burden/pdfs/BurdenHeldalAdawi.pdf
-
 [FAQ]: http://github.com/hburden/DAT255/wiki/FAQ
-
-[C1]: https://github.com/hburden/DAT255/blob/master/Slides/HttpsUrlConnectionDemo.java?raw=true
-[C2]: https://github.com/hburden/DAT255/blob/master/Slides/Base64Example.java?raw=true
-
 [VAMap]: http://visualarena.lindholmen.se/
 [LHMap]: http://maps.chalmers.se/#edae38d5-8eb0-44d2-9afb-dcaf6cf049ea
 [Mållgan]: https://github.com/hburden/DAT255/blob/master/Extras/Mållgan.jpg?raw=true
 [Navet]: https://github.com/hburden/DAT255/blob/master/Extras/Navet.jpg?raw=true
-[Rampen]: http://www.laget.se/Rampen-SeniorlagDamer
+[MOPED]: https://github.com/sics-sse/moped
