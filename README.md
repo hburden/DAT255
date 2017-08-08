@@ -140,7 +140,7 @@ All artefacts related to the prototype should be in the Git repository. These wi
 - Code quality, 3p. Code quality is based on the verdict of an automated analysis of the source code, such as [FindBugs][FindBugs]. If Findbugs is not appropriate for your project you can talk to Håkan or Jan-Philipp about alternative tools. Given Findbugs the sum of issues gives the number of points for code quality, so that
   - 0-5 = 3p
   - 5-10 = 1p
-  - >10 = 0p, where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report (or similar) to their repository. 
+  - &lt;10 = 0p, where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report (or similar) to their repository. 
 - Unit / integration / system tests, 3p
 - Design rationale (choice of API-level, external dependencies, database structure etc.), 3p
 - Overview, 3p
