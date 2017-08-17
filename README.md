@@ -94,7 +94,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 20 *10:00-11:45* | HC4 | Guest Lecture |  | |
 | 05 | Sep 25 *10:00-11:45* | HC4 | Guest Lecture |  |  |
 |    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | | D3 |
-|    | Sep 27 *10:00-11:45* | HC4 | Guest Lecture |  |  |
+|    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L9] | 8 Dudes in a Garage |  |
 | 06 | Oct 03 *15:15-17:00* | Lindholmen | Supervision | |  |
 | 07 | Oct 10 *15:15-17:00* | Lindholmen | Supervision | | |
 |    | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
