@@ -73,9 +73,12 @@ Git:
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 
-Business Model Canvas:
+Vision:
+- The Scrum Alliance view on [visions][pv1] 
+- Jim Highsmith's view on product [visions][pv2]
+<!--Business Model Canvas:
 - A short [YouTube film](https://youtu.be/QoAOzMTLP5s)
-- Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)
+- Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)-->
 
 ## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
@@ -220,3 +223,5 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [Mållgan]: https://github.com/hburden/DAT255/blob/master/Extras/Mållgan.jpg?raw=true
 [Navet]: https://github.com/hburden/DAT255/blob/master/Extras/Navet.jpg?raw=true
 [MOPED]: https://github.com/sics-sse/moped
+[pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
+[pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
