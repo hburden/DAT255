@@ -96,8 +96,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 07 *15:15-17:00* | HC4 | MVP Exercise | HB | |
 | 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
 |    | Sep 13 *10:00-11:45* | HC4 | Autonomous Systems | JS | |
-| 04 | <!--Sep 18 *10:00-11:45* | HC4 | Guest Lecture |  |  |
-|    |--> Sep 19 *15:15-17:00* | Lindholmen | Supervision |  |  |
+| 04 | Sep 19 *15:15-17:00* | Lindholmen | Supervision |  |  |
 <!--|    | Sep 20 *10:00-11:45* | HC4 | Guest Lecture |  | |-->
 | 05 | Sep 25 *10:00-11:45* | HC4 | AD & Agile | Zenuity |  |
 |    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | | D3 |
