@@ -1,4 +1,4 @@
-# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
+# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2017
 
 ## News
 - Aug 25: Slides for the Lego exercise are now available. The exercise is given twice but each student will only participate once. We will discuss how to do this further on Monday's lecture
