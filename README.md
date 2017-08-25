@@ -48,8 +48,6 @@ Since a substantial part of the work is conducted in teams, please consider the 
 
 
 ## Student Representatives
-Will be assigned at course start.
-
 
 | Program | E-mail | Name | 
 | ------  |  ------	                 | -----	     | 
