@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2017
 
 ## News
+- Aug 25: Slides for Monday's lectures are now uploaded to the schedule
 - Aug 21: The course has undergone three major changes compared to the spring 2017 edition:
 	- The first three weeks of preparation have now been condensed to two weeks. Previously, students have asked for more time on the project part while remarking that the first weeks have a lot of slack. This change frees time for the project part while allowing as much time for introducing the course content 
 	- We have a new project topic which in turns will affect how supervision is handled, see the schedule for more details
