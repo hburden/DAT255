@@ -86,7 +86,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 | Aug 28 *08:00-09:45* | HA4     | [Course introduction][L1] | HB |  |
-|    | Aug 28 *10:00-11:45* | HC4     | [Kata][L4p] & [Template][L4t] | HB |  |
+|    | Aug 28 *10:00-11:45* | HC4     | [Kata][L2p] & [Template][L2t] | HB |  |
 |    | Aug 29 *10:00-11:45* | EG-5215 | Git for newbies | RJ | |
 |    | Aug 30 *10:00-17:00* | Mollgan | Lego Exercise | HB | D1 |
 | 02 | Sep 04 *08:00-09:45* | HA4     | [Assessment & Scrum][L3] | HB |  |
@@ -201,8 +201,8 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 <!-- [L2]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Lego.pdf?raw=true -->
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-AssessmentScrum.pdf?raw=true
-[L4p]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Kata.pdf?raw=true
-[L4t]: https://github.com/hburden/DAT255/blob/master/Extras/KataTest.pptx?raw=true
+[L2p]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Kata.pdf?raw=true
+[L2t]: https://github.com/hburden/DAT255/blob/master/Extras/KataTest.pptx?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
 [L6M]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectMotivation.pdf?raw=true
 [L6S]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectSystem.pdf?raw=true
