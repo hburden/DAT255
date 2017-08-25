@@ -92,7 +92,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 02 | Sep 04 *08:00-09:45* | HA4     | [Assessment & Scrum][L3] | HB |  |
 |    | Sep 04 *10:00-11:45* | HC4     | [Software quality][L5]   | HB |  |
 |    | Sep 05 *10:00-11:45* | Lindholmen | Supervision |         |    |  |
-|    | Sep 06 *10:00-11:45* | HC4     | | Project Introduction | Kenneth Lind | D2 |
+|    | Sep 06 *10:00-11:45* | HC4     | Project Introduction | Kenneth Lind | D2 |
 |    | Sep 07 *15:15-17:00* | HC4     | MVP Exercise | HB | |
 | 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
 |    | Sep 13 *10:00-11:45* | HC4     | Autonomous Systems | JS | |
