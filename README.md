@@ -89,13 +89,13 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Aug 28 *10:00-11:45* | HC4     | [Kata][L4p] & [Template][L4t] | HB |  |
 |    | Aug 29 *10:00-11:45* | EG-5215 | Git for newbies | RJ | |
 |    | Aug 30 *10:00-17:00* | Mollgan | Lego Exercise | HB | D1 |
-| 02 | Sep 04 *08:00-09:45* | HA4 | [Assessment & Scrum][L3] | HB |  |
-|    | Sep 04 *10:00-11:45* | HC4 | [Software quality][L5] | HB | |
-|    | Sep 05 *10:00-11:45* | Lindholmen | Supervision |              |  |
-|    | Sep 06 *10:00-11:45* | HC4 | | Project Introduction | Kenneth Lind | D2 |
-|    | Sep 07 *15:15-17:00* | HC4 | MVP Exercise | HB | |
+| 02 | Sep 04 *08:00-09:45* | HA4     | [Assessment & Scrum][L3] | HB |  |
+|    | Sep 04 *10:00-11:45* | HC4     | [Software quality][L5]   | HB |  |
+|    | Sep 05 *10:00-11:45* | Lindholmen | Supervision |         |    |  |
+|    | Sep 06 *10:00-11:45* | HC4     | | Project Introduction | Kenneth Lind | D2 |
+|    | Sep 07 *15:15-17:00* | HC4     | MVP Exercise | HB | |
 | 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
-|    | Sep 13 *10:00-11:45* | HC4 | Autonomous Systems | JS | |
+|    | Sep 13 *10:00-11:45* | HC4     | Autonomous Systems | JS | |
 | 04 | Sep 19 *15:15-17:00* | Lindholmen | Supervision |  |  |
 <!--|    | Sep 20 *10:00-11:45* | HC4 | Guest Lecture |  | |-->
 | 05 | Sep 25 *10:00-11:45* | HC4 | AD & Agile | Zenuity |  |
