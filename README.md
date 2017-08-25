@@ -50,17 +50,16 @@ Since a substantial part of the work is conducted in teams, please consider the 
 ## Student Representatives
 Will be assigned at course start.
 
-<!--
+
 | Program | E-mail | Name | 
 | ------  |  ------	                 | -----	     | 
-| TKIEK   | oskarha@student.chalmers.se  | Oskar Hagman |
-| TKIEK   | davhell@student.chalmers.se  | David Helldén |
-| TKIEK   | henmar@student.chalmers.se   | Henrik Marklund |
-| TKIEK   | teodorm@student.chalmers.se  | Teodor Martinsson |
-| TKIEK   | tobsten@student.chalmers.se  | Tobias Stenshagen |
+| TKITE   | nikbae@student.chalmers.se              | NIKLAS BAERVELDT |
+| TKITE   | jintont@student.chalmers.se             | THOMAS JINTON |
+| TIDAL   | albinry@student.chalmers.se             | ALBIN RYDBERG |
+| TKITE   | johsvenn@student.chalmers.se            | JOHAN SVENNUNGSSON | 
+| TIDAL   | zivcic@student.chalmers.se              | EMIR ZIVCIC |
  
- We meet after the activities on Mar 22, Apr 26 and May 17. 
--->
+ We meet after the activities on Aug 28, Sep 13 and final presentation.
 
 ## Course Literature 
 Agile:
