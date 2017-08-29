@@ -54,8 +54,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 | TKITE   | nikbae@student.chalmers.se              | NIKLAS BAERVELDT |
 | TKITE   | jintont@student.chalmers.se             | THOMAS JINTON |
 | TIDAL   | albinry@student.chalmers.se             | ALBIN RYDBERG |
-| TKITE   | johsvenn@student.chalmers.se            | JOHAN SVENNUNGSSON | 
-| TIDAL   | zivcic@student.chalmers.se              | EMIR ZIVCIC |
+| TIDAL   | zivcic@student.chalmers.se              | EMIR ZIVCIC |
  
  We meet after the activities on Aug 28, Sep 13 and final presentation.
 
