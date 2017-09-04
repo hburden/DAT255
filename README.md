@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2017
 
 ## News
+- Sep 04: We have a new lecture hall for Sep 05, SB-H2
 - Sep 04: Thanks to Johan we now have a [slack](https://dat255-class.slack.com/threads/) for the course
 - Sep 01: Added slides for Sep 04 lectures
 - Aug 25: Slides for the Lego exercise are now available. The exercise is given twice but each student will only participate once. We will discuss how to do this further on Monday's lecture
@@ -92,7 +93,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Aug 31 *13:15-16:00* | SB Multisal | [Lego Exercise][L3] | HB | D1 |
 | 02 | Sep 04 *08:00-09:45* | HA4     | [Assessment & Scrum][L4] | HB |  |
 |    | Sep 04 *10:00-11:45* | HC4     | [Software quality][L5]   | HB |  |
-|    | Sep 05 *10:00-11:45* | Lindholmen | Supervision |         |    |  |
+|    | Sep 05 *10:00-11:45* | SB-H2 |        |  |  |
 |    | Sep 06 *10:00-11:45* | HC4     | Project Introduction | Kenneth Lind | D2 |
 |    | Sep 07 *15:15-17:00* | HC4     | MVP Exercise | HB | |
 | 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
