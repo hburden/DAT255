@@ -2,7 +2,7 @@
 
 ## News
 - Sep 04: We have a new lecture hall for Sep 05, SB-H2
-- Sep 04: Thanks to Johan we now have a [slack](https://dat255-class.slack.com/threads/) for the course
+- Sep 04: Thanks to Johan we now have a [slack](https://join.slack.com/t/dat255-class/shared_invite/MjM1MTU4MjE5OTY4LTE1MDQ1MTQzMjktMzc1NDU4MDQxMw) for the course
 - Sep 01: Added slides for Sep 04 lectures
 - Aug 25: Slides for the Lego exercise are now available. The exercise is given twice but each student will only participate once. We will discuss how to do this further on Monday's lecture
 - Aug 25: Slides for Monday's lectures are now uploaded to the schedule
