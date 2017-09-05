@@ -94,7 +94,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 02 | Sep 04 *08:00-09:45* | HA4     | [Assessment & Scrum][L4] | HB |  |
 |    | Sep 04 *10:00-11:45* | HC4     | [Software quality][L5]   | HB |  |
 |    | Sep 05 *10:00-11:45* | SB-H2 |        | HB |  |
-|    | Sep 06 *10:00-11:45* | HC4     | Project Introduction | Kenneth Lind | D2 |
+|    | Sep 06 *10:00-11:45* | HC4     | [Project Introduction][L6] | Kenneth Lind | D2 |
 |    | Sep 07 *15:15-17:00* | HC4     | MVP Exercise | HB | |
 | 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
 |    | Sep 13 *10:00-11:45* | HC4     | Autonomous Systems | JS | |
@@ -206,6 +206,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L2p]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Kata.pdf?raw=true
 [L2t]: https://github.com/hburden/DAT255/blob/master/Extras/KataTest.pptx?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
+[L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Project.pdf?raw=true
 [L6M]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectMotivation.pdf?raw=true
 [L6S]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectSystem.pdf?raw=true
 [L7E]: https://github.com/hburden/DAT255/blob/master/Slides/L7-ScrumRevisited.pdf?raw=true
