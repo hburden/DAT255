@@ -86,24 +86,24 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
-| 01 | Aug 28 *08:00-09:45* | HA4     | [Course introduction][L1] | HB |  |
-|    | Aug 28 *10:00-11:45* | HC4     | [Kata][L2p] & [Template][L2t] | HB |  |
+| 01 | Aug 28 *08:00-09:45* | HA4     | [Course introduction][L1] | HB & JS |  |
+|    | Aug 28 *10:00-11:45* | HC4     | [Kata][L2p] & [Template][L2t] | HB & JS |  |
 |    | Aug 29 *10:00-11:45* | EG-5215 | Git for newbies | RJ | |
-|    | Aug 30 *13:15-16:00* | SB Multisal | [Lego Exercise][L3] | JP & HB | D1 |
-|    | Aug 31 *13:15-16:00* | SB Multisal | [Lego Exercise][L3] | HB | D1 |
+|    | Aug 30 *13:15-16:00* | SB Multisal | [Lego Exercise][L3] | HB | D1 |
+|    | Aug 31 *13:15-16:00* | SB Multisal | [Lego Exercise][L3] | JS & HB | D1 |
 | 02 | Sep 04 *08:00-09:45* | HA4     | [Assessment & Scrum][L4] | HB |  |
 |    | Sep 04 *10:00-11:45* | HC4     | [Software quality][L5]   | HB |  |
-|    | Sep 05 *10:00-11:45* | SB-H2 |        | HB |  |
-|    | Sep 06 *10:00-11:45* | HC4     | [Project Introduction][L6] | Kenneth Lind | D2 |
-|    | Sep 07 *15:15-17:00* | HC4     | MVP Exercise | HB | |
+|    | Sep 05 *10:00-11:45* | SB-H2 | Supervision       | HB |  |
+|    | Sep 06 *10:00-11:45* | HC4     | [Project Introduction][L6] | Kenneth Lind, HB & JS | D2 |
+|    | Sep 07 *15:15-17:00* | HC4     | [MVP Exercise][L7] | JS & HB | |
 | 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
 |    | Sep 13 *10:00-11:45* | HC4     | Autonomous Systems | JS | |
-| 04 | Sep 19 *15:15-17:00* | Lindholmen | Supervision |  |  |
+| 04 | Sep 19 *15:15-17:00* | Lindholmen | Supervision | JS & HB |  |
 | 05 | Sep 25 *10:00-11:45* | HC4 | AD & Agile | Zenuity |  |
-|    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | | D3 |
+|    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | JS & HB | D3 |
 |    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L9] | 8 Dudes in a Garage |  |
-| 06 | Oct 03 *15:15-17:00* | Lindholmen | Supervision | |  |
-| 07 | Oct 10 *15:15-17:00* | Lindholmen | Supervision | | |
+| 06 | Oct 03 *15:15-17:00* | Lindholmen | Supervision | JS & HB |  |
+| 07 | Oct 10 *15:15-17:00* | Lindholmen | Supervision | JS & HB | |
 |    | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
 | 08 | Oct 19 *15.00-17.00* | Lindholmen | Final Presentation | | D4 |
 | 09 | Oct 27 *17:00*       |            | Sign Off | | D5 |
@@ -207,6 +207,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L2t]: https://github.com/hburden/DAT255/blob/master/Extras/KataTest.pptx?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Project.pdf?raw=true
+[L7]: https://github.com/hburden/DAT255/blob/master/Slides/L7-Slicing.pdf?raw=true
 [L6M]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectMotivation.pdf?raw=true
 [L6S]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectSystem.pdf?raw=true
 [L7E]: https://github.com/hburden/DAT255/blob/master/Slides/L7-ScrumRevisited.pdf?raw=true
