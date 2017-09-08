@@ -96,16 +96,16 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 05 *10:00-11:45* | SB-H2 | Supervision       | HB |  |
 |    | Sep 06 *10:00-11:45* | HC4     | [Project Introduction][L6] | Kenneth Lind, HB & JS | D2 |
 |    | Sep 07 *15:15-17:00* | HC4     | [MVP Exercise][L7] | JS & HB | |
-| 03 | Sep 12 *10:00-11:45* | Lindholmen | Supervision                |              |  |
-|    | Sep 13 *10:00-11:45* | HC4     | Autonomous Systems | JS | |
-| 04 | Sep 19 *15:15-17:00* | Lindholmen | Supervision | JS & HB |  |
+| 03 | Sep 13 *10:00-11:45* | HC4     | Autonomous Systems | JS | |
+|    | Sep 14 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
+| 04 | Sep 21 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
 | 05 | Sep 25 *10:00-11:45* | HC4 | AD & Agile | Zenuity |  |
-|    | Sep 26 *15:15-17:00* | Lindholmen | Supervision | JS & HB | D3 |
 |    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L9] | 8 Dudes in a Garage |  |
-| 06 | Oct 03 *15:15-17:00* | Lindholmen | Supervision | JS & HB |  |
-| 07 | Oct 10 *15:15-17:00* | Lindholmen | Supervision | JS & HB | |
-|    | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
-| 08 | Oct 19 *15.00-17.00* | Lindholmen | Final Presentation | | D4 |
+|    | Sep 28 *13:15-15:00* | Lindholmen | Supervision | JS & HB | D3 |
+| 06 | Oct 05 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
+| 07 | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
+|    | Oct 12 *13:15-15:00* | Lindholmen | Supervision | JS & HB | |
+| 08 | Oct 19 *13.00-17.00* | Lindholmen | Final Presentation | | D4 |
 | 09 | Oct 27 *17:00*       |            | Sign Off | | D5 |
 
  
