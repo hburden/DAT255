@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2017
 
 ## News
+- You product owner sent me [an inspirational youtube video](https://www.youtube.com/watch?v=X7vziDnNXEY) 
 - Sep 14: Thanks to Emil and Tuyen we have a guest lecture from Volvo Cars on Oct 04. Volvo has gone through the same challenges as you have started to experience and will give their perspective on setting up infrastructure, ensuring quality and ways to work in a team in relation to a vision shared by many teams 
 - Sep 04: We have a new lecture hall for Sep 05, SB-H2
 - Sep 04: Thanks to Johan we now have a [slack](https://join.slack.com/t/dat255-class/shared_invite/MjM1MTU4MjE5OTY4LTE1MDQ1MTQzMjktMzc1NDU4MDQxMw) for the course
