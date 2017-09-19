@@ -1,7 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2017
 
 ## News
-- You product owner sent me [an inspirational youtube video](https://www.youtube.com/watch?v=X7vziDnNXEY) 
+- You product owner sent me [an inspirational youtube video](https://www.youtube.com/watch?v=X7vziDnNXEY) to share with you
 - Sep 14: Thanks to Emil and Tuyen we have a guest lecture from Volvo Cars on Oct 04. Volvo has gone through the same challenges as you have started to experience and will give their perspective on setting up infrastructure, ensuring quality and ways to work in a team in relation to a vision shared by many teams 
 - Sep 04: We have a new lecture hall for Sep 05, SB-H2
 - Sep 04: Thanks to Johan we now have a [slack](https://join.slack.com/t/dat255-class/shared_invite/MjM1MTU4MjE5OTY4LTE1MDQ1MTQzMjktMzc1NDU4MDQxMw) for the course
@@ -123,7 +123,7 @@ To pass the course **each team** has to deliver:
 
 - D2: Define an initial product backlog that can contain epics but should have enough user stories to cover the first sprint. E-mail an invitation to your backlog to both Jan-Philipp and Håkan before SEP 06 CET 17:00. You are free to choose any scrum board technology you want but make sure you can share it. The reason for the immediate deadline is that we will give collective feedback on the backlogs at the next lecture. Also, create a vision for your system. The vision should be uploaded to the team git repo before SEP 08 CET 17:00.
 
-- D3: Half-time evaluation which is a one-page document reflecting on the work so far, both in terms of process and product. D3 should be uploaded to the git repo before the supervision on SEP 26.
+- D3: Half-time evaluation which is a one-page document reflecting on the work so far, both in terms of process and product. D3 should be uploaded to the git repo before the supervision on SEP 28.
 
 - D4: The fourth deliverable is a *working prototype* for the final presentation. All artefacts relevant to D4 should be uploaded to the git repo before the final presentation.
 - D5: The last deliverable consists of the output from [gitinspector][GitInspector] as well as the [Reflection Report](### Reflection Report).
