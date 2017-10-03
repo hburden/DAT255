@@ -218,7 +218,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L7]: https://www.slideshare.net/secret/3wOZUPV5h15mHg
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Adaptive-Systems.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Zenuity.pdf?raw=true
-[L10]: https://github.com/hburden/DAT255/blob/master/Slides/L10-IDGB.pdf?raw=true
+[L10]: https://github.com/hburden/DAT255/blob/master/Slides/L10-IGDB.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 [CRS]: https://student.portal.chalmers.se/sv/chalmersstudier/regelsamling/Sidor/regelsamling.aspx
 [gittut]: https://www.atlassian.com/git/tutorials
