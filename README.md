@@ -101,8 +101,8 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 03 | Sep 13 *10:00-11:45* | HC4     | [Adaptive Systems][L8] | JS | |
 |    | Sep 14 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
 | 04 | Sep 21 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
-| 05 | Sep 25 *10:00-11:45* | HC4 | AD & Agile | Zenuity |  |
-|    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L9] | 8 Dudes in a Garage |  |
+| 05 | Sep 25 *10:00-11:45* | HC4 | [AD & Agile][L9] | Zenuity |  |
+|    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L10] | 8 Dudes in a Garage |  |
 |    | Sep 28 *13:15-15:00* | Lindholmen | Supervision | JS & HB | D3 |
 | 06 | Oct 04 *10:00-11:45* | HC4        | Configuration Management | Volvo Cars | |
 |    | Oct 05 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
@@ -217,7 +217,8 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L7F]: https://github.com/hburden/DAT255/blob/master/Slides/L7-Feedback.pdf?raw=true
 [L7]: https://www.slideshare.net/secret/3wOZUPV5h15mHg
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Adaptive-Systems.pdf?raw=true
-[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-IDGB.pdf?raw=true
+[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Zenuity.pdf?raw=true
+[L10]: https://github.com/hburden/DAT255/blob/master/Slides/L10-IDGB.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 [CRS]: https://student.portal.chalmers.se/sv/chalmersstudier/regelsamling/Sidor/regelsamling.aspx
 [gittut]: https://www.atlassian.com/git/tutorials
