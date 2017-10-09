@@ -1,7 +1,8 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2017
 
 ## News
-- You product owner sent me [an inspirational youtube video](https://www.youtube.com/watch?v=X7vziDnNXEY) to share with you
+- Oct 09: For those of you interested in learning more about Change Management, Hannes from Volvo recommends this [video](https://issuu.com/softhouse/docs/cm_pa_5_min_se) and this [booklet](http://softhouseeducation.se/produkt/configuration-management-pa-fem-minuter-2)
+- Your product owner sent me [an inspirational youtube video](https://www.youtube.com/watch?v=X7vziDnNXEY) to share with you
 - Sep 14: Thanks to Emil and Tuyen we have a guest lecture from Volvo Cars on Oct 04. Volvo has gone through the same challenges as you have started to experience and will give their perspective on setting up infrastructure, ensuring quality and ways to work in a team in relation to a vision shared by many teams 
 - Sep 04: We have a new lecture hall for Sep 05, SB-H2
 - Sep 04: Thanks to Johan we now have a [slack](https://join.slack.com/t/dat255-class/shared_invite/MjM1MTU4MjE5OTY4LTE1MDQ1MTQzMjktMzc1NDU4MDQxMw) for the course
@@ -104,7 +105,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 05 | Sep 25 *10:00-11:45* | HC4 | [AD & Agile][L9] | Zenuity |  |
 |    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L10] | 8 Dudes in a Garage |  |
 |    | Sep 28 *13:15-15:00* | Lindholmen | Supervision | JS & HB | D3 |
-| 06 | Oct 04 *10:00-11:45* | HC4        | Configuration Management | Volvo Cars | |
+| 06 | Oct 04 *10:00-11:45* | HC4        | [Configuration Management][L11-CM] | Volvo Cars | |
 |    | Oct 05 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
 | 07 | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
 |    | Oct 12 *13:15-15:00* | Lindholmen | Supervision | JS & HB | |
@@ -219,6 +220,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Adaptive-Systems.pdf?raw=true
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Zenuity.pdf?raw=true
 [L10]: https://github.com/hburden/DAT255/blob/master/Slides/L10-IGDB.pdf?raw=true
+[L11]: https://github.com/hburden/DAT255/blob/master/Slides/L11-CM.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 [CRS]: https://student.portal.chalmers.se/sv/chalmersstudier/regelsamling/Sidor/regelsamling.aspx
 [gittut]: https://www.atlassian.com/git/tutorials
