@@ -105,7 +105,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 05 | Sep 25 *10:00-11:45* | HC4 | [AD & Agile][L9] | Zenuity |  |
 |    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L10] | 8 Dudes in a Garage |  |
 |    | Sep 28 *13:15-15:00* | Lindholmen | Supervision | JS & HB | D3 |
-| 06 | Oct 04 *10:00-11:45* | HC4        | [Configuration Management][L11-CM] | Volvo Cars | |
+| 06 | Oct 04 *10:00-11:45* | HC4        | [Configuration Management][L11] | Volvo Cars | |
 |    | Oct 05 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
 | 07 | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
 |    | Oct 12 *13:15-15:00* | Lindholmen | Supervision | JS & HB | |
