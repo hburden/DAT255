@@ -107,7 +107,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Sep 28 *13:15-15:00* | Lindholmen | Supervision | JS & HB | D3 |
 | 06 | Oct 04 *10:00-11:45* | HC4        | [Configuration Management][L11] | Volvo Cars | |
 |    | Oct 05 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
-| 07 | Oct 11 *10:00-11:45* | HC4 | Reflections | HB | |
+| 07 | Oct 11 *10:00-11:45* | HC4 | [Reflections][L12] | HB | |
 |    | Oct 12 *13:15-15:00* | Lindholmen | Supervision | JS & HB | |
 | 08 | Oct 19 *13.00-17.00* | Lindholmen | Final Presentation | | D4 |
 | 09 | Oct 27 *17:00*       |            | Sign Off | | D5 |
@@ -221,6 +221,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Zenuity.pdf?raw=true
 [L10]: https://github.com/hburden/DAT255/blob/master/Slides/L10-IGDB.pdf?raw=true
 [L11]: https://github.com/hburden/DAT255/blob/master/Slides/L11-CM.pdf?raw=true
+[L12]: https://github.com/hburden/DAT255/blob/master/Slides/L12-Reflections.pdf?raw=true
 [PS]: https://github.com/morganericsson/DAT255/blob/master/presentations.md
 [CRS]: https://student.portal.chalmers.se/sv/chalmersstudier/regelsamling/Sidor/regelsamling.aspx
 [gittut]: https://www.atlassian.com/git/tutorials
