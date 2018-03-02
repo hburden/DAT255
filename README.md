@@ -1,29 +1,11 @@
-# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Autumn 2017
+# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2018
 
 ## News
-- Oct 09: For those of you interested in learning more about Change Management, Hannes from Volvo recommends this [video](https://issuu.com/softhouse/docs/cm_pa_5_min_se) and this [booklet](http://softhouseeducation.se/produkt/configuration-management-pa-fem-minuter-2)
-- Your product owner sent me [an inspirational youtube video](https://www.youtube.com/watch?v=X7vziDnNXEY) to share with you
-- Sep 14: Thanks to Emil and Tuyen we have a guest lecture from Volvo Cars on Oct 04. Volvo has gone through the same challenges as you have started to experience and will give their perspective on setting up infrastructure, ensuring quality and ways to work in a team in relation to a vision shared by many teams 
-- Sep 04: We have a new lecture hall for Sep 05, SB-H2
-- Sep 04: Thanks to Johan we now have a [slack](https://join.slack.com/t/dat255-class/shared_invite/MjM1MTU4MjE5OTY4LTE1MDQ1MTQzMjktMzc1NDU4MDQxMw) for the course
-- Sep 01: Added slides for Sep 04 lectures
-- Aug 25: Slides for the Lego exercise are now available. The exercise is given twice but each student will only participate once. We will discuss how to do this further on Monday's lecture
-- Aug 25: Slides for Monday's lectures are now uploaded to the schedule
-- Aug 21: The course has undergone three major changes compared to the spring 2017 edition:
-	- The first three weeks of preparation have now been condensed to two weeks. Previously, students have asked for more time on the project part while remarking that the first weeks have a lot of slack. This change frees time for the project part while allowing as much time for introducing the course content 
-	- We have a new project topic which in turns will affect how supervision is handled, see the schedule for more details
-	- The order among the exercises is changed to allow a smoother progression into the lego exercise and also make it easier to define what should be taken away from each exercise 
-- Aug 07: A first version of the course homepage is up and running. The homepage will be edited as the course evolves but Learning outcomes, Literature and Examination will stay as they are
+- Mar 02: In comparison to the last iteration of the course we have changed the examination to better reflect the learning objectives and changed the topic of the project. The examination is now clearly split into individual and team assessment, has a stronger focus on how to learn new technologies (from experience the most challenging learning objective) and has the same structure throughout the course (instead of varying over weeks). The topic this time will be manintenance and evolution of maritime IT applications instead of development of autonomous vehicles. 
+- Mar 02: A first version of the course homepage is up and running. The homepage will be edited as the course evolves but Learning outcomes, Literature and Examination will stay as they are
 
-
-## Course Description
-Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
-
-Given the nature of software, is it really feasible to identify all variables beforehand? *Iterative and incremental approaches* accept that changes are inevitable and integrate change management into the development process. *Agile approaches* promote iterative and incremental development by using a very tight *design-code-test* cycle, mirroring the *plan-act-reflect* cycle of learning. The course design of DAT255/DIT543 aims to tie the two cycles together so that the same process used for software development is applied to learning software engineering.
-
-## Course Project
-Most of the course time is spent on a course project. This term the project involves developing autonomous behaviour using miniature vehicles called [MOPED][MOPED]. In teams of 10-12 students you will develop the logic needed for simple platooning which will be demonstrated with the MOPEDs. Besides the platooning logic you will also need to handle sensor data, GUIs for visualising the state and behaviour of the individual vehicles and the protocol for transmitting signals between the vehicles and the remotes. 
-
+## Course description
+The course consists of two phases. The first phase consists of three weeks and is used to introduce the course topics through lectures and exercises. During the first week the students form a scrum development team. The second phase consists of six weeks and centres around weekly supervision. During this phase the teams work together to develop applications for a specific purpose. Through guest lectures the students are given the opportunity to reflect on how their own work relates to what professional software engineers do and to put their own experiences into a bigger picture. The second phase finishes with a final presentation the week for the examination week. The examination week can be used for writing the final reflection. 
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
@@ -57,12 +39,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 
 | Program | E-mail | Name | 
 | ------  |  ------	                 | -----	     | 
-| TKITE   | nikbae@student.chalmers.se              | NIKLAS BAERVELDT |
-| TKITE   | jintont@student.chalmers.se             | THOMAS JINTON |
-| TIDAL   | albinry@student.chalmers.se             | ALBIN RYDBERG |
-| TIDAL   | zivcic@student.chalmers.se              | EMIR ZIVCIC |
- 
- We meet after the activities on Aug 28, Sep 13 and final presentation.
+
 
 ## Course Literature 
 Agile:
@@ -84,9 +61,8 @@ Vision:
 - A short [YouTube film](https://youtu.be/QoAOzMTLP5s)
 - Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)-->
 
-## Schedule
+<!--## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
-
 | Week    | Date & Time        | Room  | Topic        | Who | Deliverable |
 |  ------	| ------	| ------	| ------ |  ------ | ------ |
 | 01 | Aug 28 *08:00-09:45* | HA4     | [Course introduction][L1] | HB & JS |  |
@@ -111,86 +87,48 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |    | Oct 12 *13:15-15:00* | Lindholmen | Supervision | JS & HB | |
 | 08 | Oct 19 *13.00-17.00* | Lindholmen | Final Presentation | | D4 |
 | 09 | Oct 27 *17:00*       |            | Sign Off | | D5 |
-
- 
+ -->
 
 ## Examination
-The individual grades are based on the team contribution. Contribution is in turn defined according to *Stakeholder value*, *Protoype* and *Reflection report*. Each category represents a certain number of points so that the total number of points sums to 50. The points are not evenly distributed across the categories since the assessment occurs at different points in time and represent different efforts.
+The assessment is done on both individual and team level. The assessment is done in terms of reflecting on pre-defined topics. Smith states that reflection is "assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap" (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. New Directions for Teaching and Learning, vol. 88, 2001, pp. 51-62). which can be boiled down to describing ... 
+... the current situation (A),
+... what you want the situation to be (B), and
+... a plan for getting from where you are to where you want to be (A -> B).
+Each step is worth one point per topic, so that the maximum points for a topic is 3. But you can only score a point for a step if you received a point for the previous step(s). This means you get 0 points for only describing where you want to be since you don't have a point for describing the current situation. That also means that you can not reflect in week n if you have not recorded a reflection for week n-1, since this means that the chain of reflection is broken. We will only assign points to the last iteration (week 9) which should summarise and synthesise the learning from the previous iterations ("what is"), describe what you would like to do in a similar future project ("what might or should be") and how you can make the change come true ("feedback designed to reduce the gap").
 
-### Pass / Fail
-To pass the course **each team** has to deliver:
+As an individual you will upload a text document to the team repository where you each week reflect on the following questions
+- what do I want to learn or understand better?
+- how can I help someone else, or the entire team, to learn something new?
+- what is my contribution towards the team’s application of scrum?
+- what is my contribution towards the team’s deliveries?
+That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).
 
-- D1: One or two pages drawing on the lessons from the Lego scrum exercise on how to initially work with scrum. Describe three strategies for improving how you implement Scrum in your project, based on the experiences from the LEgo exercise. A strategy can be that you want to do more or less of a practice, or that you want to change how you applied a practice. Mention why you chose the strategy and how the strategy will be implemented. For each strategy, select a KPI that will enable you to monitor your progression. We also want a [social contract][socialcontract] for the team. Both the scoial contract and the strategies with KPIs should be uploaded to the team git repo before SEP 01 CET 17:00. The strategies with KPIs should also be e-mailed to Håkan before SEP 01 CET 17:00 since these will be used as examples in the following lecture.
+As a team you should reflect on the following topics:
+- the chosen scope of the application under development including priority of features and for whom you are creating value
+- your social contract, which means you should create one in the first week 
+- the success criteria for the team in terms of what you want to achieve with your application
+- your acceptance tests, such as how they were performed and with whom
+- the design of your application (choice of APIs, architecture patterns etc)
+- the behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+- the structural overview of your application (such as class diagrams, domain models or component diagrams)
+- your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+- the three KPIs you use for monitoring your progress (not applicable the first week)
+- code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+- the roles you have used within the team 
+- the agile practices you have used for the current sprint
+- the time you have spent on the course (so keep track of your hours so you can describe the current situation)
+- the sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+- best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+- relation to literature and guest lectures (how do your reflections relate to what others have to say?)
 
-- D2: Define an initial product backlog that can contain epics but should have enough user stories to cover the first sprint. E-mail an invitation to your backlog to both Jan-Philipp and Håkan before SEP 06 CET 17:00. You are free to choose any scrum board technology you want but make sure you can share it. The reason for the immediate deadline is that we will give collective feedback on the backlogs at the next lecture. Also, create a vision for your system. The vision should be uploaded to the team git repo before SEP 08 CET 17:00.
+The total for the team is then 16*3 = 48 but each team gets two additional points if all team members have completed their individual reflections, so that the total = 50.
+The team grade is then computed so that a total score within the range 
+00 - 20 = U (fail)
+21 - 30 = 3 or G (pass)
+31 - 40 = 4
+41 - 50 = 5 or VG (pass w. distinction)
 
-- D3: Half-time evaluation which is a one-page document reflecting on the work so far, both in terms of process and product. D3 should be uploaded to the git repo before the supervision on SEP 28.
-
-- D4: The fourth deliverable is a *working prototype* for the final presentation. All artefacts relevant to D4 should be uploaded to the git repo before the final presentation.
-- D5: The last deliverable consists of the output from [gitinspector][GitInspector] as well as the [Reflection Report](### Reflection Report).
-
-within the designated deadlines.
-
-To pass the course **a student** has to deliver:
-- evidence for active participation in the team effort. The level of student participation is determined on a combined assessment of the output from [gitinspector][GitInspector] and the mean values from the team evaluation. 
-- an evaluation of the members of the team, including themselves. Imagine that you have a budget of $10 per group member, including yourself (e.g. $50 for a group of 5 or $120 for a group of 12). How would you distribute this "pay" among your group members, based on their value and contribution? Submit your evaluation using our [new online web survey][PersonalSurvey] before . (The evaluation will not affect the group grade, it will only be used to determine individual variation within a group. However, if you do not submit this evaluation, you will not pass the course).
-
-within the designated deadline
-
-### Stakeholder value, 12p
-The stakeholder value is assessed during the final presentation. The total score is the sum of
-- Completeness (prioritised features in backlog are present, one application and stable operation)
-- GUI (self-explanatory for intended users, clarity and no excess information) 
-- Relevance (efficiency and clear relation to problem domain)
-- Acceptance tests and stakeholder interaction
-
-Each part is worth 0-3 points where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. 
-
-### Prototype, 15p
-All artefacts related to the prototype should be in the Git repository. These will be assessed after the final deadline of the course. 
-- Code quality, 3p. Code quality is based on the verdict of an automated analysis of the source code, such as [FindBugs][FindBugs]. If Findbugs is not appropriate for your project you can talk to Håkan or Jan-Philipp about alternative tools. Given Findbugs the sum of issues gives the number of points for code quality, so that
-  - 0-5 = 3p
-  - 5-10 = 1p
-  - &gt;10 = 0p, where the impact of each kind of *Correctness issues* counts as 4,  *Bad style* as 2,  *Dodgy* as 2  and *Performance* as 1. Each team is responsible for uploading the FindBugs report (or similar) to their repository. 
-- Unit / integration / system tests, 3p
-- Design rationale (choice of API-level, external dependencies, database structure etc.), 3p
-- Overview, 3p
-  - Behavioural
-  - Structural (What major parts / components are there in the application)
-  - Protocol (client/server) 
-- User stories, 3p 
-
-Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. 
-
-### Reflection report, 23p
-The reflection report is also uploaded to the git repository as a PDF-file. It will be assessed after the final deadline of the course.
-- Application of scrum
-  - Roles, team work and social contract (relates to D1B)
-  - Used practices (pair programming, stand-up meetings, etc.)
-  - Time distribution (person / role / tasks etc.)
-  - Effort and velocity and task breakdown
-- Reflection on the sprint retrospectives
-- Documentation of sprint retrospectives, 0-1p
-- Reflection on the sprint reviews
-- Best practices for using new tools and technologies
-- Reflection on the relationship between *prototype*, *process* and *stakeholder value*
-- Relating your own process to literature and guest lectures
-- Evaluation of D1 - D4
-- KPI charts, 0-1p 
-
-Each part worth 3 points has an allocation strategy where 0 represents failed delivery, 1 equals major remarks, 2 signifies minor remarks and 3 no remarks. Including sprrint retrospectives for all sprints gives 1 point, including the burn-down chart is also worth 1 point.
-
-Reflection is here defined as *“assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap”* (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. *New Directions for Teaching and Learning*, vol. 88, 2001, pp. 51-62). This means that you should describe the situation as it is, what you would like it to be (or alternative routes you could have taken) as well as a realistic way to get there.
-
-
-### Grades
-The team grade is given by the total number of points for the team effort:
-- 00 - 20: U (Fail)
-- 21 – 30: 3 / G (Pass)
-- 31 – 40: 4
-- 41 – 50: 5 / VG
-
-The team grade then serves as a baseline for the individual grades so that students with higher contributions **and** team effort receive a higher grade than the team grade and students with lower individual scores receive a lower grade. Higher and lower are approximately 25% more / less than team average. *Please use the [online survey][PersonalSurvey] to assess your own and your team mates contribution*. And remember to include yourself!
+The individual grade is then based on the individual reflections, the outcome of analysing the contribution towards the team repository (for instance by [gitinspector][GitInspector]) and the outcome of the [peer assessment][PeerAssessment]. If the team has been awarded a grade for the course and there is a weekly individual reflection the grade of each team member can then be lowered or raised if both repository analysis and the peer assessment indicate a difference of 25% or more compared to the team mean. This means that in a team of six team members, receiving the team grade 4 where someone is responsible for 20% of the code and scored 14 out of 20 on the peer assessment, will get the individual grade 5. Conversely, a team of six with the team grade 3 where a team member committed 5% of the code and scored a mean of 7 out of 20 from peer assessment, will be failed.
 
 We strive for a transparent and fair assessment strategy. [That is why we as teachers are the ones that do the grading based on our experience][fairgrades].
 
@@ -202,7 +140,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [AndroidPatterns]: http://www.slideshare.net/PedroVicenteGmezSnch/software-design-patterns-on-android/
 [FindBugs]: http://findbugs.sourceforge.net/
 [GitInspector]: https://github.com/ejwa/gitinspector
-[PersonalSurvey]: https://goo.gl/forms/3xPs53HGpCUtIa3S2
+[PeerAssessment]: https://goo.gl/forms/3xPs53HGpCUtIa3S2
 [socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Lego.pdf?raw=true
