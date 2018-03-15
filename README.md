@@ -31,7 +31,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 | ------ |  ------	| ------	| ------	| ------ | 
 | HB | Håkan Burden | hburden | [burden@chalmers.se](mailto:burden@chalmers.se) | Course responsible |
 | JS | Jan-Philipp Steghöfer | steghoja | [jan-philipp.steghofer@cse.gu.se](mailto:jan-philipp.steghofer@cse.gu.se) | Examiner |
-| RJ | Rodi Jolak| rodijolak | -- | Teaching Assistant |
+<!-- | RJ | Rodi Jolak| rodijolak | -- | Teaching Assistant | -->
 
 
 
@@ -61,33 +61,26 @@ Vision:
 - A short [YouTube film](https://youtu.be/QoAOzMTLP5s)
 - Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)-->
 
-<!--## Schedule
+## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
-| Week    | Date & Time        | Room  | Topic        | Who | Deliverable |
-|  ------	| ------	| ------	| ------ |  ------ | ------ |
-| 01 | Aug 28 *08:00-09:45* | HA4     | [Course introduction][L1] | HB & JS |  |
-|    | Aug 28 *10:00-11:45* | HC4     | [Kata][L2p] & [Template][L2t] | HB & JS |  |
-|    | Aug 29 *10:00-11:45* | EG-5215 | Git for newbies | RJ | |
-|    | Aug 30 *13:15-16:00* | SB Multisal | [Lego Exercise][L3] | HB | D1 |
-|    | Aug 31 *13:15-16:00* | SB Multisal | [Lego Exercise][L3] | JS & HB | D1 |
-| 02 | Sep 04 *08:00-09:45* | HA4     | [Assessment & Scrum][L4] | HB |  |
-|    | Sep 04 *10:00-11:45* | HC4     | [Software quality][L5]   | HB |  |
-|    | Sep 05 *10:00-11:45* | SB-H2 | Supervision       | HB |  |
-|    | Sep 06 *10:00-11:45* | HC4     | [Project Introduction][L6] | Kenneth Lind, HB & JS | D2 |
-|    | Sep 07 *15:15-17:00* | HC4     | [MVP Exercise][L7] | JS & HB | |
-| 03 | Sep 13 *10:00-11:45* | HC4     | [Adaptive Systems][L8] | JS | |
-|    | Sep 14 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
-| 04 | Sep 21 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
-| 05 | Sep 25 *10:00-11:45* | HC4 | [AD & Agile][L9] | Zenuity |  |
-|    | Sep 27 *10:00-11:45* | HC4 | [Startups & Scrum][L10] | 8 Dudes in a Garage |  |
-|    | Sep 28 *13:15-15:00* | Lindholmen | Supervision | JS & HB | D3 |
-| 06 | Oct 04 *10:00-11:45* | HC4        | [Configuration Management][L11] | Volvo Cars | |
-|    | Oct 05 *13:15-15:00* | Lindholmen | Supervision | JS & HB |  |
-| 07 | Oct 11 *10:00-11:45* | HC4 | [Reflections][L12] | HB | |
-|    | Oct 12 *13:15-15:00* | Lindholmen | Supervision | JS & HB | |
-| 08 | Oct 19 *13.00-17.00* | Lindholmen | Final Presentation | | D4 |
-| 09 | Oct 27 *17:00*       |            | Sign Off | | D5 |
- -->
+| Wk | Date & Time          | Room       | Topic        | 
+| -- | ------	            | ------	 | ------ |  
+| 01 | Mar 19 *13:15-15:00* | VasaC      | [Course introduction][L1] | 
+|    | Mar 19 *15:15-17:00* | VasaC      | [Kata][L2p] & [Template][L2t] | 
+|    | Mar 21 *13:15-17:00* | VasaC      | [Lego Exercise][L3] | 
+|    | Mar 23 *13:15-15:00* | VasaC      | [Scrum][L4] | 
+| 02 | Mar 26 *13:15-15:00* | VasaC      | [Software quality][L5] | 
+|    | Mar 28 *13:15-15:00* | VasaC      | Project Introduction   | 
+| 03 | Apr 09 *13:15-15:00* | VasaC      | [MVP Exercise][L7] | 
+|    | Apr 11 *13:15-17:00* | Lindholmen | Supervision | 
+|    | Apr 13 *13:15-15:00* | VasaC      | Guest lecture |
+| 04 | Apr 18 *13:15-17:00* | Lindholmen | Supervision | 
+| 05 | Apr 25 *13:15-17:00* | Lindholmen | Supervision | 
+| 06 | May 02 *13:15-17:00* | Lindholmen | Supervision | 
+| 07 | May 09 *13:15-17:00* | Lindholmen | Supervision | 
+| 08 | May 16 *13.15-17.00* | Lindholmen | Supervision |  
+| 09 | May 23 *08:00-12:00* | Lindholmen | Final presentation |
+| 10 | Jun 01 *17:00*       |            | Sign Off | 
 
 ## Examination
 The assessment is done on both individual and team level. The assessment is done in terms of reflecting on pre-defined topics. Smith states that reflection is "assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap" (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. New Directions for Teaching and Learning, vol. 88, 2001, pp. 51-62). which can be boiled down to describing ... 
