@@ -63,7 +63,8 @@ Vision:
 
 ## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
-| Wk     | Date & Time          | Room       | Topic        | 
+
+| Wk     | Date & Time          | Room       | Topic  | 
 | ------ | ------	        | ------     | ------ |  
 | 01     | Mar 19 *13:15-15:00* | VasaC      | [Course introduction][L1] | 
 |        | Mar 19 *15:15-17:00* | VasaC      | [Kata][L2p] & [Template][L2t] | 
