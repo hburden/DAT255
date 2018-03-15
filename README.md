@@ -63,24 +63,24 @@ Vision:
 
 ## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
-| Wk | Date & Time          | Room       | Topic        | 
-| -- | ------	            | ------	 | ------ |  
-| 01 | Mar 19 *13:15-15:00* | VasaC      | [Course introduction][L1] | 
-|    | Mar 19 *15:15-17:00* | VasaC      | [Kata][L2p] & [Template][L2t] | 
-|    | Mar 21 *13:15-17:00* | VasaC      | [Lego Exercise][L3] | 
-|    | Mar 23 *13:15-15:00* | VasaC      | [Scrum][L4] | 
-| 02 | Mar 26 *13:15-15:00* | VasaC      | [Software quality][L5] | 
-|    | Mar 28 *13:15-15:00* | VasaC      | Project Introduction   | 
-| 03 | Apr 09 *13:15-15:00* | VasaC      | [MVP Exercise][L7] | 
-|    | Apr 11 *13:15-17:00* | Lindholmen | Supervision | 
-|    | Apr 13 *13:15-15:00* | VasaC      | Guest lecture |
-| 04 | Apr 18 *13:15-17:00* | Lindholmen | Supervision | 
-| 05 | Apr 25 *13:15-17:00* | Lindholmen | Supervision | 
-| 06 | May 02 *13:15-17:00* | Lindholmen | Supervision | 
-| 07 | May 09 *13:15-17:00* | Lindholmen | Supervision | 
-| 08 | May 16 *13.15-17.00* | Lindholmen | Supervision |  
-| 09 | May 23 *08:00-12:00* | Lindholmen | Final presentation |
-| 10 | Jun 01 *17:00*       |            | Sign Off | 
+| Wk     | Date & Time          | Room       | Topic        | 
+| ------ | ------	        | ------     | ------ |  
+| 01     | Mar 19 *13:15-15:00* | VasaC      | [Course introduction][L1] | 
+|        | Mar 19 *15:15-17:00* | VasaC      | [Kata][L2p] & [Template][L2t] | 
+|        | Mar 21 *13:15-17:00* | VasaC      | [Lego Exercise][L3] | 
+|        | Mar 23 *13:15-15:00* | VasaC      | [Scrum][L4] | 
+| 02     | Mar 26 *13:15-15:00* | VasaC      | [Software quality][L5] | 
+|        | Mar 28 *13:15-15:00* | VasaC      | Project Introduction   | 
+| 03     | Apr 09 *13:15-15:00* | VasaC      | [MVP Exercise][L7] | 
+|        | Apr 11 *13:15-17:00* | Lindholmen | Supervision | 
+|        | Apr 13 *13:15-15:00* | VasaC      | Guest lecture |
+| 04     | Apr 18 *13:15-17:00* | Lindholmen | Supervision | 
+| 05     | Apr 25 *13:15-17:00* | Lindholmen | Supervision | 
+| 06     | May 02 *13:15-17:00* | Lindholmen | Supervision | 
+| 07     | May 09 *13:15-17:00* | Lindholmen | Supervision | 
+| 08     | May 16 *13.15-17.00* | Lindholmen | Supervision |  
+| 09     | May 23 *08:00-12:00* | Lindholmen | Final presentation |
+| 10     | Jun 01 *17:00*       |            | Sign Off | 
 
 ## Examination
 The assessment is done on both individual and team level. The assessment is done in terms of reflecting on pre-defined topics. Smith states that reflection is "assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap" (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. New Directions for Teaching and Learning, vol. 88, 2001, pp. 51-62). which can be boiled down to describing ... 
