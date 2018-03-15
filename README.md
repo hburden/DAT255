@@ -87,12 +87,9 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 10     | Jun 01 *17:00*       |            | Sign Off | 
 
 ## Examination
-The assessment is done on both individual and team level. The assessment is done in terms of reflecting on pre-defined topics. Smith states that reflection is "assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap" (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. New Directions for Teaching and Learning, vol. 88, 2001, pp. 51-62). which can be boiled down to describing ...
-
-... the current situation (A),
-
-... what you want the situation to be (B), and
-
+The assessment is done on both individual and team level. The assessment is done in terms of reflecting on pre-defined topics. Smith states that reflection is "assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap" (R. Smith. Formative Evaluation and the Scholarship of Teaching and Learning. New Directions for Teaching and Learning, vol. 88, 2001, pp. 51-62). which can be boiled down to describing ...  
+... the current situation (A),  
+... what you want the situation to be (B), and  
 ... a plan for getting from where you are to where you want to be (A -> B).
 
 Each step is worth one point per topic, so that the maximum points for a topic is 3. But you can only score a point for a step if you received a point for the previous step(s). This means you get 0 points for only describing where you want to be since you don't have a point for describing the current situation. That also means that you can not reflect in week n if you have not recorded a reflection for week n-1, since this means that the chain of reflection is broken. We will only assign points to the last iteration (week 9) which should summarise and synthesise the learning from the previous iterations ("what is"), describe what you would like to do in a similar future project ("what might or should be") and how you can make the change come true ("feedback designed to reduce the gap").
