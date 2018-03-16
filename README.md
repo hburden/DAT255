@@ -110,7 +110,7 @@ As a team you should reflect on the following topics:
 - the behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
 - the structural overview of your application (such as class diagrams, domain models or component diagrams)
 - your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
-- the three KPIs you use for monitoring your progress (not applicable the first week)
+- the three KPIs you use for monitoring your progress
 - code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
 - the roles you have used within the team 
 - the agile practices you have used for the current sprint
