@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2018
 
 ## News
+- Mar 21: Today the student office assigned student representatives, please check below for further information 
 - Mar 21: Today we have the Lego Scrum Exercise and in order to better understand if the exercise supports the intended learning objectives we would like you to fill out a [survey](https://goo.gl/forms/1l3nlWcLZMjSnJLz1) *after the exercise*
 - Mar 15: The schedule is now updated with content for the lectures. This was unfortunately delayed due to having to negotiate  meetings at other locations, sorry for this. The slides are tentative and there to indicate the content of each lecture, they will most probably be updated the same day as the lecture to accommodate changes conducted for this course instance. 
 - Mar 02: In comparison to the last iteration of the course we have changed the examination to better reflect the learning objectives and changed the topic of the project. The examination is now clearly split into individual and team assessment, has a stronger focus on how to learn new technologies (from experience the most challenging learning objective) and has the same structure throughout the course (instead of varying over weeks). The topic this time will be manintenance and evolution of maritime IT applications instead of development of autonomous vehicles. 
@@ -43,7 +44,11 @@ Since a substantial part of the work is conducted in teams, please consider the 
 
 | Program | E-mail | Name | 
 | ------  |  ------	                 | -----	     | 
-
+| TKIEK   | johneri@student.chalmers.se     | JOHN ERIKSSON |
+| TKIEK   | rebhje@student.chalmers.se      | REBECCA HJERTONSSON |
+| TKIEK   | mhult@student.chalmers.se       | MATTIAS HULT |
+| TKIEK   | marmarkl@student.chalmers.se    | MARTIN MARKLUND |
+| TKIEK   | konradm@student.chalmers.se     | KONRAD MORZKOWSKI |
 
 ## Course Literature 
 Agile:
