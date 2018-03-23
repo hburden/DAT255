@@ -78,7 +78,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 01     | Mar 19 *13:15-15:00* | VasaC      | [Course introduction][L1] | 
 |        | Mar 19 *15:15-17:00* | VasaC      | [Kata][L2p] & [Template][L2t] | 
 |        | Mar 21 *13:15-17:00* | VasaC      | [Lego Exercise][L3] | 
-|        | Mar 23 *13:15-15:00* | VasaC      | [Scrum][L4] | 
+|        | Mar 23 *13:15-15:00* | VasaC      | [Scrum][L3] | 
 | 02     | Mar 26 *13:15-15:00* | VasaC      | [Software quality][L5] | 
 |        | Mar 28 *13:15-15:00* | VasaC      | Project Introduction   | 
 | 03     | Apr 09 *13:15-15:00* | VasaC      | [MVP Exercise][L7] | 
@@ -148,7 +148,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Lego.pdf?raw=true
-[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-AssessmentScrum.pdf?raw=true
+[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L3-NewScrum.pdf?raw=true
 [L2p]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Kata.pdf?raw=true
 [L2t]: https://github.com/hburden/DAT255/blob/master/Extras/KataTest.pptx?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
