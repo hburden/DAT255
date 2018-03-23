@@ -148,7 +148,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
 [L1]: https://github.com/hburden/DAT255/blob/master/Slides/L1-Introduction.pdf?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Lego.pdf?raw=true
-[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-AssessmentScrum.pdf?raw=true
+[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Scrum.pdf?raw=true
 [L2p]: https://github.com/hburden/DAT255/blob/master/Slides/L2-Kata.pdf?raw=true
 [L2t]: https://github.com/hburden/DAT255/blob/master/Extras/KataTest.pptx?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
