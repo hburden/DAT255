@@ -11,7 +11,9 @@
 ## Course description
 The course consists of two phases. The first phase consists of three weeks and is used to introduce the course topics through lectures and exercises. During the first week the students form a scrum development team. The second phase consists of six weeks and centres around weekly supervision. During this phase the teams work together to develop applications for a specific purpose. Through guest lectures the students are given the opportunity to reflect on how their own work relates to what professional software engineers do and to put their own experiences into a bigger picture. The second phase finishes with a final presentation the week for the examination week. The examination week can be used for writing the final reflection. 
 
-The majority of the course work is done in project teams. The topic this time is within maritime IT and the case will be introduced in more detail on the March 28th lecture. The aim is to have ten teams so you will be approximately six students per team.  
+The majority of the course work is done in project teams. The topic this time is within maritime IT and the case will be introduced in more detail on the March 28th lecture. The existing application can be found both on [GooglePlay](https://play.google.com/store/apps/details?id=se.viktoria.portablecdm&hl=en) and the [App Store](https://itunes.apple.com/US/app/id1278240361?mt=8) The aim is to have ten teams so you will be approximately eight students per team. 
+
+
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
