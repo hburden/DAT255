@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2018
 
 ## News
+- Ma2 27: Added some material under Course Literature that was recommended by the Product Owners to better understand the shipping industry and how IT is changing the business  
 - Mar 23: There is now a [Slack channel](https://join.slack.com/t/dat255group/shared_invite/enQtMzM0NTYxMDEwNjQ2LTllNWQ5YWE2Y2I2YTFlZjY4YTIzZThjNWM0OWQ3NjQyOGZkMmJmYzhlNTI3ZWNjMTA2YjE5Nzc5ZTY0MDNlYTg)  for the course. The channel can be used for asking questions to the teachers, collaborating across teams, looking for team members or a team but also for technical support after Easter.
 - Mar 21: Today the student office assigned student representatives, please check below for further information 
 - Mar 21: Today we have the Lego Scrum Exercise and in order to better understand if the exercise supports the intended learning objectives we would like you to fill out a [survey](https://goo.gl/forms/1l3nlWcLZMjSnJLz1) *after the exercise*
