@@ -11,9 +11,7 @@
 ## Course description
 The course consists of two phases. The first phase consists of three weeks and is used to introduce the course topics through lectures and exercises. During the first week the students form a scrum development team. The second phase consists of six weeks and centres around weekly supervision. During this phase the teams work together to develop applications for a specific purpose. Through guest lectures the students are given the opportunity to reflect on how their own work relates to what professional software engineers do and to put their own experiences into a bigger picture. The second phase finishes with a final presentation the week for the examination week. The examination week can be used for writing the final reflection. 
 
-The majority of the course work is done in project teams. The topic this time is within maritime IT and the case will be introduced in more detail on the March 28th lecture. The existing application can be found both on [Google Play](https://play.google.com/store/apps/details?id=se.viktoria.portablecdm&hl=en) and the [App Store](https://itunes.apple.com/US/app/id1278240361?mt=8) The aim is to have ten teams so you will be approximately eight students per team. 
-
-
+The majority of the course work is done in project teams. The topic this time is within maritime IT and the case will be introduced in more detail on the March 28th lecture. The existing application can be found both on [Google Play](https://play.google.com/store/apps/details?id=se.viktoria.portablecdm&hl=en) and the [App Store](https://itunes.apple.com/US/app/id1278240361?mt=8). The aim is to have ten teams so you will be approximately eight students per team. 
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
@@ -72,6 +70,19 @@ Vision:
 <!--Business Model Canvas:
 - A short [YouTube film](https://youtu.be/QoAOzMTLP5s)
 - Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)-->
+
+Maritime IT:
+- [The case where less optimal operations lead to better efficiency](https://fathom.world/case-less-optimal-operations-lead-better-efficiency/)
+- [Is it too late for shipping to collaborate to improve?](https://fathom.world/late-shipping-collaborate-improve/)
+- [Who controls the optimisation button?](https://fathom.world/controls-optimisation-button/)
+- [Ports, Walmart and the Tragedy of the Commons](https://fathom.world/ports-walmart-tragedy-commons/)
+- [Proving that port-to-port communication can save shipowners money](https://fathom.world/proving-port-port-communication-can-save-shipowners-money/)
+- [Global port operations can save up to $12bn annually with better communication](https://fathom.world/12bn-global-port-savings/)
+- [Shipping Podcast](https://shippingpodcast.com/introduction/) by Lena Göthberg 
+-- The Port CDM group made a map of all stakeholders involved in a port call, they call it [the metro-map](https://shippingpodcast.com/mikael-lind-associate-professor-research-institutes-sweden-rise-viktoria/), you can find it on the Facebook page of the Shipping Podcast. When looking at the #metromap it becomes obvious that if all parties involved had the same information about what and when things will happen, a lot of time will be saved. And time is money.
+-- Professor [Richard Watson](https://shippingpodcast.com/professor-richard-watson/) is world famous internet strategist. He is currently researching ecological sustainability, energy informatics and information system leadership. As Richard is a teacher, we deviate into other areas, which he can explain so easily and pedagogically, we speak about the Business Model You, which we can highly recommend, download the pdf and start cracking! Richard gives a lot of good examples from other industries which has already managed to transform themselves into a service business, where he thinks that the shipping industry has to go. He gives 4 value propositions for the industry and he explains that shipping is a complex adaptive system.
+
+
 
 ## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
