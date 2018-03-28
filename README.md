@@ -12,7 +12,7 @@
 ## Course description
 The course consists of two phases. The first phase consists of three weeks and is used to introduce the course topics through lectures and exercises. During the first week the students form a scrum development team. The second phase consists of six weeks and centres around weekly supervision. During this phase the teams work together to develop applications for a specific purpose. Through guest lectures the students are given the opportunity to reflect on how their own work relates to what professional software engineers do and to put their own experiences into a bigger picture. The second phase finishes with a final presentation the week for the examination week. The examination week can be used for writing the final reflection. 
 
-The majority of the course work is done in project teams. The topic this time is within maritime IT and the case will be introduced in more detail on the March 28th lecture. The existing application can be found both on [Google Play](https://play.google.com/store/apps/details?id=se.viktoria.portablecdm&hl=en) and the [App Store](https://itunes.apple.com/US/app/id1278240361?mt=8). The aim is to have ten teams so you will be approximately eight students per team. 
+The majority of the course work is done in project teams. The topic this time is within maritime IT and the case is to tailor a generic app for the specific needs and wishes of one of the actors operating in a port. The existing application can be found both on [Google Play](https://play.google.com/store/apps/details?id=se.viktoria.portablecdm&hl=en) and the [App Store](https://itunes.apple.com/US/app/id1278240361?mt=8). To give you an initial idea of the needs and wishes of the actors there is a [scenario][scenario] that describes typical port operations and their dependencies. The aim is to have ten teams so you will be approximately eight students per team. 
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
@@ -95,7 +95,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |        | Mar 21 *13:15-17:00* | VasaC      | [Lego Exercise][L3] | 
 |        | Mar 23 *13:15-15:00* | VasaC      | [Scrum][L4] | 
 | 02     | Mar 26 *13:15-15:00* | VasaC      | [Software quality][L5] | 
-|        | Mar 28 *13:15-15:00* | VasaC      | Project Introduction   | 
+|        | Mar 28 *13:15-15:00* | VasaC      | [Project Introduction][L6]   | 
 | 03     | Apr 09 *13:15-15:00* | VasaC      | [MVP Exercise][L7] | 
 |        | Apr 11 *13:15-17:00* | Lindholmen | Supervision | 
 |        | Apr 13 *13:15-15:00* | VasaC      | Guest lecture |
@@ -191,3 +191,4 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [MOPED]: https://github.com/sics-sse/moped
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
+[scenario]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario.pdf?raw=true
