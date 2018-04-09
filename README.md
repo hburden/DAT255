@@ -168,7 +168,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L2t]: https://github.com/hburden/DAT255/blob/master/Extras/KataTest.pptx?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Project.pdf?raw=true
-[L7]: https://github.com/hburden/DAT255/blob/master/Slides/L7-Slicing.pdf?raw=true
+[L7]: https://github.com/hburden/DAT255/blob/master/Slides/L7-MVP.pdf?raw=true
 [L6M]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectMotivation.pdf?raw=true
 [L6S]: https://github.com/hburden/DAT255/blob/master/Slides/L6-ProjectSystem.pdf?raw=true
 [L7E]: https://github.com/hburden/DAT255/blob/master/Slides/L7-ScrumRevisited.pdf?raw=true
