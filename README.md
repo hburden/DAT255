@@ -194,5 +194,5 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [scenario]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario.pdf?raw=true
-[Scenario1]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario1.pdf?raw=true
-[Scenario2]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario2.pdf?raw=true
+[Scenario1]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario1_VT-2018.pdf?raw=true
+[Scenario2]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario2_VT-2018.pdf?raw=true
