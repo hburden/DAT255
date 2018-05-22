@@ -1,6 +1,7 @@
 # Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2018
 
 ## News
+- May 22: Here are two scenarios for tomorrow's final presentation. Some teams will be active in both scenarios while some teams are only participating in one scenario, the actors in each scenario are highlighted in the beginning of the document: [Scenario1] and [Scenario2]
 - Mar 27: Added some material under Course Literature that was recommended by the Product Owners to better understand the shipping industry and how IT is changing the business  
 - Mar 23: There is now a [Slack channel](https://join.slack.com/t/dat255group/shared_invite/enQtMzM0NTYxMDEwNjQ2LTllNWQ5YWE2Y2I2YTFlZjY4YTIzZThjNWM0OWQ3NjQyOGZkMmJmYzhlNTI3ZWNjMTA2YjE5Nzc5ZTY0MDNlYTg)  for the course. The channel can be used for asking questions to the teachers, collaborating across teams, looking for team members or a team but also for technical support after Easter.
 - Mar 21: Today the student office assigned student representatives, please check below for further information 
@@ -193,3 +194,5 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [pv1]: http://www.scrumalliance.org/community/articles/2009/january/the-product-vision
 [pv2]: http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html
 [scenario]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario.pdf?raw=true
+[Scenario1]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario1.pdf?raw=true
+[Scenario2]: https://github.com/hburden/DAT255/blob/master/Extras/Scenario2.pdf?raw=true
