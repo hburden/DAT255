@@ -1,37 +1,28 @@
-# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2018
+# Course PM for DAT256 Software Engineering Project 7.5 HEC, Autumn 2018
 
 ## News
-- May 22: Here are two scenarios for tomorrow's final presentation. Some teams will be active in both scenarios while some teams are only participating in one scenario, the actors in each scenario are highlighted in the beginning of the document: [Scenario1] and [Scenario2]
-- Mar 27: Added some material under Course Literature that was recommended by the Product Owners to better understand the shipping industry and how IT is changing the business  
-- Mar 23: There is now a [Slack channel](https://join.slack.com/t/dat255group/shared_invite/enQtMzM0NTYxMDEwNjQ2LTllNWQ5YWE2Y2I2YTFlZjY4YTIzZThjNWM0OWQ3NjQyOGZkMmJmYzhlNTI3ZWNjMTA2YjE5Nzc5ZTY0MDNlYTg)  for the course. The channel can be used for asking questions to the teachers, collaborating across teams, looking for team members or a team but also for technical support after Easter.
-- Mar 21: Today the student office assigned student representatives, please check below for further information 
-- Mar 21: Today we have the Lego Scrum Exercise and in order to better understand if the exercise supports the intended learning objectives we would like you to fill out a [survey](https://goo.gl/forms/1l3nlWcLZMjSnJLz1) *after the exercise*
-- Mar 15: The schedule is now updated with content for the lectures. This was unfortunately delayed due to having to negotiate  meetings at other locations, sorry for this. The slides are tentative and there to indicate the content of each lecture, they will most probably be updated the same day as the lecture to accommodate changes conducted for this course instance. 
-- Mar 02: In comparison to the last iteration of the course we have changed the examination to better reflect the learning objectives and changed the topic of the project. The examination is now clearly split into individual and team assessment, has a stronger focus on how to learn new technologies (from experience the most challenging learning objective) and has the same structure throughout the course (instead of varying over weeks). The topic this time will be manintenance and evolution of maritime IT applications instead of development of autonomous vehicles. 
-- Mar 02: A first version of the course homepage is up and running. The homepage will be edited as the course evolves but Learning outcomes, Literature and Examination will stay as they are
 
 ## Course description
-The course consists of two phases. The first phase consists of three weeks and is used to introduce the course topics through lectures and exercises. During the first week the students form a scrum development team. The second phase consists of six weeks and centres around weekly supervision. During this phase the teams work together to develop applications for a specific purpose. Through guest lectures the students are given the opportunity to reflect on how their own work relates to what professional software engineers do and to put their own experiences into a bigger picture. The second phase finishes with a final presentation the week for the examination week. The examination week can be used for writing the final reflection. 
+The course consists of two phases. The first phase consists of two weeks and is used to introduce the course topics through lectures and exercises. During the first week the students are expected to form a scrum development team. The second phase consists of six-seven weeks and centres around weekly supervision. During this phase the teams work together to develop applications for a specific purpose. Through guest lectures the students are given the opportunity to reflect on how their own work relates to what professional software engineers do and to put their own experiences into a bigger picture. The second phase finishes with a final presentation the week before the examination week. The examination week can then be used to write the final reflection and other relevant documentation needed for signing off. 
 
-The majority of the course work is done in project teams. The topic this time is within maritime IT and the case is to tailor a generic app for the specific needs and wishes of one of the actors operating in a port. The existing application can be found both on [Google Play](https://play.google.com/store/apps/details?id=se.viktoria.portablecdm&hl=en) and the [App Store](https://itunes.apple.com/US/app/id1278240361?mt=8). There is also a [description of how to configure and use the app][AppMan]. The source code of the app can be forked from the [github repo](https://github.com/avajadi/portablecdm). There is a sandboxed backend, `http://sandbox-6.portcdm.eu`, that you can use for storing and retrieving data during the course. To give you an initial idea of the needs and wishes of the actors there is a [scenario][scenario] that describes typical port operations and their dependencies. The aim is to have ten teams so you will be approximately eight students per team. 
+The majority of the course work is done in project teams. The topic this time is Android apps within the automotive domain. The case will be introduced during the second week of the course.
 
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
 - Knowledge and understanding, the student should be able to:
-	- identify the complexities of software design and development
-	- describe the fundamentals of software engineering, such as stakeholders and requirements
-	- describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each
+	- describe software engineering uses appropriate terminology
+	- describe the relationship between stakeholders, process and product
 
 - Skills and abilities, the student should be able to:
-	- elicitate requirements from and design a solution to a real-world problem
-	- plan and execute a small software development project in a team
-	- apply skills from programming courses and other relevant courses in a project-like environment
-	- learn new tools and APIs on his/her own
+	- specify, implement and evaluate
+	- learn how to use project-relevant tools and APIs together with their peers
+	- apply a structured development process as part of a team
 
 - Judgement and approach, the student should be able to:
-	- reflect on the choice of software engineering methods used in the project
+  	- reflect over how the development process was applied in the project
+	- reflect over both the own and the team's learning strategies
 
-Since a substantial part of the work is conducted in teams, please consider the [Chalmers rules regarding your work conditions][CRS]. If you encounter problems, contact Håkan immediately!
+Since a substantial part of the work is conducted in teams, please consider the [Chalmers rules regarding your work conditions][CRS]. If you encounter problems, contact a course teacher immediately!
 
 ## Teachers
 
@@ -46,12 +37,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 ## Student Representatives
 
 | Program | E-mail | Name | 
-| ------  |  ------	                 | -----	     | 
-| TKIEK   | johneri@student.chalmers.se     | JOHN ERIKSSON |
-| TKIEK   | rebhje@student.chalmers.se      | REBECCA HJERTONSSON |
-| TKIEK   | mhult@student.chalmers.se       | MATTIAS HULT |
-| TKIEK   | marmarkl@student.chalmers.se    | MARTIN MARKLUND |
-| TKIEK   | konradm@student.chalmers.se     | KONRAD MORZKOWSKI |
+|         |        | TBD  |
 
 ## Course Literature 
 Agile:
@@ -73,40 +59,24 @@ Vision:
 - A short [YouTube film](https://youtu.be/QoAOzMTLP5s)
 - Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)-->
 
-Maritime IT:
-- [The case where less optimal operations lead to better efficiency](https://fathom.world/case-less-optimal-operations-lead-better-efficiency/)
-- [Is it too late for shipping to collaborate to improve?](https://fathom.world/late-shipping-collaborate-improve/)
-- [Who controls the optimisation button?](https://fathom.world/controls-optimisation-button/)
-- [Ports, Walmart and the Tragedy of the Commons](https://fathom.world/ports-walmart-tragedy-commons/)
-- [Proving that port-to-port communication can save shipowners money](https://fathom.world/proving-port-port-communication-can-save-shipowners-money/)
-- [Global port operations can save up to $12bn annually with better communication](https://fathom.world/12bn-global-port-savings/)
-- [Shipping Podcast](https://shippingpodcast.com/introduction/) by Lena Göthberg 
-	- The Port CDM group made a map of all stakeholders involved in a port call, they call it [the metro-map](https://shippingpodcast.com/mikael-lind-associate-professor-research-institutes-sweden-rise-viktoria/), you can find it on the Facebook page of the Shipping Podcast. When looking at the #metromap it becomes obvious that if all parties involved had the same information about what and when things will happen, a lot of time will be saved. And time is money.
-	- Professor [Richard Watson](https://shippingpodcast.com/professor-richard-watson/) is world famous internet strategist. He is currently researching ecological sustainability, energy informatics and information system leadership. As Richard is a teacher, we deviate into other areas, which he can explain so easily and pedagogically, we speak about the Business Model You, which we can highly recommend, download the pdf and start cracking! Richard gives a lot of good examples from other industries which has already managed to transform themselves into a service business, where he thinks that the shipping industry has to go. He gives 4 value propositions for the industry and he explains that shipping is a complex adaptive system.
-
-
+Android:
+- Useful [patterns for Android][AndroidPatterns] applications
 
 ## Schedule
 The details of the lectures, exercises, workshops and deliverables will be explained during the first lecture. As we strive to mirror the [TimeEdit] schedule, please inform us if you find any differences! 
 
 | Wk     | Date & Time          | Room       | Topic  | 
 | ------ | ------	        | ------     | ------ |  
-| 01     | Mar 19 *13:15-15:00* | VasaC      | [Course introduction][L1] | 
-|        | Mar 19 *15:15-17:00* | VasaC      | [Kata][L2p] & [Template][L2t] | 
-|        | Mar 21 *13:15-17:00* | VasaC      | [Lego Exercise][L3] | 
-|        | Mar 23 *13:15-15:00* | VasaC      | [Scrum][L4] | 
-| 02     | Mar 26 *13:15-15:00* | VasaC      | [Software quality][L5] | 
-|        | Mar 28 *13:15-15:00* | VasaC      | [Project Introduction][L6]   | 
-| 03     | Apr 09 *13:15-15:00* | VasaC      | [MVP Exercise][L7] | 
-|        | Apr 11 *13:15-17:00* | Lindholmen | Supervision | 
-|        | Apr 13 *13:15-15:00* | VasaC      | Guest lecture |
-| 04     | Apr 18 *13:15-17:00* | Lindholmen | Supervision | 
-| 05     | Apr 25 *13:15-17:00* | Lindholmen | Supervision | 
-| 06     | May 02 *13:15-17:00* | Lindholmen | Supervision | 
-| 07     | May 09 *13:15-17:00* | Lindholmen | Supervision | 
-| 08     | May 16 *13.15-17.00* | Lindholmen | Supervision |  
-| 09     | May 23 *08:00-12:00* | Lindholmen | Final presentation |
-| 10     | Jun 01 *17:00*       |            | Sign Off | 
+| 01     | Sep 03 *08:00-09:45* | Gamma      | [Software Engineering][L1] | 
+|        | Sep 03 *10:00-11:45* | Gamma      | [Kata][L2p] & [Template][L2t] | 
+|        | Sep 04 *08:00-11:45* | Jupiter122 | [Lego Exercise][L3] | 
+|        | Sep 05 *10:00-11:45* | Svea219    | [Software Engineering cnt.][L4] | 
+| 02     | Sep 10 *10:00-11:45* | Svea226    | [Project Introduction][L5] | 
+|        | Sep 11 *10:00-11:45* | Svea219    |    |
+|        | Sep 12 *10:00-11:45* | Gamma      | [MVP Exercise][L7] |
+| 03-07  | *10:00-11:45*| Lindholmen | Supervision |  
+| 08     | TBD | TBD | Final presentation |
+| 09     | Nov 02 *17:00*       |            | Sign Off | 
 
 ## Examination
 The assessment is done on both individual and team level. The assessment is done in terms of reflecting on pre-defined topics. Smith states that reflection is "assessment of what is in relation to what might or should be and includes feedback designed to reduce the gap" (R. Smith, *Formative Evaluation and the Scholarship of Teaching and Learning*, New Directions for Teaching and Learning, vol. 88, 2001, pp. 51-62) which can be boiled down to describing ...  
