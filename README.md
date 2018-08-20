@@ -1,6 +1,6 @@
 ﻿# Course PM for Software Engineering Project (DAT255/DIT543) 7.5 HEC, Spring 2018
 
-The course has been updated with new Intended Learning Objectives and has subsequently been given a new course code. The new course has its own repo, [DAT256][https://github.com/hburden/DAT256].
+The course has been updated with new Intended Learning Objectives and has subsequently been given a new course code. The new course has its own repo, [DAT256](https://github.com/hburden/DAT256).
 
 ## News
 - May 22: Here are two scenarios for tomorrow's final presentation. Some teams will be active in both scenarios while some teams are only participating in one scenario, the actors in each scenario are highlighted in the beginning of the document: [Scenario1] and [Scenario2]
